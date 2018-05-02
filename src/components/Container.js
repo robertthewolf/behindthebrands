@@ -1,0 +1,21 @@
+import React from 'react'
+import styled from 'styled-components'
+
+const Container = ({ children, background }) => (
+  <Outer background={background}>
+      {children}
+  </Outer>
+)
+
+export default Container
+
+const Outer = styled.div`
+max-width: 1024px;
+padding: 1rem;
+margin: 2rem 0;
+background-color: ${props => props.background};
+display: flex;
+flex-wrap: wrap;
+align-items: center
+> * {
+}`
