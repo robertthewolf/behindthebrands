@@ -9,8 +9,6 @@ import Heading from '../components/Heading'
 
 export default class IndexPage extends React.Component {
 
-
-
   handleScriptLoad() {
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on('init', user => {

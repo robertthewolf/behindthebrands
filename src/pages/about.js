@@ -17,15 +17,14 @@ export default class AboutPage extends React.Component {
             <Heading>About Me</Heading>
             <Container background="#FFFCF7">
               <Column>
-                <h2>We believe in brands with...</h2>
+                <Believe>We believe in brands with...</Believe>
               </Column>
               <Column>
                 <Values>
-                  <Value>distinctions</Value>
-                  <Value>distinctions</Value>
-                  <Value>distinctions</Value>
-                  <Value>distinctions</Value>
-                  <Value>distinctions</Value>
+                  <Value><em>DISTINCTIONS</em></Value>
+                  <Value><em>MISSION</em>, <em>FEELINGS</em> and <em>STORY</em> that resonate with people. </Value>
+                  <Value><em>DIGITAL AND SOCIAL PRESENCE</em> that allow to clearly, easily <em>TRACE & OPTIMIZE</em> all marketing activities.</Value>
+                  <Value>properly defined <em>KPIs</em> that <em>CREATE RESOURCES</em> and not burn them.</Value>
                 </Values>
               </Column>
             </Container>
@@ -56,13 +55,17 @@ Her experience with Estée Lauder, L’Oréal, Lasvit and special event manageme
 }
 
 
-
 const Column = styled.div`
 width: 50%
 display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center`
+
+const Believe = styled.h2`
+padding-left: 1rem;
+border-left: .5rem solid black;
+border-style: double;`
 
 const Values = styled.ul`
 list-style-type: none;`

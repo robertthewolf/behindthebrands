@@ -17,5 +17,7 @@ background-color: ${props => props.background};
 display: flex;
 flex-wrap: wrap;
 align-items: center
+opacity: 0
+animation: showUp .3s ease .3s forwards;
 > * {
 }`

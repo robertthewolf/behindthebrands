@@ -17,7 +17,7 @@ export default class ClientsPage extends React.Component {
             <Heading>Clients</Heading>
             <Container background="#E4E7EB">
               <Center>
-                <h2>We believe in...</h2>
+                <Believe>We believe in...</Believe>
                 <Values>
                   <Value><em>PASSION</em>, <em>EMOTIONS</em> and <em>HARD WORK.</em></Value>
                   <Value><em>CONNECTING PEOPLE</em></Value>
@@ -50,6 +50,14 @@ export default class ClientsPage extends React.Component {
 const Center = styled.div`
 width: 100%;
 text-align: center;`
+
+
+const Believe = styled.h2`
+margin-top: 2rem;
+display: inline-block;
+padding-bottom: .5rem;
+border-bottom: .5rem solid black;
+border-style: double;`
 
 const Values = styled.ul`
 list-style-type: none;`

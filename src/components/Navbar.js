@@ -11,16 +11,16 @@ const Navbar = () => (
             <img src={logo} alt="Kaldi" />
         </Link>
       </Logo>
-        <Link to="/about">
+        <Link activeClassName="active" to="/about">
           About
         </Link>
-        <Link to="/workflow">
+        <Link activeClassName="active" to="/workflow">
           Workflow
         </Link>
-        <Link to="/clients">
+        <Link activeClassName="active" to="/clients">
           Clients
         </Link>
-        <Link to="/contact">
+        <Link activeClassName="active" to="/contact">
           Contact
         </Link>
   </Nav>
@@ -34,8 +34,36 @@ max-width: 1024px
 margin: 1rem auto
 display: flex
 & > a {
-  padding: 1rem
-}`
+  margin: 1rem
+  &::before {
+    content: '';
+    position: absolute
+    left: 0
+    bottom: -.1rem
+    width: 100%
+    height: .3rem;
+    transform: scaleY(0);
+    transform-origin: center bottom;
+    transition: all .5s ease
+    background-color: black
+    opacity: .5
+  }
+  &:hover {
+    text-decoration: none;
+    &::before {
+      opacity: .3
+      transform: scaleY(1);
+    }
+  }
+  &.active {
+    &::before {
+      transform: scaleY(2);
+      opacity: .1
+    }
+  }
+}
+
+`
 
 const Logo = styled.div`
 margin-right: auto
