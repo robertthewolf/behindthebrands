@@ -42,11 +42,11 @@ display: flex
     bottom: -.1rem
     width: 100%
     height: .3rem;
-    transform: scaleY(0);
+    transform: scaleY(.5);
     transform-origin: center bottom;
     transition: all .5s ease
     background-color: black
-    opacity: .5
+    opacity: 0
   }
   &:hover {
     text-decoration: none;
