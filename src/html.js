@@ -1,12 +1,24 @@
 import React from "react"
 import PropTypes from "prop-types"
 
+const BUILD_TIME = new Date().getTime()
+
 export default class HTML extends React.Component {
   static propTypes = {
     body: PropTypes.string,
   }
 
   render() {
+    let css
+    if (process.env.NODE_ENV === "production") {
+      css = (
+        <style
+          dangerouslySetInnerHTML={{
+            __html: require("!raw!../public/styles.css"),
+          }}
+        />
+      )
+    }
 
     return (
       <html lang="en">
@@ -34,6 +46,7 @@ export default class HTML extends React.Component {
         <meta property="og:image" content="http://behindthebrands.net/facebook.png"/>
 
           {this.props.headComponents}
+          {css}
         </head>
         <body>
           <div

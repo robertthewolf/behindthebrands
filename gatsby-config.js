@@ -3,9 +3,9 @@ module.exports = {
     title: 'Behind The Brands',
   },
   plugins: [
+    'gatsby-plugin-sass',
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
