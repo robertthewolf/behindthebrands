@@ -31,12 +31,17 @@ export default class IndexPage extends React.Component {
 }
 
 const Wrapper = styled.article`
-height: calc(100vh - 88px);
 display: flex;
 flex-direction: column;
 justify-content: center
 text-align: center;
 background: linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.51) 32.04%, #FFF7F7 100%);
+
+height: calc(100vh - 88px);
+
+@media screen and (max-width: 650px) {
+  height: calc(100vh - 141px);
+}
 `
 
 
@@ -45,5 +50,9 @@ width: calc(50% - 2rem);
 padding: 1rem;
 a {
   display: block;
+}
+
+@media screen and (max-width: 800px) {
+  width: calc(100% - 2rem);
 }
 `

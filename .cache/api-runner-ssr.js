@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/Robert/btb/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/Robert/btb/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]

@@ -63,11 +63,16 @@ const Values = styled.ul`
 list-style-type: none;`
 
 const Value = styled.li`
-margin: 1rem`
+margin: 2rem 1rem`
 
 const Half = styled.p`
 width: calc(50% - 2rem);
 padding: 1rem;
+
+
+@media screen and (max-width: 800px) {
+  width: calc(100% - 2rem);
+}
 `
 
 const Quote = styled.blockquote`

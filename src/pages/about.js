@@ -60,9 +60,15 @@ width: 50%
 display: flex;
 flex-direction: column;
 justify-content: center;
-align-items: center`
+align-items: center
+
+
+@media screen and (max-width: 800px) {
+  width: 100%;
+}`
 
 const Believe = styled.h2`
+margin-top: 2rem;
 padding-left: 1rem;
 border-left: .5rem solid black;
 border-style: double;`
@@ -71,14 +77,25 @@ const Values = styled.ul`
 list-style-type: none;`
 
 const Value = styled.li`
-margin: 1rem`
+margin: 2rem 1rem`
 
 const Profile = styled.section`
-display: flex`
+display: flex
+
+@media screen and (max-width: 600px) {
+  flex-direction: column
+}`
 
 const Picture = styled.img`
 width: 50%
-align-self: flex-start`
+align-self: flex-start
+
+@media screen and (max-width: 600px) {
+  width: 100%
+  height: calc(100vw - 2rem);
+  object-fit: cover;
+  object-position: top center
+}`
 
 const AboutBox = styled.div`
 width: 50%
@@ -95,4 +112,9 @@ div {
 }
 p {
   padding: 1rem
-}`
+}
+
+@media screen and (max-width: 600px) {
+  width: 100%
+}
+`

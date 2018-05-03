@@ -52,7 +52,7 @@ export default class IndexPage extends React.Component {
             </Container>
             <Container>
               <Third> We match perfectly the<em>SPECIFIC NEEDS</em>of our clients</Third>
-              <Third><img src={arrow} alt="arrow" /></Third>
+              <Third><Arrow src={arrow} alt="arrow" /></Third>
               <Third> and transform them into<em>TANGIBLE RESULTS</em></Third>
             </Container>
       </Wrapper>
@@ -93,6 +93,10 @@ position: relative;
 const Half = styled.p`
 width: calc(50% - 2rem);
 padding: 1rem;
+
+@media screen and (max-width: 800px) {
+  width: calc(100% - 2rem);
+}
 `
 
 const Third = styled.p`
@@ -102,4 +106,14 @@ text-align: center;
 em {
   display: block;
 }
+
+@media screen and (max-width: 730px) {
+  width: calc(100% - 2rem);
+}
 `
+
+const Arrow = styled.img`
+max-width: 100%
+@media screen and (max-width: 730px) {
+  transform: rotate(90deg) scale(.3);
+}`

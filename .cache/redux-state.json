@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e10ecfaefb2473d5741aef95fc0d3d4f",
+        "contentDigest": "93045669973e3ca803a289f6eaf2ef23",
         "owner": "internal-data-bridge"
       }
     },
@@ -236,6 +236,74 @@
       "children": [],
       "internal": {
         "contentDigest": "717fde21123fad54b833f26c0be7269f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "/Users/Robert/btb/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyBabelrc"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Users/Robert/btb/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8946cd8a4aaf2a59e1b9a567f0f8b499",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -876,7 +944,7 @@
       "resolve": "/Users/Robert/btb",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "a545d720c635bc3a9d628f63e8abeab2",
+      "version": "453488e1a87dbc1ce55ea846c56b13f0",
       "pluginOptions": {
         "plugins": []
       },
@@ -922,6 +990,10 @@
           {
             "name": "gatsby-plugin-sharp",
             "version": "^1.6.42"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.11"
           },
           {
             "name": "gatsby-remark-images",
@@ -985,25 +1057,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d90a6dd6b8a4308adec99e6fd417bf59",
+        "contentDigest": "40cb5d6ab5db2634d1183f32db5e7b65",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby + Netlify CMS Starter"
+        "title": "Behind The Brands"
       },
       "port": "8000",
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-02T20:44:35.885Z",
+      "buildTime": "2018-05-03T09:52:20.258Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5cbeacdba219ab913ee27844e686814f",
+        "contentDigest": "f7904659c08d7be48cc043634e7772d4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1013,7 +1085,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4cd67612401e6766d52da04e3ad48252",
+        "contentDigest": "00d0701e593f66335c71798b724d5679",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1024,7 +1096,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-02T15:49:47.596Z",
-      "accessTime": "2018-05-02T20:44:41.803Z",
+      "accessTime": "2018-05-03T09:52:24.067Z",
       "changeTime": "2018-05-02T15:49:47.596Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
@@ -1033,7 +1105,7 @@
       "ext": "",
       "name": "data",
       "relativeDirectory": "..",
-      "dev": 16777223,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 5,
       "uid": 502,
@@ -1042,11 +1114,11 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1525293881802.873,
+      "atimeMs": 1525341144067.3438,
       "mtimeMs": 1525276187595.525,
       "ctimeMs": 1525276187595.525,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-02T20:44:41.803Z",
+      "atime": "2018-05-03T09:52:24.067Z",
       "mtime": "2018-05-02T15:49:47.596Z",
       "ctime": "2018-05-02T15:49:47.596Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
@@ -1056,7 +1128,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1428ceb0cc00b3d6fe5da7132834f4df",
+        "contentDigest": "ec8d1d650e4b70bdf581adbe8138f17d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1067,7 +1139,7 @@
       "size": 64,
       "prettySize": "64 B",
       "modifiedTime": "2018-05-02T15:49:47.596Z",
-      "accessTime": "2018-05-02T20:44:41.805Z",
+      "accessTime": "2018-05-03T09:52:24.070Z",
       "changeTime": "2018-05-02T15:49:47.596Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1076,7 +1148,7 @@
       "ext": "",
       "name": "references",
       "relativeDirectory": "",
-      "dev": 16777223,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 2,
       "uid": 502,
@@ -1085,11 +1157,11 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1525293881804.6868,
+      "atimeMs": 1525341144070.3596,
       "mtimeMs": 1525276187595.5085,
       "ctimeMs": 1525276187595.5085,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-02T20:44:41.805Z",
+      "atime": "2018-05-03T09:52:24.070Z",
       "mtime": "2018-05-02T15:49:47.596Z",
       "ctime": "2018-05-02T15:49:47.596Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
@@ -1113,7 +1185,7 @@
       "size": 139,
       "prettySize": "139 B",
       "modifiedTime": "2018-05-01T14:48:44.729Z",
-      "accessTime": "2018-05-01T14:48:45.755Z",
+      "accessTime": "2018-05-02T16:10:18.657Z",
       "changeTime": "2018-05-01T14:48:44.729Z",
       "birthTime": "2018-05-01T14:47:30.906Z",
       "root": "/",
@@ -1131,11 +1203,11 @@
       "blksize": 4194304,
       "ino": 8602581291,
       "blocks": 8,
-      "atimeMs": 1525186125754.6787,
+      "atimeMs": 1525277418656.8762,
       "mtimeMs": 1525186124729.2007,
       "ctimeMs": 1525186124729.2007,
       "birthtimeMs": 1525186050905.5264,
-      "atime": "2018-05-01T14:48:45.755Z",
+      "atime": "2018-05-02T16:10:18.657Z",
       "mtime": "2018-05-01T14:48:44.729Z",
       "ctime": "2018-05-01T14:48:44.729Z",
       "birthtime": "2018-05-01T14:47:30.906Z"
@@ -1159,7 +1231,7 @@
       "size": 2379,
       "prettySize": "2.38 kB",
       "modifiedTime": "2018-05-01T15:05:23.295Z",
-      "accessTime": "2018-05-02T15:49:35.577Z",
+      "accessTime": "2018-05-02T20:44:42.212Z",
       "changeTime": "2018-05-01T15:05:23.295Z",
       "birthTime": "2018-05-01T14:47:39.667Z",
       "root": "/",
@@ -1177,11 +1249,11 @@
       "blksize": 4194304,
       "ino": 8602581292,
       "blocks": 8,
-      "atimeMs": 1525276175577.0425,
+      "atimeMs": 1525293882212.4917,
       "mtimeMs": 1525187123294.6973,
       "ctimeMs": 1525187123294.6973,
       "birthtimeMs": 1525186059666.729,
-      "atime": "2018-05-02T15:49:35.577Z",
+      "atime": "2018-05-02T20:44:42.212Z",
       "mtime": "2018-05-01T15:05:23.295Z",
       "ctime": "2018-05-01T15:05:23.295Z",
       "birthtime": "2018-05-01T14:47:39.667Z"
@@ -1237,7 +1309,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a4421c33fd8beb85804842e8f6002000",
+        "contentDigest": "a5c3cd9172dcf8f4fe280d9598ed9af5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1247,9 +1319,9 @@
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2018-05-02T15:15:53.064Z",
-      "accessTime": "2018-05-02T20:44:41.812Z",
-      "changeTime": "2018-05-02T15:15:53.064Z",
+      "modifiedTime": "2018-05-03T09:50:54.210Z",
+      "accessTime": "2018-05-03T09:52:24.082Z",
+      "changeTime": "2018-05-03T09:50:54.210Z",
       "birthTime": "2018-04-18T16:11:37.961Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src",
@@ -1257,7 +1329,7 @@
       "ext": "",
       "name": "img",
       "relativeDirectory": "..",
-      "dev": 16777223,
+      "dev": 16777220,
       "mode": 16877,
       "nlink": 6,
       "uid": 502,
@@ -1266,102 +1338,14 @@
       "blksize": 4194304,
       "ino": 8602121777,
       "blocks": 0,
-      "atimeMs": 1525293881811.977,
-      "mtimeMs": 1525274153063.9426,
-      "ctimeMs": 1525274153063.9426,
+      "atimeMs": 1525341144082.0745,
+      "mtimeMs": 1525341054210.065,
+      "ctimeMs": 1525341054210.065,
       "birthtimeMs": 1524067897961.3975,
-      "atime": "2018-05-02T20:44:41.812Z",
-      "mtime": "2018-05-02T15:15:53.064Z",
-      "ctime": "2018-05-02T15:15:53.064Z",
+      "atime": "2018-05-03T09:52:24.082Z",
+      "mtime": "2018-05-03T09:50:54.210Z",
+      "ctime": "2018-05-03T09:50:54.210Z",
       "birthtime": "2018-04-18T16:11:37.961Z"
-    },
-    "/Users/Robert/btb/src/img/arrow.svg absPath of file": {
-      "id": "/Users/Robert/btb/src/img/arrow.svg absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cd7a313997c35b9bb6ea83f60fdde1f3",
-        "mediaType": "image/svg+xml",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/src/img/arrow.svg",
-      "relativePath": "arrow.svg",
-      "extension": "svg",
-      "size": 951,
-      "prettySize": "951 B",
-      "modifiedTime": "2018-05-02T15:16:26.185Z",
-      "accessTime": "2018-05-02T15:16:27.322Z",
-      "changeTime": "2018-05-02T15:16:26.185Z",
-      "birthTime": "2018-05-02T15:15:53.064Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/img",
-      "base": "arrow.svg",
-      "ext": ".svg",
-      "name": "arrow",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602627699,
-      "blocks": 8,
-      "atimeMs": 1525274187321.829,
-      "mtimeMs": 1525274186184.9775,
-      "ctimeMs": 1525274186184.9775,
-      "birthtimeMs": 1525274153063.9285,
-      "atime": "2018-05-02T15:16:27.322Z",
-      "mtime": "2018-05-02T15:16:26.185Z",
-      "ctime": "2018-05-02T15:16:26.185Z",
-      "birthtime": "2018-05-02T15:15:53.064Z"
-    },
-    "/Users/Robert/btb/src/img/.DS_Store absPath of file": {
-      "id": "/Users/Robert/btb/src/img/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/src/img/.DS_Store",
-      "relativePath": ".DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-05-01T14:39:29.390Z",
-      "accessTime": "2018-05-01T14:39:29.389Z",
-      "changeTime": "2018-05-01T14:39:29.390Z",
-      "birthTime": "2018-05-01T14:39:29.389Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/img",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "",
-      "dev": 16777223,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602581140,
-      "blocks": 16,
-      "atimeMs": 1525185569388.9348,
-      "mtimeMs": 1525185569389.7148,
-      "ctimeMs": 1525185569389.7148,
-      "birthtimeMs": 1525185569388.9348,
-      "atime": "2018-05-01T14:39:29.389Z",
-      "mtime": "2018-05-01T14:39:29.390Z",
-      "ctime": "2018-05-01T14:39:29.390Z",
-      "birthtime": "2018-05-01T14:39:29.389Z"
     },
     "/Users/Robert/btb/src/img/logo.svg absPath of file": {
       "id": "/Users/Robert/btb/src/img/logo.svg absPath of file",
@@ -1380,7 +1364,7 @@
       "size": 9724,
       "prettySize": "9.72 kB",
       "modifiedTime": "2018-04-18T16:22:22.053Z",
-      "accessTime": "2018-05-02T13:14:26.178Z",
+      "accessTime": "2018-05-02T20:44:56.633Z",
       "changeTime": "2018-04-18T16:22:22.053Z",
       "birthTime": "2018-04-18T16:11:37.962Z",
       "root": "/",
@@ -1398,14 +1382,102 @@
       "blksize": 4194304,
       "ino": 8602121779,
       "blocks": 24,
-      "atimeMs": 1525266866177.8315,
+      "atimeMs": 1525293896632.519,
       "mtimeMs": 1524068542052.5703,
       "ctimeMs": 1524068542052.5703,
       "birthtimeMs": 1524067897962.2751,
-      "atime": "2018-05-02T13:14:26.178Z",
+      "atime": "2018-05-02T20:44:56.633Z",
       "mtime": "2018-04-18T16:22:22.053Z",
       "ctime": "2018-04-18T16:22:22.053Z",
       "birthtime": "2018-04-18T16:11:37.962Z"
+    },
+    "/Users/Robert/btb/src/img/arrow.svg absPath of file": {
+      "id": "/Users/Robert/btb/src/img/arrow.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cd7a313997c35b9bb6ea83f60fdde1f3",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/src/img/arrow.svg",
+      "relativePath": "arrow.svg",
+      "extension": "svg",
+      "size": 951,
+      "prettySize": "951 B",
+      "modifiedTime": "2018-05-02T15:16:26.185Z",
+      "accessTime": "2018-05-02T20:44:56.633Z",
+      "changeTime": "2018-05-02T15:16:26.185Z",
+      "birthTime": "2018-05-02T15:15:53.064Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/img",
+      "base": "arrow.svg",
+      "ext": ".svg",
+      "name": "arrow",
+      "relativeDirectory": "",
+      "dev": 16777223,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602627699,
+      "blocks": 8,
+      "atimeMs": 1525293896632.505,
+      "mtimeMs": 1525274186184.9775,
+      "ctimeMs": 1525274186184.9775,
+      "birthtimeMs": 1525274153063.9285,
+      "atime": "2018-05-02T20:44:56.633Z",
+      "mtime": "2018-05-02T15:16:26.185Z",
+      "ctime": "2018-05-02T15:16:26.185Z",
+      "birthtime": "2018-05-02T15:15:53.064Z"
+    },
+    "/Users/Robert/btb/src/img/.DS_Store absPath of file": {
+      "id": "/Users/Robert/btb/src/img/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c7336a5a7c806dcca63c89790fabbff2",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/src/img/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 8196,
+      "prettySize": "8.2 kB",
+      "modifiedTime": "2018-05-03T09:50:01.774Z",
+      "accessTime": "2018-05-03T09:49:56.812Z",
+      "changeTime": "2018-05-03T09:50:01.774Z",
+      "birthTime": "2018-05-01T14:39:29.389Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/img",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602581140,
+      "blocks": 24,
+      "atimeMs": 1525340996811.6787,
+      "mtimeMs": 1525341001773.9268,
+      "ctimeMs": 1525341001773.9268,
+      "birthtimeMs": 1525185569388.9348,
+      "atime": "2018-05-03T09:49:56.812Z",
+      "mtime": "2018-05-03T09:50:01.774Z",
+      "ctime": "2018-05-03T09:50:01.774Z",
+      "birthtime": "2018-05-01T14:39:29.389Z"
     },
     "/Users/Robert/btb/src/img/profile.jpg absPath of file": {
       "id": "/Users/Robert/btb/src/img/profile.jpg absPath of file",
@@ -1426,7 +1498,7 @@
       "size": 4741950,
       "prettySize": "4.74 MB",
       "modifiedTime": "2018-04-08T18:51:16.000Z",
-      "accessTime": "2018-05-01T14:39:39.347Z",
+      "accessTime": "2018-05-02T20:44:56.633Z",
       "changeTime": "2018-05-01T14:39:38.333Z",
       "birthTime": "2018-04-08T18:51:16.000Z",
       "root": "/",
@@ -1444,11 +1516,11 @@
       "blksize": 4194304,
       "ino": 8602581150,
       "blocks": 9264,
-      "atimeMs": 1525185579347.0815,
+      "atimeMs": 1525293896632.531,
       "mtimeMs": 1523213476000,
       "ctimeMs": 1525185578333.4883,
       "birthtimeMs": 1523213476000,
-      "atime": "2018-05-01T14:39:39.347Z",
+      "atime": "2018-05-02T20:44:56.633Z",
       "mtime": "2018-04-08T18:51:16.000Z",
       "ctime": "2018-05-01T14:39:38.333Z",
       "birthtime": "2018-04-08T18:51:16.000Z"
@@ -1479,7 +1551,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fe858f1b65a103438aa226f414695faf",
+        "contentDigest": "560028c0055d5a79356411846ced58a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -1499,7 +1571,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17f0d529e53d767c21247543a3fb4a26",
+        "contentDigest": "74a609d9ee03d1d316dd30d08289f130",
         "owner": "internal-data-bridge"
       }
     },
@@ -1519,7 +1591,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c4e1b168bb8b1d2ca3779c31e8741912",
+        "contentDigest": "120fde6ab573b42611f4079053740b22",
         "owner": "internal-data-bridge"
       }
     },
@@ -1539,7 +1611,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "999917bc0942990c991c28d3c9dda006",
+        "contentDigest": "00d11758723c58c875684bfdbb66b1b3",
         "owner": "internal-data-bridge"
       }
     },
@@ -1559,7 +1631,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a980269f0f9d1ea01621391afa1e6706",
+        "contentDigest": "593ececbb5f0fbb128ab1af71b920e8e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1579,7 +1651,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5e456b4674decaefaa5110d5fcc181d7",
+        "contentDigest": "240df458e1af61905718402aa3d16915",
         "owner": "internal-data-bridge"
       }
     },
@@ -1599,14 +1671,82 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa9abb86446d5b3f2ba84339761dc964",
+        "contentDigest": "478424e4ac21dec855b81025e7ddaa92",
         "owner": "internal-data-bridge"
       }
+    },
+    "/Users/Robert/btb/src/data/references/michal.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5539426344fb6fce935479841d8413a8",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/Robert/btb/src/data/references/michal.md",
+      "relativePath": "references/michal.md",
+      "extension": "md",
+      "size": 375,
+      "prettySize": "375 B",
+      "modifiedTime": "2018-05-03T10:04:29.483Z",
+      "accessTime": "2018-05-03T10:04:29.482Z",
+      "changeTime": "2018-05-03T10:04:29.483Z",
+      "birthTime": "2018-05-03T10:03:34.805Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references",
+      "base": "michal.md",
+      "ext": ".md",
+      "name": "michal",
+      "relativeDirectory": "references",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8602766128,
+      "blocks": 8,
+      "atimeMs": 1525341869482.0583,
+      "mtimeMs": 1525341869482.585,
+      "ctimeMs": 1525341869482.585,
+      "birthtimeMs": 1525341814805.2847,
+      "atime": "2018-05-03T10:04:29.482Z",
+      "mtime": "2018-05-03T10:04:29.483Z",
+      "ctime": "2018-05-03T10:04:29.483Z",
+      "birthtime": "2018-05-03T10:03:34.805Z"
+    },
+    "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+      "internal": {
+        "content": "---\nname: 'Michal Smejc'\nposition: 'General Manager'\ncompany: VELAA Private Island Maldives\ndescription: 'The most luxurious Maldivian private resort.'\n---\n\"Marketa's sensitive approach, great taste and perfect organization with attention to the details is why I continue rely on her professional opinion and assistance with communication with our affluent clients in China.\"",
+        "contentDigest": "db53d9ae5da0907cf73fd086a7af6ac5",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "name": "Michal Smejc",
+        "position": "General Manager",
+        "company": "VELAA Private Island Maldives",
+        "description": "The most luxurious Maldivian private resort.",
+        "_PARENT": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references/michal.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "d55a342f369ca0e8ecea79b3a6c612e3"
+    "PLUGINS_HASH": "dca802bde161312a0610c603b9032d0f"
   },
   "componentDataDependencies": {
     "nodes": {},

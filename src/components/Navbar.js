@@ -63,6 +63,11 @@ display: flex
   }
 }
 
+
+@media screen and (max-width: 650px) {
+  flex-wrap: wrap;
+  justify-content: center
+}
 `
 
 const Logo = styled.div`
@@ -70,4 +75,10 @@ margin-right: auto
 padding: 1rem
 img {
   height: 20px
-}`
+}
+
+@media screen and (max-width: 650px) {
+  width: 100%;
+  text-align: center
+}
+`
