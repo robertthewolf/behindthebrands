@@ -1,0 +1,16 @@
+<svg width="98" height="98" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="sell" clip-path="url(#clip0)">
+<g id="Group 3">
+<ellipse id="Ellipse" cx="21.6799" cy="21.721" rx="21.6799" ry="21.721" transform="matrix(-0.0421537 -0.999111 0.999111 -0.0421537 40.1699 98.019)" fill="#FEDDC9" fill-opacity="0.5"/>
+<ellipse id="Ellipse_2" cx="22.162" cy="22.204" rx="22.162" ry="22.204" transform="matrix(-0.0421537 -0.999111 0.999111 -0.0421537 53.793 46.1567)" fill="#FEDDC9" fill-opacity="0.5"/>
+<ellipse id="Ellipse_3" cx="22.2394" cy="22.2815" rx="22.2394" ry="22.2815" transform="matrix(-0.0421537 -0.999111 0.999111 -0.0421537 1.875 60.1802)" fill="#FEDDC9" fill-opacity="0.5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="98" height="98" fill="white"/>
+</clipPath>
+</defs>
+</svg>

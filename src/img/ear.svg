@@ -1,0 +1,12 @@
+<svg width="59" height="77" viewBox="0 0 59 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="ear" clip-path="url(#clip0)">
+<path id="Ellipse" d="M 59.2933 26.7857C 59.2933 45 21.4981 77 9.7936 77C -8.00183 77 3.89244 64.2857 3.89244 26.7857C 3.89244 11.9924 16.2943 0 31.5929 0C 46.8914 0 59.2933 11.9924 59.2933 26.7857Z" fill="#FEDDC9"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="59" height="77" fill="white"/>
+</clipPath>
+</defs>
+</svg>
