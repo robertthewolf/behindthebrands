@@ -11,6 +11,7 @@ import ProfilePic from '../img/profile.jpg'
 
 export default class ClientsPage extends React.Component {
   render() {
+    const { edges: posts } = this.props.data.allMarkdownRemark
 
     return (
       <Wrapper>
@@ -26,26 +27,46 @@ export default class ClientsPage extends React.Component {
               </Center>
             </Container>
             <Container>
-              <Half>
-                <Quote>
-                "Marketa's sensitive approach, great taste and perfect organization with attention to the details is why I continue rely on her professional opinion and assistance with communication with our affluent clients in China."
-                </Quote>
-                <Source>
-                  <div>
-                    <p>Michal Smejc</p>
-                    <p>General Manager </p>
-                  </div>
-                  <div>
-                    <p>VELAA Private Island Maldives</p>
-                    <p>The most luxurious Maldivian private resort.</p>
-                  </div>
-                </Source>
-              </Half>
+            {posts
+            .filter(post => post.node.frontmatter.templateKey === 'reference')
+            .map(({ node: post }) => (
+                <Half>
+                  <Quote>
+                    <div dangerouslySetInnerHTML={{ __html: post.html }} />
+                  </Quote>
+                  <Source>
+                    <Author>{post.frontmatter.name}</Author>
+                    <Position>{post.frontmatter.position}</Position>
+                    <Company>{post.frontmatter.company}</Company>
+                    <Description>{post.frontmatter.description}</Description>
+                  </Source>
+                </Half>
+            ))}
             </Container>
       </Wrapper>
     )
   }
 }
+
+export const pageQuery = graphql`
+query refQuery {
+  allMarkdownRemark {
+    edges {
+      node {
+        id
+        html
+        frontmatter {
+          templateKey
+          name
+          position
+          company
+          description
+        }
+      }
+    }
+  }
+}
+`
 
 const Center = styled.div`
 width: 100%;
@@ -81,4 +102,23 @@ text-align: justify;
 margin-bottom: 2rem`
 
 const Source = styled.div`
-display: flex;`
+font-size: .9rem
+@media screen and (min-width: 550px) {
+  display: grid
+  grid-auto-flow: column;
+  grid-template-rows: auto auto
+}`
+
+const Author = styled.p`
+font-weight: 500`
+
+
+const Position = styled.p`
+padding-bottom: 1rem;
+`
+
+const Company = styled.p`
+`
+
+const Description = styled.p`
+`

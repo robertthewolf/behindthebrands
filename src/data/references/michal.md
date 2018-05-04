@@ -1,4 +1,5 @@
 ---
+templateKey: 'reference'
 name: Michal Smejc
 position: General Manager
 company: VELAA Private Island Maldives

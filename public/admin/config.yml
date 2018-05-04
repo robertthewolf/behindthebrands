@@ -17,3 +17,13 @@ collections:
       - {label: "Název společnosti", name: "company", widget: "string"}
       - {label: "Popis společnosti", name: "description", widget: "string"}
       - {label: "Quote", name: "body", widget: "markdown"}
+  - name: "about"
+    label: "About"
+    folder: "src/data/about"
+    file: "src/data/about/about.md"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about"}
+      - {label: "Jméno", name: "name", widget: "string"}
+      - {label: "Pozice", name: "position", widget: "string"}
+      - {label: "Citát", name: "quote", widget: "string"}
+      - {label: "Popis", name: "body", widget: "markdown"}
