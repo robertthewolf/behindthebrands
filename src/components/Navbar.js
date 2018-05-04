@@ -5,35 +5,77 @@ import styled from 'styled-components'
 import logo from '../img/logo.svg'
 
 const Navbar = () => (
-  <Nav>
+  <Header>
       <Logo>
         <Link to="/">
             <img src={logo} alt="Kaldi" />
         </Link>
       </Logo>
+      <Nav>
+        <div>
         <Link activeClassName="active" to="/about">
           About
         </Link>
         <Link activeClassName="active" to="/workflow">
           Workflow
         </Link>
+        </div>
+        <div>
         <Link activeClassName="active" to="/clients">
           Clients
         </Link>
         <Link activeClassName="active" to="/contact">
           Contact
         </Link>
-  </Nav>
+        </div>
+      </Nav>
+  </Header>
 )
 
 export default Navbar
 
 
-const Nav = styled.nav`
+const Header = styled.header`
 max-width: 1024px
+width: 100%;
 margin: 1rem auto
 display: flex
-& > a {
+justify-content: space-between;
+align-items: center;
+
+
+
+@media screen and (max-width: 650px) {
+  flex-direction: column;
+}
+`
+
+const Logo = styled.div`
+padding: 1rem
+img {
+  height: 20px
+  max-width: 80vw;
+}
+
+@media screen and (max-width: 650px) {
+  text-align: center
+}
+`
+
+const Nav = styled.nav`
+display: flex;
+justify-content: space-around;
+max-width: 100%;
+flex-wrap: wrap;
+
+div {
+  display: flex;
+  justify-content: space-around;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
+a {
   margin: 1rem
   &::before {
     content: '';
@@ -61,24 +103,5 @@ display: flex
       opacity: .1
     }
   }
-}
-
-
-@media screen and (max-width: 650px) {
-  flex-wrap: wrap;
-  justify-content: center
-}
-`
-
-const Logo = styled.div`
-margin-right: auto
-padding: 1rem
-img {
-  height: 20px
-}
-
-@media screen and (max-width: 650px) {
-  width: 100%;
-  text-align: center
 }
 `
