@@ -6,6 +6,7 @@ import styled from 'styled-components'
 import Wrapper from '../components/Wrapper'
 import Heading from '../components/Heading'
 import Container from '../components/Container'
+import Reference from '../components/Reference'
 
 import ProfilePic from '../img/profile.jpg'
 
@@ -27,20 +28,15 @@ export default class ClientsPage extends React.Component {
               </Center>
             </Container>
             <Container>
-            {posts
-            .filter(post => post.node.frontmatter.templateKey === 'reference')
+            {posts.filter(post => post.node.frontmatter.templateKey === 'reference')
             .map(({ node: post }) => (
-                <Half>
-                  <Quote>
-                    <div dangerouslySetInnerHTML={{ __html: post.html }} />
-                  </Quote>
-                  <Source>
-                    <Author>{post.frontmatter.name}</Author>
-                    <Position>{post.frontmatter.position}</Position>
-                    <Company>{post.frontmatter.company}</Company>
-                    <Description>{post.frontmatter.description}</Description>
-                  </Source>
-                </Half>
+                <Reference
+                  html={post.html}
+                  name={post.frontmatter.name}
+                  position={post.frontmatter.position}
+                  company={post.frontmatter.company}
+                  description={post.frontmatter.description}
+                />
             ))}
             </Container>
       </Wrapper>
@@ -85,40 +81,3 @@ list-style-type: none;`
 
 const Value = styled.li`
 margin: 2rem 1rem`
-
-const Half = styled.p`
-width: calc(50% - 2rem);
-padding: 1rem;
-
-
-@media screen and (max-width: 800px) {
-  width: calc(100% - 2rem);
-}
-`
-
-const Quote = styled.blockquote`
-font-style: italic;
-text-align: justify;
-margin-bottom: 2rem`
-
-const Source = styled.div`
-font-size: .9rem
-@media screen and (min-width: 550px) {
-  display: grid
-  grid-auto-flow: column;
-  grid-template-rows: auto auto
-}`
-
-const Author = styled.p`
-font-weight: 500`
-
-
-const Position = styled.p`
-padding-bottom: 1rem;
-`
-
-const Company = styled.p`
-`
-
-const Description = styled.p`
-`

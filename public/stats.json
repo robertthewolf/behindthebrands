@@ -1,0 +1,20 @@
+{
+  "assetsByChunkName": {
+    "cms": [
+      "cms-4d9bdfc2a37ff4efeaa6.js",
+      "build-js-styles.css",
+      "cms.css",
+      "cms-4d9bdfc2a37ff4efeaa6.js.map",
+      "build-js-styles.css.map",
+      "cms.css.map"
+    ],
+    "commons": [
+      "commons-89a1e5f3b36ad41536be.js",
+      "commons-89a1e5f3b36ad41536be.js.map"
+    ],
+    "app": [
+      "app-8ba42b5594f5835ef42b.js",
+      "app-8ba42b5594f5835ef42b.js.map"
+    ]
+  }
+}

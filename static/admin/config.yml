@@ -25,5 +25,5 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about"}
       - {label: "Jméno", name: "name", widget: "string"}
       - {label: "Pozice", name: "position", widget: "string"}
-      - {label: "Citát", name: "quote", widget: "string"}
+      - {label: "Citát", name: "quote", widget: "text"}
       - {label: "Popis", name: "body", widget: "markdown"}
