@@ -1,4 +1,6 @@
 import React from 'react'
+import Helmet from 'react-helmet'
+import Image from 'gatsby-image'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
@@ -6,8 +8,6 @@ import styled from 'styled-components'
 import Wrapper from '../components/Wrapper'
 import Heading from '../components/Heading'
 import Container from '../components/Container'
-
-import ProfilePic from '../img/profile.jpg'
 
 export default class AboutPage extends React.Component {
   render() {
@@ -30,7 +30,7 @@ export default class AboutPage extends React.Component {
               </Column>
             </Container>
             <Profile>
-              <Picture src={ProfilePic} />
+              <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
               <AboutBox>
                 <div>
                 <h2>{post.frontmatter.name}</h2>
@@ -52,6 +52,14 @@ query aboutQuery {
     frontmatter {
       templateKey
       name
+      image {
+        childImageSharp {
+          sizes(maxWidth: 1000) {
+            ...GatsbyImageSharpSizes_tracedSVG
+            aspectRatio
+          }
+        }
+      }
       position
       quote
     }
@@ -89,17 +97,20 @@ display: flex
 
 @media screen and (max-width: 600px) {
   flex-direction: column
-}`
+}
 
-const Picture = styled.img`
-width: 50%
-align-self: flex-start
 
-@media screen and (max-width: 600px) {
-  width: 100%
-  height: calc(100vw - 2rem);
-  object-fit: cover;
-  object-position: top center
+.gatsby-image-outer-wrapper {
+  width: 50%
+  align-self: flex-start
+  z-index: -2;
+  
+  @media screen and (max-width: 600px) {
+    width: 100%
+    height: calc(100vw - 2rem);
+    object-fit: cover;
+    object-position: top center
+  }
 }`
 
 const AboutBox = styled.div`

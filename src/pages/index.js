@@ -1,4 +1,5 @@
 import React from 'react'
+import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
@@ -26,6 +27,10 @@ export default class IndexPage extends React.Component {
 
     return (
       <Wrapper>
+        {/* <Helmet>
+          <title>Vision - Mission - Strategy</title>
+        </Helmet> */}
+
             <Script
               url="https://identity.netlify.com/v1/netlify-identity-widget.js"
               onLoad={this.handleScriptLoad.bind(this)}

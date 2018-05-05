@@ -1,6 +1,7 @@
 ---
 templateKey: about
 name: Marketa Hamadakova
+image: /img/profile.jpg
 position: Founder & CEO
 quote: Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.
 ---

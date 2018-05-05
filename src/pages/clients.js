@@ -8,8 +8,6 @@ import Heading from '../components/Heading'
 import Container from '../components/Container'
 import Reference from '../components/Reference'
 
-import ProfilePic from '../img/profile.jpg'
-
 export default class ClientsPage extends React.Component {
   render() {
     const { edges: posts } = this.props.data.allMarkdownRemark

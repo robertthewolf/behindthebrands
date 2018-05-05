@@ -1,32 +1,38 @@
-// const _ = require('lodash')
-// const path = require('path')
-// const { createFilePath } = require('gatsby-source-filesystem')
+const _ = require('lodash')
+const path = require('path')
+const { createFilePath } = require('gatsby-source-filesystem')
+const loadYaml = require('./loadYaml')
 
-// exports.createPages = ({ boundActionCreators, graphql }) => {
-//   const { createPage } = boundActionCreators
+const adminConfig = loadYaml('./static/admin/config.yml')
 
-//   return graphql(`
-//     {
-//       allMarkdownRemark(limit: 1000) {
-//         edges {
-//           node {
-//             id
-//             fields {
-//               slug
-//             }
-//             frontmatter {
-//               tags
-//               templateKey
-//             }
-//           }
-//         }
-//       }
-//     }
-//   `).then(result => {
-//     if (result.errors) {
-//       result.errors.forEach(e => console.error(e.toString()))
-//       return Promise.reject(result.errors)
-//     }
+const adjustImagePath = nodePath => image => {
+  if (_.isString(image)) {
+    if (image.indexOf(adminConfig.public_folder) === 0) {
+      const nextImage = path.relative(
+        path.dirname(nodePath),
+        path.join(
+          __dirname,
+          adminConfig.media_folder,
+          image.substr(adminConfig.public_folder.length)
+        )
+      )
+      console.log('Adjusted image path', nextImage)
+      return nextImage
+    }
+  }
+  return image
+}
 
-//   })
-// }
+exports.onCreateNode = ({ node, boundActionCreators, getNode, loadNodeContent, }) => {
+
+  //image sharp
+  const { frontmatter } = node
+  if (frontmatter) {
+    const adjust = adjustImagePath(node.fileAbsolutePath)
+    const { image } = frontmatter
+    if (image) {
+      node.frontmatter.image = adjust(image)
+    }
+  }
+
+}
