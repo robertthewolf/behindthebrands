@@ -15,7 +15,7 @@ export default class AboutPage extends React.Component {
 
     return (
       <Wrapper>
-            <Heading>About Me</Heading>
+            <Heading>About</Heading>
             <Container background="#FFFCF7">
               <Column>
                 <Believe>We believe in brands with...</Believe>

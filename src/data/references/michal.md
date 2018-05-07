@@ -1,6 +1,6 @@
 ---
 templateKey: 'reference'
-name: Michal Smejc
+title: Michal Smejc
 position: General Manager
 company: VELAA Private Island Maldives
 description: The most luxurious Maldivian private resort.

@@ -9,6 +9,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet defaultTitle={`Behind The Brands`} titleTemplate={`%s | Behind The Brands`}>
       <html lang="en" />
+      <meta name="description" content="" />
     </Helmet>
     <Navbar />
     {children()}

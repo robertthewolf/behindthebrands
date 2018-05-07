@@ -12,7 +12,7 @@ export default Container
 const Outer = styled.div`
 max-width: 1024px;
 padding: 1rem;
-margin: 2rem 0;
+margin: 2rem auto;
 background-color: ${props => props.background};
 display: flex;
 flex-wrap: wrap;

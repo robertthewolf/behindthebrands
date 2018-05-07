@@ -8,14 +8,26 @@ import Heading from '../components/Heading'
 import Container from '../components/Container'
 import Reference from '../components/Reference'
 
-export default class ClientsPage extends React.Component {
+export default class ReferencePage extends React.Component {
   render() {
     const { edges: posts } = this.props.data.allMarkdownRemark
 
     return (
       <Wrapper>
-            <Heading>Clients</Heading>
+            <Heading>Reference</Heading>
             <Container background="#E4E7EB">
+            {posts.filter(post => post.node.frontmatter.templateKey === 'reference')
+            .map(({ node: post }) => (
+                <Reference
+                  html={post.html}
+                  title={post.frontmatter.title}
+                  position={post.frontmatter.position}
+                  company={post.frontmatter.company}
+                  description={post.frontmatter.description}
+                />
+            ))}
+            </Container>
+            <Container>
               <Center>
                 <Believe>We believe in...</Believe>
                 <Values>
@@ -24,18 +36,6 @@ export default class ClientsPage extends React.Component {
                   <Value><em>MUTUAL TRUST</em> between us and our clients to create a strong bond with customers. </Value>
                 </Values>
               </Center>
-            </Container>
-            <Container>
-            {posts.filter(post => post.node.frontmatter.templateKey === 'reference')
-            .map(({ node: post }) => (
-                <Reference
-                  html={post.html}
-                  name={post.frontmatter.name}
-                  position={post.frontmatter.position}
-                  company={post.frontmatter.company}
-                  description={post.frontmatter.description}
-                />
-            ))}
             </Container>
       </Wrapper>
     )
@@ -51,7 +51,7 @@ query refQuery {
         html
         frontmatter {
           templateKey
-          name
+          title
           position
           company
           description

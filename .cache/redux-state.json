@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a3c6de563cbfb25db76e5c7d6c68f48d",
+        "contentDigest": "079b7c5f449310b7399c5c8e870530d5",
         "owner": "internal-data-bridge"
       }
     },
@@ -1089,12 +1089,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-05T07:58:02.266Z",
+      "buildTime": "2018-05-07T22:08:12.639Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "71b4f602733a99fd4013146bf8a705a1",
+        "contentDigest": "691f0be891f4b2bfcfdbe84c38ba8229",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1104,7 +1104,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6a2ff160299e89c0cb8dbad334bd6f32",
+        "contentDigest": "6505af5cf0fa814aaef47552a1976991",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1115,7 +1115,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-04T21:02:34.997Z",
-      "accessTime": "2018-05-05T07:58:06.670Z",
+      "accessTime": "2018-05-07T22:08:16.198Z",
       "changeTime": "2018-05-04T21:02:34.997Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
@@ -1133,11 +1133,11 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1525507086670.2737,
+      "atimeMs": 1525730896198.2356,
       "mtimeMs": 1525467754997.4,
       "ctimeMs": 1525467754997.4,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-05T07:58:06.670Z",
+      "atime": "2018-05-07T22:08:16.198Z",
       "mtime": "2018-05-04T21:02:34.997Z",
       "ctime": "2018-05-04T21:02:34.997Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
@@ -1147,7 +1147,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cc03f4a24c9763ff5fdcac5fbeffdca1",
+        "contentDigest": "d6808f9240bf01968a252e4a1e00f236",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1158,7 +1158,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-04T21:02:34.997Z",
-      "accessTime": "2018-05-05T07:58:06.673Z",
+      "accessTime": "2018-05-07T22:08:16.200Z",
       "changeTime": "2018-05-04T21:02:34.997Z",
       "birthTime": "2018-05-04T21:02:30.754Z",
       "root": "/",
@@ -1176,11 +1176,11 @@
       "blksize": 4194304,
       "ino": 8602813210,
       "blocks": 0,
-      "atimeMs": 1525507086672.5002,
+      "atimeMs": 1525730896200.2517,
       "mtimeMs": 1525467754997.3997,
       "ctimeMs": 1525467754997.3997,
       "birthtimeMs": 1525467750753.7393,
-      "atime": "2018-05-05T07:58:06.673Z",
+      "atime": "2018-05-07T22:08:16.200Z",
       "mtime": "2018-05-04T21:02:34.997Z",
       "ctime": "2018-05-04T21:02:34.997Z",
       "birthtime": "2018-05-04T21:02:30.754Z"
@@ -1190,7 +1190,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9e76e179895c577e9cddb708720e94c9",
+        "contentDigest": "02913e1248d644ca8b45c4a22c52936a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1201,7 +1201,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-04T20:09:49.203Z",
-      "accessTime": "2018-05-05T07:58:06.672Z",
+      "accessTime": "2018-05-07T22:08:16.200Z",
       "changeTime": "2018-05-04T20:09:49.203Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1219,11 +1219,11 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1525507086672.4653,
+      "atimeMs": 1525730896200.2217,
       "mtimeMs": 1525464589202.6648,
       "ctimeMs": 1525464589202.6648,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-05T07:58:06.672Z",
+      "atime": "2018-05-07T22:08:16.200Z",
       "mtime": "2018-05-04T20:09:49.203Z",
       "ctime": "2018-05-04T20:09:49.203Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
@@ -1247,7 +1247,7 @@
       "size": 139,
       "prettySize": "139 B",
       "modifiedTime": "2018-05-01T14:48:44.729Z",
-      "accessTime": "2018-05-05T07:47:06.901Z",
+      "accessTime": "2018-05-07T22:07:29.542Z",
       "changeTime": "2018-05-01T14:48:44.729Z",
       "birthTime": "2018-05-01T14:47:30.906Z",
       "root": "/",
@@ -1265,11 +1265,11 @@
       "blksize": 4194304,
       "ino": 8602581291,
       "blocks": 8,
-      "atimeMs": 1525506426901.1355,
+      "atimeMs": 1525730849542.0774,
       "mtimeMs": 1525186124729.2007,
       "ctimeMs": 1525186124729.2007,
       "birthtimeMs": 1525186050905.5264,
-      "atime": "2018-05-05T07:47:06.901Z",
+      "atime": "2018-05-07T22:07:29.542Z",
       "mtime": "2018-05-01T14:48:44.729Z",
       "ctime": "2018-05-01T14:48:44.729Z",
       "birthtime": "2018-05-01T14:47:30.906Z"
@@ -1281,7 +1281,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5a9c35aec52152ed7abc76c50785a0aa",
+        "contentDigest": "bae70323495b48f468cc5030e758ac7c",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1290,11 +1290,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/references/michal.md",
       "relativePath": "references/michal.md",
       "extension": "md",
-      "size": 395,
-      "prettySize": "395 B",
-      "modifiedTime": "2018-05-04T20:26:02.821Z",
-      "accessTime": "2018-05-05T07:47:06.901Z",
-      "changeTime": "2018-05-04T20:26:02.821Z",
+      "size": 396,
+      "prettySize": "396 B",
+      "modifiedTime": "2018-05-07T22:05:39.065Z",
+      "accessTime": "2018-05-07T22:07:29.542Z",
+      "changeTime": "2018-05-07T22:05:39.065Z",
       "birthTime": "2018-05-04T20:09:49.203Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/references",
@@ -1311,13 +1311,13 @@
       "blksize": 4194304,
       "ino": 8602811342,
       "blocks": 8,
-      "atimeMs": 1525506426901.3037,
-      "mtimeMs": 1525465562821.1775,
-      "ctimeMs": 1525465562821.1775,
+      "atimeMs": 1525730849542.171,
+      "mtimeMs": 1525730739064.6948,
+      "ctimeMs": 1525730739064.6948,
       "birthtimeMs": 1525464589202.6533,
-      "atime": "2018-05-05T07:47:06.901Z",
-      "mtime": "2018-05-04T20:26:02.821Z",
-      "ctime": "2018-05-04T20:26:02.821Z",
+      "atime": "2018-05-07T22:07:29.542Z",
+      "mtime": "2018-05-07T22:05:39.065Z",
+      "ctime": "2018-05-07T22:05:39.065Z",
       "birthtime": "2018-05-04T20:09:49.203Z"
     },
     "/Users/Robert/btb/src/data/about/about.md absPath of file": {
@@ -1339,7 +1339,7 @@
       "size": 2157,
       "prettySize": "2.16 kB",
       "modifiedTime": "2018-05-05T07:25:18.378Z",
-      "accessTime": "2018-05-05T07:47:06.901Z",
+      "accessTime": "2018-05-07T22:07:29.542Z",
       "changeTime": "2018-05-05T07:25:18.378Z",
       "birthTime": "2018-05-01T14:47:39.667Z",
       "root": "/",
@@ -1357,11 +1357,11 @@
       "blksize": 4194304,
       "ino": 8602581292,
       "blocks": 8,
-      "atimeMs": 1525506426901.0793,
+      "atimeMs": 1525730849542.0476,
       "mtimeMs": 1525505118377.9524,
       "ctimeMs": 1525505118377.9524,
       "birthtimeMs": 1525186059666.729,
-      "atime": "2018-05-05T07:47:06.901Z",
+      "atime": "2018-05-07T22:07:29.542Z",
       "mtime": "2018-05-05T07:25:18.378Z",
       "ctime": "2018-05-05T07:25:18.378Z",
       "birthtime": "2018-05-01T14:47:39.667Z"
@@ -1390,15 +1390,14 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: 'reference'\nname: Michal Smejc\nposition: General Manager\ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\n---\n\"Marketa's sensitive approach, great taste and perfect organisation with attention to the details is why I continue rely on her professional opinion and assistance with communication with our affluent clients in China.\"\n",
-        "contentDigest": "0c51151b0676e9df91c9fb228abc0a00",
+        "content": "---\ntemplateKey: 'reference'\ntitle: Michal Smejc\nposition: General Manager\ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\n---\n\"Marketa's sensitive approach, great taste and perfect organisation with attention to the details is why I continue rely on her professional opinion and assistance with communication with our affluent clients in China.\"\n",
+        "contentDigest": "b0b3221d4c9c98ab9b792fb67752e5f5",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
-        "title": "",
+        "title": "Michal Smejc",
         "templateKey": "reference",
-        "name": "Michal Smejc",
         "position": "General Manager",
         "company": "VELAA Private Island Maldives",
         "description": "The most luxurious Maldivian private resort.",
@@ -1436,7 +1435,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bb5c7ab19bbc8d8d3dd23866d7d8ed05",
+        "contentDigest": "6c0e25d3e0e8b7c1a75ecd1db62f0ca6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1447,7 +1446,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-05T07:24:16.344Z",
-      "accessTime": "2018-05-05T07:58:06.682Z",
+      "accessTime": "2018-05-07T22:08:16.227Z",
       "changeTime": "2018-05-05T07:24:16.344Z",
       "birthTime": "2018-04-18T16:11:37.977Z",
       "root": "/",
@@ -1465,11 +1464,11 @@
       "blksize": 4194304,
       "ino": 8602121804,
       "blocks": 0,
-      "atimeMs": 1525507086682.3647,
+      "atimeMs": 1525730896226.9004,
       "mtimeMs": 1525505056344.4941,
       "ctimeMs": 1525505056344.4941,
       "birthtimeMs": 1524067897976.9976,
-      "atime": "2018-05-05T07:58:06.682Z",
+      "atime": "2018-05-07T22:08:16.227Z",
       "mtime": "2018-05-05T07:24:16.344Z",
       "ctime": "2018-05-05T07:24:16.344Z",
       "birthtime": "2018-04-18T16:11:37.977Z"
@@ -1491,7 +1490,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-05-03T11:08:03.757Z",
-      "accessTime": "2018-05-05T07:47:17.985Z",
+      "accessTime": "2018-05-07T22:07:46.607Z",
       "changeTime": "2018-05-03T11:08:03.757Z",
       "birthTime": "2018-05-03T11:08:03.756Z",
       "root": "/",
@@ -1509,11 +1508,11 @@
       "blksize": 4194304,
       "ino": 8602769161,
       "blocks": 16,
-      "atimeMs": 1525506437984.9014,
+      "atimeMs": 1525730866607.246,
       "mtimeMs": 1525345683757.0686,
       "ctimeMs": 1525345683757.0686,
       "birthtimeMs": 1525345683756.26,
-      "atime": "2018-05-05T07:47:17.985Z",
+      "atime": "2018-05-07T22:07:46.607Z",
       "mtime": "2018-05-03T11:08:03.757Z",
       "ctime": "2018-05-03T11:08:03.757Z",
       "birthtime": "2018-05-03T11:08:03.756Z"
@@ -1537,7 +1536,7 @@
       "size": 4788,
       "prettySize": "4.79 kB",
       "modifiedTime": "2018-04-13T15:46:37.152Z",
-      "accessTime": "2018-05-05T07:47:17.985Z",
+      "accessTime": "2018-05-07T22:07:46.607Z",
       "changeTime": "2018-05-03T11:08:05.614Z",
       "birthTime": "2018-04-13T15:46:37.151Z",
       "root": "/",
@@ -1555,11 +1554,11 @@
       "blksize": 4194304,
       "ino": 8601895780,
       "blocks": 16,
-      "atimeMs": 1525506437984.9077,
+      "atimeMs": 1525730866607.2532,
       "mtimeMs": 1523634397151.7344,
       "ctimeMs": 1525345685613.6167,
       "birthtimeMs": 1523634397151.4617,
-      "atime": "2018-05-05T07:47:17.985Z",
+      "atime": "2018-05-07T22:07:46.607Z",
       "mtime": "2018-04-13T15:46:37.152Z",
       "ctime": "2018-05-03T11:08:05.614Z",
       "birthtime": "2018-04-13T15:46:37.151Z"
@@ -1593,7 +1592,7 @@
       "size": 4741950,
       "prettySize": "4.74 MB",
       "modifiedTime": "2018-05-05T07:24:16.379Z",
-      "accessTime": "2018-05-05T07:49:09.146Z",
+      "accessTime": "2018-05-07T22:07:46.607Z",
       "changeTime": "2018-05-05T07:24:16.401Z",
       "birthTime": "2018-05-05T07:24:16.344Z",
       "root": "/",
@@ -1611,11 +1610,11 @@
       "blksize": 4194304,
       "ino": 8602981293,
       "blocks": 9264,
-      "atimeMs": 1525506549146.0728,
+      "atimeMs": 1525730866607.2595,
       "mtimeMs": 1525505056378.8157,
       "ctimeMs": 1525505056400.873,
       "birthtimeMs": 1525505056344.473,
-      "atime": "2018-05-05T07:49:09.146Z",
+      "atime": "2018-05-07T22:07:46.607Z",
       "mtime": "2018-05-05T07:24:16.379Z",
       "ctime": "2018-05-05T07:24:16.401Z",
       "birthtime": "2018-05-05T07:24:16.344Z"
@@ -1646,7 +1645,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de821598dfb614d9b61fb28c79f82c01",
+        "contentDigest": "1ef1509e1f76ff5de545fa8b54ee6def",
         "owner": "internal-data-bridge"
       }
     },
@@ -1666,27 +1665,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3cdbef4e281c126b3c0ea9a665b4c42b",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /clients/": {
-      "layout": "index",
-      "jsonName": "clients.json",
-      "internalComponentName": "ComponentClients",
-      "path": "/clients/",
-      "component": "/Users/Robert/btb/src/pages/clients.js",
-      "componentChunkName": "component---src-pages-clients-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/clients.js",
-      "id": "SitePage /clients/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8180edd75b1069470ea52af5dabc32a8",
+        "contentDigest": "941921e8ef55b8325fa271e69d93f006",
         "owner": "internal-data-bridge"
       }
     },
@@ -1706,7 +1685,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "308fa5e88c412435717a4aaf1b62afeb",
+        "contentDigest": "cbbce24e28e789707e2c15e6a40304db",
         "owner": "internal-data-bridge"
       }
     },
@@ -1726,7 +1705,27 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e8df8f5d24982b65b0c16c8fd41d83f6",
+        "contentDigest": "deefefa21056d7c748ca8f759986cd90",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /reference/": {
+      "layout": "index",
+      "jsonName": "reference.json",
+      "internalComponentName": "ComponentReference",
+      "path": "/reference/",
+      "component": "/Users/Robert/btb/src/pages/reference.js",
+      "componentChunkName": "component---src-pages-reference-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/reference.js",
+      "id": "SitePage /reference/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b1cf4535fe839c83926cc78e8250afd2",
         "owner": "internal-data-bridge"
       }
     },
@@ -1746,7 +1745,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "876bac46fd59f287e5350f2b224efe2a",
+        "contentDigest": "20cd3efb6d10dbb2a267a7d9c4754f4c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1766,7 +1765,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ecd6ecadccc6af59b49ba29cc39bf5bd",
+        "contentDigest": "7b8c0d2327a90e28cc6d2217df47b8b2",
         "owner": "internal-data-bridge"
       }
     }
@@ -1792,7 +1791,7 @@
         "/dev-404-page/"
       ],
       "MarkdownRemark": [
-        "/clients/"
+        "/reference/"
       ]
     }
   }

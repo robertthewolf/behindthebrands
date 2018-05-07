@@ -1,4 +1,5 @@
 import React from 'react'
+import Helmet from 'react-helmet'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import styled from 'styled-components'
@@ -46,7 +47,6 @@ height: calc(100vh - 88px);
 
 
 const Half = styled.p`
-width: calc(50% - 2rem);
 padding: 1rem;
 a {
   display: block;

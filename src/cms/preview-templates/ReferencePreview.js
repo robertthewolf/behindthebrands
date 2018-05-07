@@ -5,7 +5,7 @@ import { Reference } from '../../components/Reference'
 const ReferencePreview = ({ entry, widgetFor }) => (
   <Reference
     html={widgetFor('body')}
-    name={entry.getIn(['data', 'name'])}
+    title={entry.getIn(['data', 'titile'])}
     position={entry.getIn(['data', 'position'])}
     company={entry.getIn(['data', 'company'])}
     description={entry.getIn(['data', 'description'])}

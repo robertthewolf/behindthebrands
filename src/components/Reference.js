@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const Reference = ({ html, name, position, company, description }) => (
+const Reference = ({ html, title, position, company, description }) => (
     <Half>
         <Quote>
             <div dangerouslySetInnerHTML={{ __html: html }} />
         </Quote>
         <Source>
-            <Author>{name}</Author>
+            <Author>{title}</Author>
             <Position>{position}</Position>
             <Company>{company}</Company>
             <Description>{description}</Description>

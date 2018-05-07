@@ -21,8 +21,8 @@ const Navbar = () => (
         </Link>
         </div>
         <div>
-        <Link activeClassName="active" to="/clients">
-          Clients
+        <Link activeClassName="active" to="/reference">
+          Reference
         </Link>
         <Link activeClassName="active" to="/contact">
           Contact

@@ -21,13 +21,6 @@
         "path": "/about/"
     },
     {
-        "componentChunkName": "component---src-pages-clients-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "clients.json",
-        "path": "/clients/"
-    },
-    {
         "componentChunkName": "component---src-pages-contact-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -40,6 +33,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-reference-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "reference.json",
+        "path": "/reference/"
     },
     {
         "componentChunkName": "component---src-pages-workflow-js",

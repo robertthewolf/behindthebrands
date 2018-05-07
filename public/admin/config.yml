@@ -12,7 +12,7 @@ collections:
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "reference"}
-      - {label: "Jméno autora", name: "name", widget: "string"}
+      - {label: "Jméno autora", name: "title", widget: "string"}
       - {label: "Pozice autora", name: "position", widget: "string"}
       - {label: "Název společnosti", name: "company", widget: "string"}
       - {label: "Popis společnosti", name: "description", widget: "string"}
