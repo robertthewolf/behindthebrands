@@ -77,31 +77,5 @@ div {
 
 a {
   margin: 1rem
-  &::before {
-    content: '';
-    position: absolute
-    left: 0
-    bottom: -.1rem
-    width: 100%
-    height: .3rem;
-    transform: scaleY(.5);
-    transform-origin: center bottom;
-    transition: all .5s ease
-    background-color: black
-    opacity: 0
-  }
-  &:hover {
-    text-decoration: none;
-    &::before {
-      opacity: .3
-      transform: scaleY(1);
-    }
-  }
-  &.active {
-    &::before {
-      transform: scaleY(2);
-      opacity: .1
-    }
-  }
 }
 `

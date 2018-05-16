@@ -8,6 +8,7 @@ import styled from 'styled-components'
 import Wrapper from '../components/Wrapper'
 import Heading from '../components/Heading'
 import Container from '../components/Container'
+import Footer from '../components/Footer'
 
 export default class AboutPage extends React.Component {
   render() {
@@ -40,6 +41,11 @@ export default class AboutPage extends React.Component {
                 <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
               </AboutBox>
             </Profile>
+            <Container>
+              <Gallery src="img/foto1.jpg" alt="with clients 1" />
+              <Gallery src="img/foto2.jpg" alt="with clients 2" />
+              </Container>
+            <Footer />
       </Wrapper>
     )
   }
@@ -54,7 +60,14 @@ query aboutQuery {
       name
       image {
         childImageSharp {
-          sizes(maxWidth: 1000) {
+          sizes(
+            quality: 100,
+            traceSVG: {
+              color: "rgb(20, 20, 20)",
+              threshold: 95
+            },
+            toFormat: JPG
+          ) {
             ...GatsbyImageSharpSizes_tracedSVG
             aspectRatio
           }
@@ -108,6 +121,7 @@ display: flex
   @media screen and (max-width: 600px) {
     width: 100%
     height: calc(100vw - 2rem);
+    overflow: hidden;
     object-fit: cover;
     object-position: top center
   }
@@ -139,3 +153,12 @@ p {
   width: 100%
 }
 `
+
+const Gallery = styled.img`
+width: calc(100% - 2rem);
+padding: 1rem
+
+@media screen and (min-width: 600px) {
+width: calc(50% - 2rem);
+
+}`

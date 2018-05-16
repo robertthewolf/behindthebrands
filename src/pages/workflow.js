@@ -7,6 +7,7 @@ import styled from 'styled-components'
 import Wrapper from '../components/Wrapper'
 import Heading from '../components/Heading'
 import Container from '../components/Container'
+import Footer from '../components/Footer'
 
 //graphics
 import arrow from '../img/arrow.svg'
@@ -65,6 +66,7 @@ export default class IndexPage extends React.Component {
               <Third><Arrow src={arrow} alt="arrow" /></Third>
               <Third> and transform them into<em>TANGIBLE RESULTS</em></Third>
             </Container>
+      <Footer />
       </Wrapper>
     </div>
     )

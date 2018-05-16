@@ -3,9 +3,9 @@ templateKey: about
 name: Marketa Hamadakova
 image: /img/profile.jpg
 position: Founder & CEO
-quote: Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.
+quote: '"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions."'
 ---
-Marketa's enthusiasm for developing and managing brand identity goes had in had with her expertise in marketing, luxury retail and e-tail business. She is thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential. 
+"My enthusiasm for developing and managing brand identity goes had in had with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential."
 
 Marketa has built up her expertise through various positions in large international as well as local companies alongside her cooperation with individuals and variety of projects.
 

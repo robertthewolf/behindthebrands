@@ -20,6 +20,6 @@ line-height: 2
 animation: showUp .5s ease;
 
 @media screen and (max-width: 600px) {
-  font-size: 5vw;
+  font-size: 4.5vw;
 }
 `

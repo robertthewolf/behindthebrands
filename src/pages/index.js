@@ -6,7 +6,7 @@ import styled from 'styled-components'
 
 import Script from 'react-load-script'
 
-import Heading from '../components/Heading'
+import Container from '../components/Container';
 
 export default class IndexPage extends React.Component {
 
@@ -35,8 +35,10 @@ export default class IndexPage extends React.Component {
               url="https://identity.netlify.com/v1/netlify-identity-widget.js"
               onLoad={this.handleScriptLoad.bind(this)}
             />
-            <Heading>Vision<br/>Mission<br/>Strategy</Heading>
-            <p>We help to transform beauty and lifestyle brands into successful enterprises. </p>
+            <Container>
+              <Heading>Vision<br/>Mission<br/>Strategy</Heading>
+              <Tagline>We help to transform beauty and lifestyle brands into successful enterprises. </Tagline>
+            </Container>
       </Wrapper>
     )
   }
@@ -47,11 +49,34 @@ display: flex;
 flex-direction: column;
 justify-content: center
 text-align: center;
-background: linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.51) 32.04%, #FFF7F7 100%);
+background-image: linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.51) 32.04%, #FFF7F7 100%), url('img/frontpage.png');
+background-size: contain;
+background-position: 80% 70%;
+background-repeat: no-repeat;
+flex: 10;
+@media screen and (max-width: 600px) {
+    justify-content: flex-end;
+}
+`
 
-height: calc(100vh - 88px);
+const Heading = styled.h1`
+text-align: left
+font-size: 6rem
+font-weight: 300
+font-family: Bodoni
+text-transform: uppercase
+line-height: .9em;
+width: 100%;
+@media screen and (max-width: 600px) {
+  font-size: 16vw;
+}
+`
 
-@media screen and (max-width: 650px) {
-  height: calc(100vh - 141px);
+const Tagline = styled.p`
+text-align: left
+font-size: 1.5rem
+max-width: 500px
+@media screen and (max-width: 600px) {
+  font-size: 5vw;
 }
 `
