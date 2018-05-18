@@ -16,7 +16,6 @@ export default class IndexPage extends React.Component {
         <Container>
           <Half>
             <h2>Marketa Hamadakova</h2>
-            <p>Founder & CEO</p>
             <a href="tel:+8618526403753">M Asia + 86 185 2640 3753</a>
             <a href="tel:+420605863268">M Europe +420 605 863 268</a>
             <a href="mailto:marketa@behindthebrands.net">marketa@behindthebrands.net</a>

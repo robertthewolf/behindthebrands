@@ -11,6 +11,7 @@ export default Container
 
 const Outer = styled.div`
 max-width: 1024px;
+width: calc(100% - 2rem);
 padding: 1rem;
 margin: 2rem auto;
 background-color: ${props => props.background};

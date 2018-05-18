@@ -15,10 +15,6 @@ export default class ReferencePage extends React.Component {
 
     return (
       <Wrapper>
-        <Logo src="img/estee_lauder.svg" alt="Estee Lauder" left="80" top="15" />
-        <Logo src="img/lasvit.svg" alt="Lasvit" left="60" top="40" delay="3" />
-        <Logo src="img/loreal.svg" alt="L'Oreal" left="15" top="18" delay="8" />
-        <Logo src="img/velaa.svg" alt="VELLA" left="30" top="35" delay="5" />
             <Heading>Reference</Heading>
             <Container>
             {posts.filter(post => post.node.frontmatter.templateKey === 'reference')
@@ -26,9 +22,11 @@ export default class ReferencePage extends React.Component {
                 <Reference
                   html={post.html}
                   title={post.frontmatter.title}
+                  image={post.frontmatter.image}
                   position={post.frontmatter.position}
                   company={post.frontmatter.company}
                   description={post.frontmatter.description}
+                  logo={post.frontmatter.logo}
                 />
             ))}
             </Container>
@@ -58,9 +56,17 @@ query refQuery {
         frontmatter {
           templateKey
           title
+          image {
+            childImageSharp {
+              sizes {
+                ...GatsbyImageSharpSizes
+              }
+            }
+          }
           position
           company
           description
+          logo
         }
       }
     }
@@ -85,14 +91,3 @@ list-style-type: none;`
 
 const Value = styled.li`
 margin: 2rem 1rem`
-
-const Logo = styled.img`
-position: absolute;
-max-height: 5vw;
-max-width: 10vw;
-left: ${props => props.left}%;
-top: ${props => props.top}%;
-opacity: .3
-animation: floating 10s ease-in-out infinite forwards;
-animation-delay: ${props => props.delay}s;
-`

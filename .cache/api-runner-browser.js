@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/Robert/btb/node_modules/gatsby-plugin-glamor/gatsby-browser.js'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/Robert/btb/node_modules/gatsby-plugin-netlify-cms/gatsby-browser.js'),
       options: {"plugins":[],"modulePath":"/Users/Robert/btb/src/cms/cms.js"},
     }]

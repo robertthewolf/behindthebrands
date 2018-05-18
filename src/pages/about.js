@@ -40,16 +40,18 @@ export default class AboutPage extends React.Component {
                 <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
               </AboutBox>
             </Profile>
-
-              <Highlights>
+            <Container background="#FFFCF7">
+              <Column>
+                <Believe>We believe in brands with...</Believe>
+              </Column>
+              <Column>
+                <Values>
                 {post.frontmatter.highlights.map((highlight) => (
-                  <li key={highlight.id}>{highlight}</li>
+                  <Value key={highlight.id}>{highlight}</Value>
                 ))}
-              </Highlights>
-            <Container>
-              <Gallery src="img/foto1.jpg" alt="with clients 1" />
-              <Gallery src="img/foto2.jpg" alt="with clients 2" />
-              </Container>
+                </Values>
+              </Column>
+            </Container>
             <Footer />
       </Wrapper>
     )
@@ -119,12 +121,16 @@ display: flex
 
 
 .gatsby-image-outer-wrapper {
-  width: 50%
-  align-self: flex-start
-  z-index: -2;
+
+  @media screen and (min-width: 600px) {
+    width: 50%
+    align-self: flex-start
+    z-index: -2;
+    position: sticky !important;
+    top: 1rem;
+  }
   
   @media screen and (max-width: 600px) {
-    width: 100%
     height: calc(100vw - 2rem);
     overflow: hidden;
     object-fit: cover;
@@ -142,7 +148,8 @@ width: 50%
   blockquote {
     font-style: italic;
     font-weight: 500;
-    padding-top: 1rem
+    padding-top: 1rem;
+    line-height: 1.5em;
   }
 }
 p {

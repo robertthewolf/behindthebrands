@@ -1,16 +1,19 @@
 import React from 'react'
 import styled from 'styled-components'
+import Image from 'gatsby-image'
 
-const Reference = ({ html, title, position, company, description }) => (
+const Reference = ({ html, title, image, position, logo }) => (
     <Half>
         <Quote>
             <div dangerouslySetInnerHTML={{ __html: html }} />
         </Quote>
         <Source>
+            <Avatar><Image sizes={image.childImageSharp.sizes}/></Avatar>
+            <div>
             <Author>{title}</Author>
             <Position>{position}</Position>
-            <Company>{company}</Company>
-            <Description>{description}</Description>
+            </div>
+            <Logo src={logo} />
         </Source>
     </Half>
 )
@@ -37,19 +40,35 @@ width: calc(100% - 2rem);
 const Quote = styled.blockquote`
 font-style: italic;
 text-align: justify;
-margin-bottom: 2rem
+margin-bottom: 1.5rem;
+background-color: whitesmoke;
+padding: 1.5rem
+
 em {
     font-size: 1em !important;
     font-weight: inherit;
-}`
+}
+
+img {
+    max-width: calc(50% - 1.2rem);
+    margin: 1rem .5rem 0;
+    display: inline-block
+}
+`
 
 const Source = styled.div`
 font-size: .9rem
 @media screen and (min-width: 550px) {
-  display: grid
-  grid-auto-flow: column;
-  grid-template-rows: auto auto
+  display: flex;
+  align-items: flex-start;
 }`
+
+const Avatar = styled.div`
+width: 4rem;
+border-radius: 50%;
+overflow: hidden;
+margin-right: 1rem;
+`
 
 const Author = styled.p`
 font-weight: 500
@@ -67,4 +86,10 @@ font-size: 1.2em;
 `
 
 const Description = styled.p`
+`
+
+const Logo = styled.img`
+max-height: 3rem;
+max-width: 8rem;
+margin-left: auto;
 `
