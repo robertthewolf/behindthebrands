@@ -35,12 +35,17 @@ export default class AboutPage extends React.Component {
               <AboutBox>
                 <div>
                 <h2>{post.frontmatter.name}</h2>
-                <h3>{post.frontmatter.position}</h3>
                 <blockquote>{post.frontmatter.quote}</blockquote>
                 </div>
                 <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
               </AboutBox>
             </Profile>
+
+              <Highlights>
+                {post.frontmatter.highlights.map((highlight) => (
+                  <li key={highlight.id}>{highlight}</li>
+                ))}
+              </Highlights>
             <Container>
               <Gallery src="img/foto1.jpg" alt="with clients 1" />
               <Gallery src="img/foto2.jpg" alt="with clients 2" />
@@ -73,7 +78,7 @@ query aboutQuery {
           }
         }
       }
-      position
+      highlights
       quote
     }
   }
@@ -151,6 +156,20 @@ p {
 
 @media screen and (max-width: 600px) {
   width: 100%
+}
+`
+
+const Highlights = styled.ul`
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin: 2rem auto;
+li {
+  padding: .5rem;
+  margin: .5rem;
+  text-transform: uppercase;
+  background-color: #E4E7EB;
+  text-align: center;
 }
 `
 

@@ -37,7 +37,7 @@ export default class IndexPage extends React.Component {
             />
             <Container>
               <Heading>Vision<br/>Mission<br/>Strategy</Heading>
-              <Tagline>We help to transform beauty and lifestyle brands into successful enterprises. </Tagline>
+              <Tagline>We help to transform beauty and lifestyle brands into successful enterprises in Europe and China. </Tagline>
             </Container>
       </Wrapper>
     )

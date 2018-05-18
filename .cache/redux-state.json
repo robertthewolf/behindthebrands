@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3e7c31e62c6538f8d276f7e685bf289a",
+        "contentDigest": "0893ef4c973a25c44860f3a0f9ea55e4",
         "owner": "internal-data-bridge"
       }
     },
@@ -1089,12 +1089,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-16T21:16:24.521Z",
+      "buildTime": "2018-05-18T07:17:02.089Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f9a4927c36cac3c5700ea540cf25dad8",
+        "contentDigest": "3ba2c98b5b8b1f4415dccaebad091fd3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1104,7 +1104,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8c912bff1fe4f90cf58052f6df7b6124",
+        "contentDigest": "af4beaf7a9d6923a7dfedfc9aa6eb9cb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1115,7 +1115,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-04T21:02:34.997Z",
-      "accessTime": "2018-05-16T21:16:29.010Z",
+      "accessTime": "2018-05-18T07:17:07.097Z",
       "changeTime": "2018-05-04T21:02:34.997Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
@@ -1133,11 +1133,11 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1526505389009.5745,
+      "atimeMs": 1526627827097.2393,
       "mtimeMs": 1525467754997.4,
       "ctimeMs": 1525467754997.4,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-16T21:16:29.010Z",
+      "atime": "2018-05-18T07:17:07.097Z",
       "mtime": "2018-05-04T21:02:34.997Z",
       "ctime": "2018-05-04T21:02:34.997Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
@@ -1147,7 +1147,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dd113e7954a511361f02e922d5c47cad",
+        "contentDigest": "c5375d88a25d1768b23fe45f00567482",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1158,7 +1158,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-04T21:02:34.997Z",
-      "accessTime": "2018-05-16T21:16:29.011Z",
+      "accessTime": "2018-05-18T07:17:07.100Z",
       "changeTime": "2018-05-04T21:02:34.997Z",
       "birthTime": "2018-05-04T21:02:30.754Z",
       "root": "/",
@@ -1176,11 +1176,11 @@
       "blksize": 4194304,
       "ino": 8602813210,
       "blocks": 0,
-      "atimeMs": 1526505389011.473,
+      "atimeMs": 1526627827099.5093,
       "mtimeMs": 1525467754997.3997,
       "ctimeMs": 1525467754997.3997,
       "birthtimeMs": 1525467750753.7393,
-      "atime": "2018-05-16T21:16:29.011Z",
+      "atime": "2018-05-18T07:17:07.100Z",
       "mtime": "2018-05-04T21:02:34.997Z",
       "ctime": "2018-05-04T21:02:34.997Z",
       "birthtime": "2018-05-04T21:02:30.754Z"
@@ -1190,7 +1190,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f0ac520e85193b72d3a298328d4ad04d",
+        "contentDigest": "ed36e9bdf4dd0f48cfe2e7e8a0c565fe",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1201,7 +1201,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-16T20:18:45.216Z",
-      "accessTime": "2018-05-16T21:16:29.012Z",
+      "accessTime": "2018-05-18T07:17:07.100Z",
       "changeTime": "2018-05-16T20:18:45.216Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1219,11 +1219,11 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1526505389011.5015,
+      "atimeMs": 1526627827099.5073,
       "mtimeMs": 1526501925216.3538,
       "ctimeMs": 1526501925216.3538,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-16T21:16:29.012Z",
+      "atime": "2018-05-18T07:17:07.100Z",
       "mtime": "2018-05-16T20:18:45.216Z",
       "ctime": "2018-05-16T20:18:45.216Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
@@ -1327,7 +1327,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2d3e5101bd56154a9a83dd52375aa3c1",
+        "contentDigest": "f9955d1e829f954c0bfccbbb5a839b3b",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1336,11 +1336,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/about/about.md",
       "relativePath": "about/about.md",
       "extension": "md",
-      "size": 2161,
-      "prettySize": "2.16 kB",
-      "modifiedTime": "2018-05-16T21:45:36.879Z",
-      "accessTime": "2018-05-16T21:45:36.878Z",
-      "changeTime": "2018-05-16T21:45:36.879Z",
+      "size": 1616,
+      "prettySize": "1.62 kB",
+      "modifiedTime": "2018-05-18T07:58:10.573Z",
+      "accessTime": "2018-05-18T07:58:10.559Z",
+      "changeTime": "2018-05-18T07:58:10.573Z",
       "birthTime": "2018-05-01T14:47:39.667Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/about",
@@ -1357,13 +1357,13 @@
       "blksize": 4194304,
       "ino": 8602581292,
       "blocks": 8,
-      "atimeMs": 1526507136878.2397,
-      "mtimeMs": 1526507136878.606,
-      "ctimeMs": 1526507136878.606,
+      "atimeMs": 1526630290558.9795,
+      "mtimeMs": 1526630290572.6958,
+      "ctimeMs": 1526630290572.6958,
       "birthtimeMs": 1525186059666.729,
-      "atime": "2018-05-16T21:45:36.878Z",
-      "mtime": "2018-05-16T21:45:36.879Z",
-      "ctime": "2018-05-16T21:45:36.879Z",
+      "atime": "2018-05-18T07:58:10.559Z",
+      "mtime": "2018-05-18T07:58:10.573Z",
+      "ctime": "2018-05-18T07:58:10.573Z",
       "birthtime": "2018-05-01T14:47:39.667Z"
     },
     "/Users/Robert/btb/src/data/frontpage.md absPath of file >>> MarkdownRemark": {
@@ -1412,7 +1412,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8fe8eba8ed55b9d9616f9ca649875f31",
+        "contentDigest": "3eb631ab511fe2384c537d9efc7b67e6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1420,11 +1420,11 @@
       "absolutePath": "/Users/Robert/btb/static/img",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2018-05-16T20:58:05.682Z",
-      "accessTime": "2018-05-16T21:16:29.024Z",
-      "changeTime": "2018-05-16T20:58:05.682Z",
+      "size": 352,
+      "prettySize": "352 B",
+      "modifiedTime": "2018-05-16T22:24:45.690Z",
+      "accessTime": "2018-05-18T07:17:07.114Z",
+      "changeTime": "2018-05-16T22:24:45.690Z",
       "birthTime": "2018-04-18T16:11:37.977Z",
       "root": "/",
       "dir": "/Users/Robert/btb/static",
@@ -1434,20 +1434,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 11,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8602121804,
       "blocks": 0,
-      "atimeMs": 1526505389023.7737,
-      "mtimeMs": 1526504285682.4756,
-      "ctimeMs": 1526504285682.4756,
+      "atimeMs": 1526627827114.1704,
+      "mtimeMs": 1526509485689.5186,
+      "ctimeMs": 1526509485689.5186,
       "birthtimeMs": 1524067897976.9976,
-      "atime": "2018-05-16T21:16:29.024Z",
-      "mtime": "2018-05-16T20:58:05.682Z",
-      "ctime": "2018-05-16T20:58:05.682Z",
+      "atime": "2018-05-18T07:17:07.114Z",
+      "mtime": "2018-05-16T22:24:45.690Z",
+      "ctime": "2018-05-16T22:24:45.690Z",
       "birthtime": "2018-04-18T16:11:37.977Z"
     },
     "/Users/Robert/btb/static/img/logo.png absPath of file": {
@@ -1822,169 +1822,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/Robert/btb/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "ba8bbd5ccf67cb384780638b9fafd0be",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/Robert/btb/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/about.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c05d57a2a99a6bb1ddc045f1d32b2a66",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "layout": "index",
-      "jsonName": "contact.json",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/Robert/btb/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0a32dd7e246fca1e6fd553d50d7c3a00",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/Robert/btb/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7e873f085cea326d15cfea23602c3094",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /reference/": {
-      "layout": "index",
-      "jsonName": "reference.json",
-      "internalComponentName": "ComponentReference",
-      "path": "/reference/",
-      "component": "/Users/Robert/btb/src/pages/reference.js",
-      "componentChunkName": "component---src-pages-reference-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/reference.js",
-      "id": "SitePage /reference/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0003f177fa7bb82e5f1de02b77d787bf",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /workflow/": {
-      "layout": "index",
-      "jsonName": "workflow.json",
-      "internalComponentName": "ComponentWorkflow",
-      "path": "/workflow/",
-      "component": "/Users/Robert/btb/src/pages/workflow.js",
-      "componentChunkName": "component---src-pages-workflow-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/workflow.js",
-      "id": "SitePage /workflow/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "6b5e77270099ed563bf7d96f4a6d1df6",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/Robert/btb/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/Robert/btb/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "07b503bafd46ffdc3c37f0c7d922edf1",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "/Users/Robert/btb/src/data/about/about.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/btb/src/data/about/about.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/btb/src/data/about/about.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: about\nname: Marketa Hamadakova\nimage: /img/profile.jpg\nposition: Founder & CEO\nquote: '\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"'\n---\n\"My enthusiasm for developing and managing brand identity goes had in had with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential.\"\n\nMarketa has built up her expertise through various positions in large international as well as local companies alongside her cooperation with individuals and variety of projects.\n\nShe was recruited to New York to support East Coast operations of the Czech national trade and investment platform CzechInvest. After her graduation she worked as key account manager for L’́Oreal’s Active Cosmetics Division with responsibility to create and execute its trade marketing plans, promo activities and to manage relations with key B2B partners, just before leading the marketing at Estée Lauder Czech Republic with responsibility for the whole Estée Lauder portfolio, including all marketing activities (print, outdoor, online, digital, promo), trade plans, customer retention, loyalty programs and CRM. She has proven her astuteness, perceptiveness, good judgement and deep understanding of the market and its customers when successfully leading five free standing. Moreover, Marketa's strategic vision and “digital first” approach resulted in attracting greater share of high and luxury clients and also younger generation of Millenials to the stores and the brand itself.\n\nHer experience with Estée Lauder, L’Oréal, Lasvit and special event management during Prague Fashion Week all gave her great insights into brands and made her knowledgeable in the field of luxury, beauty and lifestyle. Knowing the background of the top European brands (digital, retail and exclusive positioning) was clearly a competitive advantage when she started her own marketing and business development consultancy agency while moving in Beijing.",
-        "contentDigest": "85e94da70b3c349f3a5b8d8117e422ad",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "about",
-        "name": "Marketa Hamadakova",
-        "image": "../../../static/img/profile.jpg",
-        "position": "Founder & CEO",
-        "quote": "\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"",
-        "_PARENT": "/Users/Robert/btb/src/data/about/about.md absPath of file",
-        "parent": "/Users/Robert/btb/src/data/about/about.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/btb/src/data/about/about.md"
-    },
     "/Users/Robert/btb/static/img/estee_lauder.svg absPath of file": {
       "id": "/Users/Robert/btb/static/img/estee_lauder.svg absPath of file",
       "children": [],
@@ -2272,6 +2109,176 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/Robert/btb/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d22a3c5494be71a4f50e9c273e12fe7f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/Robert/btb/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "304cf8f7af2a2ff7c152ef8f17d75faa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "layout": "index",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/Robert/btb/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1629f2880bbc47f74cffee8c5c03e7bb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/Robert/btb/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "844ff4ba0eca3a36d5b5e6a846f17df2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /reference/": {
+      "layout": "index",
+      "jsonName": "reference.json",
+      "internalComponentName": "ComponentReference",
+      "path": "/reference/",
+      "component": "/Users/Robert/btb/src/pages/reference.js",
+      "componentChunkName": "component---src-pages-reference-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/reference.js",
+      "id": "SitePage /reference/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c934256830e6bdc0f18209f470adb987",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /workflow/": {
+      "layout": "index",
+      "jsonName": "workflow.json",
+      "internalComponentName": "ComponentWorkflow",
+      "path": "/workflow/",
+      "component": "/Users/Robert/btb/src/pages/workflow.js",
+      "componentChunkName": "component---src-pages-workflow-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/Robert/btb/src/pages/workflow.js",
+      "id": "SitePage /workflow/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f89ef0116bc9d453a9cb14a11b11a5ab",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/Robert/btb/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/Robert/btb/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4d899e6b79daea85210b1e0da4f79074",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/Robert/btb/src/data/about/about.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/about/about.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/about/about.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: about\nname: Marketa Hamadakova\nimage: /img/profile.jpg\nquote: '\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\n\nMy enthusiasm for developing and managing brand identity goes had in had with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential.\"'\nhighlights:\n- omni-channel marketing strategy\n- project management\n- business assistence\n- sourcing of influencers partnerships\n- event management\n- production of creative content for the social media platforms \n---\n\n\nMarketa has built up her expertise through various positions in large international as well as local companies alongside her cooperation with individuals and variety of projects.\n\nHer experience with Estée Lauder, L’Oréal, Lasvit and special event management during Prague Fashion Week all gave her great insights into brands and made her knowledgeable in the field of luxury, beauty and lifestyle. Knowing the background of the top European brands (digital, retail and exclusive positioning) was clearly a competitive advantage when she started her own marketing and business development consultancy agency. After she moved to Beijing she established a strong network within local brands, Key Opinion Leaders and investment communities. That is why her agency creates value not only for domestic companies, but also for the European brands when they want to enter the largest market in the world. ",
+        "contentDigest": "c92720d478b75eb9fb465c1923885ca6",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "about",
+        "name": "Marketa Hamadakova",
+        "image": "../../../static/img/profile.jpg",
+        "quote": "\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\nMy enthusiasm for developing and managing brand identity goes had in had with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential.\"",
+        "highlights": [
+          "omni-channel marketing strategy",
+          "project management",
+          "business assistence",
+          "sourcing of influencers partnerships",
+          "event management",
+          "production of creative content for the social media platforms"
+        ],
+        "_PARENT": "/Users/Robert/btb/src/data/about/about.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/about/about.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/about/about.md"
     }
   },
   "status": {
@@ -2281,6 +2288,7 @@
   "componentDataDependencies": {
     "nodes": {
       "/Users/Robert/btb/src/data/about/about.md absPath of file >>> MarkdownRemark": [
+        "/",
         "/about/"
       ],
       "/Users/Robert/btb/static/img/profile.jpg absPath of file": [
