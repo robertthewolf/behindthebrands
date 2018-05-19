@@ -57,6 +57,10 @@ img {
   max-width: 80vw;
 }
 
+a:before {
+  display: none;
+}
+
 @media screen and (max-width: 650px) {
   text-align: center
 }

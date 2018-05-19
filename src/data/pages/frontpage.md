@@ -1,6 +1,6 @@
 ---
 templateKey: frontpage
-name: Vision, Mision, Strategy
-tagline: We help to transform beauty and lifestyle brands into successful enterprises in Europe and China.
+name: Vision, Strategy, Visibility
+tagline: ...all that we can help you with to make your brand lead and not to follow in Europe and China.
 image: /img/frontpage.png
 ---

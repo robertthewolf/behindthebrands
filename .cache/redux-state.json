@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4d26f16378dc1a8d710800adabdc02e9",
+        "contentDigest": "5e747622c53087787283fe03adfa2d71",
         "owner": "internal-data-bridge"
       }
     },
@@ -1164,12 +1164,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-18T14:42:01.443Z",
+      "buildTime": "2018-05-19T15:10:57.542Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "881ac1ffd602c3f07b289da7ae99b6b8",
+        "contentDigest": "8c83cc9a0e196e0161040bf5911c3f28",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1179,7 +1179,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "33d23f871119b3f12cb2ca790ca94852",
+        "contentDigest": "e766329557795a7dce709d03086a87d7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1190,7 +1190,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-18T13:27:58.211Z",
-      "accessTime": "2018-05-18T14:42:05.856Z",
+      "accessTime": "2018-05-19T15:11:03.559Z",
       "changeTime": "2018-05-18T13:27:58.211Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
@@ -1208,11 +1208,11 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1526654525856.4238,
+      "atimeMs": 1526742663559.3206,
       "mtimeMs": 1526650078211.0586,
       "ctimeMs": 1526650078211.0586,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-18T14:42:05.856Z",
+      "atime": "2018-05-19T15:11:03.559Z",
       "mtime": "2018-05-18T13:27:58.211Z",
       "ctime": "2018-05-18T13:27:58.211Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
@@ -1222,7 +1222,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1eebc01b1faef0ced2ff16b6e99d6364",
+        "contentDigest": "69a7b98ed030e98f77354745a44c1956",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1233,7 +1233,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-18T13:28:08.588Z",
-      "accessTime": "2018-05-18T14:42:05.858Z",
+      "accessTime": "2018-05-19T15:11:03.561Z",
       "changeTime": "2018-05-18T13:28:08.588Z",
       "birthTime": "2018-05-04T21:02:30.754Z",
       "root": "/",
@@ -1251,11 +1251,11 @@
       "blksize": 4194304,
       "ino": 8602813210,
       "blocks": 0,
-      "atimeMs": 1526654525858.4927,
+      "atimeMs": 1526742663561.377,
       "mtimeMs": 1526650088587.6963,
       "ctimeMs": 1526650088587.6963,
       "birthtimeMs": 1525467750753.7393,
-      "atime": "2018-05-18T14:42:05.858Z",
+      "atime": "2018-05-19T15:11:03.561Z",
       "mtime": "2018-05-18T13:28:08.588Z",
       "ctime": "2018-05-18T13:28:08.588Z",
       "birthtime": "2018-05-04T21:02:30.754Z"
@@ -1265,7 +1265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dbad8c20997ccec7c40d0b0ed77d9bdf",
+        "contentDigest": "6f05e175cf113c0e83bbfa380820fb89",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1276,7 +1276,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-16T20:18:45.216Z",
-      "accessTime": "2018-05-18T14:42:05.858Z",
+      "accessTime": "2018-05-19T15:11:03.561Z",
       "changeTime": "2018-05-16T20:18:45.216Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1294,11 +1294,11 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1526654525858.4924,
+      "atimeMs": 1526742663561.3545,
       "mtimeMs": 1526501925216.3538,
       "ctimeMs": 1526501925216.3538,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-18T14:42:05.858Z",
+      "atime": "2018-05-19T15:11:03.561Z",
       "mtime": "2018-05-16T20:18:45.216Z",
       "ctime": "2018-05-16T20:18:45.216Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
@@ -1540,7 +1540,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f1f4cb96f0a4ea03c4747302cce03efd",
+        "contentDigest": "9567d07f95a3d365d81f9c753a8c767f",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1549,11 +1549,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/pages/about.md",
       "relativePath": "pages/about.md",
       "extension": "md",
-      "size": 1617,
-      "prettySize": "1.62 kB",
-      "modifiedTime": "2018-05-18T14:51:49.402Z",
-      "accessTime": "2018-05-18T14:51:49.400Z",
-      "changeTime": "2018-05-18T14:51:49.402Z",
+      "size": 1567,
+      "prettySize": "1.57 kB",
+      "modifiedTime": "2018-05-19T15:58:41.221Z",
+      "accessTime": "2018-05-19T15:58:41.221Z",
+      "changeTime": "2018-05-19T15:58:41.221Z",
       "birthTime": "2018-05-01T14:47:39.667Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/pages",
@@ -1570,13 +1570,13 @@
       "blksize": 4194304,
       "ino": 8602581292,
       "blocks": 8,
-      "atimeMs": 1526655109400.1455,
-      "mtimeMs": 1526655109401.8289,
-      "ctimeMs": 1526655109401.8289,
+      "atimeMs": 1526745521220.5872,
+      "mtimeMs": 1526745521221.3345,
+      "ctimeMs": 1526745521221.3345,
       "birthtimeMs": 1525186059666.729,
-      "atime": "2018-05-18T14:51:49.400Z",
-      "mtime": "2018-05-18T14:51:49.402Z",
-      "ctime": "2018-05-18T14:51:49.402Z",
+      "atime": "2018-05-19T15:58:41.221Z",
+      "mtime": "2018-05-19T15:58:41.221Z",
+      "ctime": "2018-05-19T15:58:41.221Z",
       "birthtime": "2018-05-01T14:47:39.667Z"
     },
     "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file": {
@@ -1586,7 +1586,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2794ccf9212b262e4e056aa25ccdadb4",
+        "contentDigest": "981267255de6a9a3b65d173893ba7a63",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1595,11 +1595,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md",
       "relativePath": "pages/frontpage.md",
       "extension": "md",
-      "size": 194,
-      "prettySize": "194 B",
-      "modifiedTime": "2018-05-18T13:56:22.755Z",
-      "accessTime": "2018-05-18T14:38:38.313Z",
-      "changeTime": "2018-05-18T13:56:22.755Z",
+      "size": 196,
+      "prettySize": "196 B",
+      "modifiedTime": "2018-05-19T15:56:24.915Z",
+      "accessTime": "2018-05-19T15:56:24.914Z",
+      "changeTime": "2018-05-19T15:56:24.915Z",
       "birthTime": "2018-05-18T13:28:04.716Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/pages",
@@ -1616,13 +1616,13 @@
       "blksize": 4194304,
       "ino": 8603946166,
       "blocks": 8,
-      "atimeMs": 1526654318312.516,
-      "mtimeMs": 1526651782755.1863,
-      "ctimeMs": 1526651782755.1863,
+      "atimeMs": 1526745384914.028,
+      "mtimeMs": 1526745384914.9016,
+      "ctimeMs": 1526745384914.9016,
       "birthtimeMs": 1526650084716.2444,
-      "atime": "2018-05-18T14:38:38.313Z",
-      "mtime": "2018-05-18T13:56:22.755Z",
-      "ctime": "2018-05-18T13:56:22.755Z",
+      "atime": "2018-05-19T15:56:24.914Z",
+      "mtime": "2018-05-19T15:56:24.915Z",
+      "ctime": "2018-05-19T15:56:24.915Z",
       "birthtime": "2018-05-18T13:28:04.716Z"
     },
     "/Users/Robert/btb/src/data/frontpage.md absPath of file >>> MarkdownRemark": {
@@ -1745,16 +1745,16 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: frontpage\nname: Vision, Mision, Strategy\ntagline: We help to transform beauty and lifestyle brands into successful enterprises in Europe and China.\nimage: /img/frontpage.png\n---",
-        "contentDigest": "18f1a47a036a74dc1fa53452aebee81c",
+        "content": "---\ntemplateKey: frontpage\nname: Vision, Strategy, Visibility\ntagline: ...all that we can help you with to make your brand lead and not to follow in Europe and China.\nimage: /img/frontpage.png\n---",
+        "contentDigest": "7b56456e67a64199911430d1f8bb0543",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "",
         "templateKey": "frontpage",
-        "name": "Vision, Mision, Strategy",
-        "tagline": "We help to transform beauty and lifestyle brands into successful enterprises in Europe and China.",
+        "name": "Vision, Strategy, Visibility",
+        "tagline": "...all that we can help you with to make your brand lead and not to follow in Europe and China.",
         "image": "../../../static/img/frontpage.png",
         "_PARENT": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
         "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file"
@@ -1767,7 +1767,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f082ea522746e01730e51e9cae6346f",
+        "contentDigest": "71409ef82695b45661e21509b4ea2dca",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1778,7 +1778,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2018-05-18T14:02:51.850Z",
-      "accessTime": "2018-05-18T14:42:05.974Z",
+      "accessTime": "2018-05-19T15:11:03.580Z",
       "changeTime": "2018-05-18T14:02:51.850Z",
       "birthTime": "2018-04-18T16:11:37.977Z",
       "root": "/",
@@ -1796,11 +1796,11 @@
       "blksize": 4194304,
       "ino": 8602121804,
       "blocks": 0,
-      "atimeMs": 1526654525973.7727,
+      "atimeMs": 1526742663579.7139,
       "mtimeMs": 1526652171849.6968,
       "ctimeMs": 1526652171849.6968,
       "birthtimeMs": 1524067897976.9976,
-      "atime": "2018-05-18T14:42:05.974Z",
+      "atime": "2018-05-19T15:11:03.580Z",
       "mtime": "2018-05-18T14:02:51.850Z",
       "ctime": "2018-05-18T14:02:51.850Z",
       "birthtime": "2018-04-18T16:11:37.977Z"
@@ -2333,7 +2333,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ef064f09803534ca5069a42a102c450",
+        "contentDigest": "de0b27efebae16f67173358d058b1e3f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2353,7 +2353,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ff82d11c41b8f4fa3a396d7e2c7a35e",
+        "contentDigest": "ba0392392513973688f9c7a9d035598d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2373,7 +2373,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "707c3da765a864c81e80bae33f01198a",
+        "contentDigest": "d2ff9bf9be2e13ff0618e7bdc6b5f277",
         "owner": "internal-data-bridge"
       }
     },
@@ -2393,7 +2393,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "196d7d38b64d3175cae04e82a8e177d3",
+        "contentDigest": "9d9461e06bbc2384adb7a207a47f2f9f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2413,7 +2413,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5334e9da76edc6f70ad93ef71acee6b5",
+        "contentDigest": "7bc5dc55f10bc6d722c0622fc2549524",
         "owner": "internal-data-bridge"
       }
     },
@@ -2433,7 +2433,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "532ab7b3af2b7af6b5ad50a4c34ace28",
+        "contentDigest": "5cb94566c3bf6d46ed135b9ea43e2b8b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2453,7 +2453,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7b995f1fe34670dc820b3d9834ae2593",
+        "contentDigest": "4e5e154b9439682196b1ee18b7270907",
         "owner": "internal-data-bridge"
       }
     },
@@ -2462,8 +2462,8 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/pages/about.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: about\nname: Marketa Hamadakova\nimage: /img/profile.jpg\nquote: '\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"'\nhighlights:\n- >\n    __omni-channel marketing strategy__\n- project management\n- business assistence\n- sourcing of influencers partnerships\n- event management\n- production of creative content for the social media platforms \n---\n\nMy enthusiasm for developing and managing brand identity goes had in had with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategies and visions that transform the brand and uncover more of its potential.\n\nI have been building my expertise while working in various positions in large international as well as local companies alongside the cooperation with individuals and variety of projects. My experience with Estée Lauder, L’Oréal, Lasvit and special event management during Prague Fashion Week all gave me a great insights into brands and made me knowledgeable in the field of luxury, beauty and lifestyle. \n\nKnowing the background of the top European brands (both digital and retail) I have started my own marketing and business development consultancy agency while moving from Prague to Beijing. \n\nSince my relocation to China I have established a strong network within local brands, key opinion leaders and investment communities. That is why my agency creates value not only for domestic companies, but also for the European brands when they want to enter the largest market in the world.",
-        "contentDigest": "f48406dbd2d99263d09f3e881ec70148",
+        "content": "---\ntemplateKey: about\nname: Marketa Hamadakova\nimage: /img/profile.jpg\nquote: '\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"'\nhighlights:\n- OMNI-CHANNEL MARKETING strategy\n- business EXPANSION\n- EVENT creation and execution\n- production of CONTENT for SOCIAL MEDIA\n- INFLUENCERS partnerships\n---\n\nMy enthusiasm for developing and managing brand identity goes hand in hand with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategy and vision that transform the brand and uncover more of its potential.\n\nI have been building my expertise when working in various positions in large international as well as local companies alongside the cooperation with inspiring individuals on variety of projects. My experience with Estée Lauder, L’Oréal, Lasvit and special event management during Prague Fashion Week all gave me a great insights into brands and made me very familiar with the fields of luxury, beauty and lifestyle. \n\nWith background know-how of the top European brands (both digital and retail) I have started my own marketing and business development consultancy after I moved from Prague to Beijing. \n\nSince my relocation to China I have established a strong network within local brands, key opinion leaders and investment communities. That is why my agency creates value not only for domestic companies, but also for the European brands when they want to enter the largest market in the world.",
+        "contentDigest": "4e392060b27ea28e37a678c4c25949c6",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -2474,12 +2474,11 @@
         "image": "../../../static/img/profile.jpg",
         "quote": "\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"",
         "highlights": [
-          "__omni-channel marketing strategy__\n",
-          "project management",
-          "business assistence",
-          "sourcing of influencers partnerships",
-          "event management",
-          "production of creative content for the social media platforms"
+          "OMNI-CHANNEL MARKETING strategy",
+          "business EXPANSION",
+          "EVENT creation and execution",
+          "production of CONTENT for SOCIAL MEDIA",
+          "INFLUENCERS partnerships"
         ],
         "_PARENT": "/Users/Robert/btb/src/data/pages/about.md absPath of file",
         "parent": "/Users/Robert/btb/src/data/pages/about.md absPath of file"
@@ -2498,12 +2497,12 @@
         "/about/"
       ],
       "/Users/Robert/btb/static/img/profile.jpg absPath of file": [
-        "/about/",
-        "/reference/"
+        "/reference/",
+        "/about/"
       ],
       "/Users/Robert/btb/static/img/profile.jpg absPath of file >> ImageSharp": [
-        "/about/",
-        "/reference/"
+        "/reference/",
+        "/about/"
       ],
       "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark": [
         "/"

@@ -42,13 +42,25 @@ export default class AboutPage extends React.Component {
             </Profile>
             <Container background="#FFFCF7">
               <Column>
-                <Believe>We believe in brands with...</Believe>
+                <Believe>We can help you with...</Believe>
               </Column>
               <Column>
                 <Values>
-                {post.frontmatter.highlights.map((highlight) => (
-                  <Value key={highlight.id}>{highlight}</Value>
-                ))}
+                {post.frontmatter.highlights.map((text) => {
+                  const prepended = ' '+ text;
+                  const uppercased = prepended.split(' ').reduce((result, word) => {
+                    if (word == word.toUpperCase()) {
+                      console.log(word);
+                      return result + ' <em>' + word + '</em>';
+                    } else {
+                      console.log(word);
+                      return result + ' ' + word;
+                    }
+                  })
+
+                  return (
+                  <Value key={text.id} dangerouslySetInnerHTML={{__html: uppercased}}></Value>
+                )})}
                 </Values>
               </Column>
             </Container>
