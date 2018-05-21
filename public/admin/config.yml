@@ -12,11 +12,14 @@ collections:
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "reference"}
+      - {label: "Pořadí", name: "order", widget: "number"}
       - {label: "Jméno autora", name: "title", widget: "string"}
+      - {label: "Fotka", name: "image", widget: "image"}
       - {label: "Pozice autora", name: "position", widget: "string"}
       - {label: "Název společnosti", name: "company", widget: "string"}
       - {label: "Popis společnosti", name: "description", widget: "string"}
       - {label: "Quote", name: "body", widget: "markdown"}
+      - {label: "Logo", name: "logo", widget: "image"}
   - name: "about"
     label: "About"
     folder: "src/data/about"

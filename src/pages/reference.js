@@ -48,13 +48,14 @@ export default class ReferencePage extends React.Component {
 
 export const pageQuery = graphql`
 query refQuery {
-  allMarkdownRemark {
+  allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___order] }) {
     edges {
       node {
         id
         html
         frontmatter {
           templateKey
+          order
           title
           image {
             childImageSharp {

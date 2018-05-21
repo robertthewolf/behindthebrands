@@ -1,8 +1,9 @@
 ---
 templateKey: reference
+order: 3
 title: Marianna Sidor
-image: /img/smejc.jpg
-position: Brand Manager Estée Lauder
+image: /img/marianna.jpg
+position: Brand Manager of Estéee Lauder, South Africa
 company: Estée Lauder Companies
 description: >-
   One of the world's leading manufacturers and marketers of quality skin care,

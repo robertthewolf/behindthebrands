@@ -21,12 +21,15 @@ import framed from '../img/framed.svg'
 import message from '../img/message.svg'
 import sell from '../img/sell.svg'
 
+import background from '../img/workflow.jpg'
+
 export default class IndexPage extends React.Component {
   render() {
 
     return (
     <div>
       <Wrapper>
+        <Background background={background} />
             <Heading>Workflow</Heading>
             <Subheading>
                 <em>We deliver personalized, made-to measure marketing and business development.</em><br/>We take your vision and shape it to omni channel, "digital first" strategy that will bring you stronger identity for your brand. Our results are tangible, real and always visible. </Subheading>
@@ -72,6 +75,18 @@ export default class IndexPage extends React.Component {
     )
   }
 }
+
+const Background = styled.div`
+background-image: url(${props => props.background});
+background-size: cover;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100vh;
+z-index: -2;
+opacity: .10;
+`
 
 const Subheading = styled.p`
 text-align: center;

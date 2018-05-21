@@ -1,8 +1,9 @@
 ---
 templateKey: reference
+order: 2
 title: Leon Jakimič
-image: /img/smejc.jpg
-position: Founder and owner
+image: /img/jakimic.jpg
+position: President at LASVIT, Hong Kong
 company: LASVIT s.r.o.
 description: 'Glass installations, sculptures and design lighting'
 logo: /img/lasvit.svg

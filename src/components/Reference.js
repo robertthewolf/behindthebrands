@@ -89,7 +89,7 @@ const Description = styled.p`
 `
 
 const Logo = styled.img`
-max-height: 3rem;
-max-width: 8rem;
+max-height: 4rem;
+max-width: 10rem;
 margin-left: auto;
 `

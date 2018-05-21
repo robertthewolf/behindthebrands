@@ -1,8 +1,9 @@
 ---
 templateKey: reference
+order: 4
 title: Jitka Šichová
-image: /img/smejc.jpg
-position: Sales Director of Dermocosmetic division at L'Oréal CZ+SK
+image: /img/jitka.jpg
+position: Sales Director of Dermocosmetic division at L'Oréal, Czech Republic
 company: 'L''Oréal '
 description: 'The world leader in beauty, present in 150 countries on five continents. '
 logo: /img/loreal.svg

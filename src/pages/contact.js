@@ -25,6 +25,7 @@ export default class IndexPage extends React.Component {
             <p>RM B 19/F KAM CHING COMM BLDG<br/>19-21 HENESSY RD WAMCHAI<br/>HONG KONG </p>
           </Half>
         </Container>
+        <Signature>{(new Date()).getFullYear()} ❤️ Web developed by <a href="http://robertwolf.cz/" target="_blank">Robert Wolf</a></Signature>
       </Wrapper>
     )
   }
@@ -37,10 +38,10 @@ justify-content: center;
 text-align: center;
 background: linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.51) 32.04%, #FFF7F7 100%);
 
-height: calc(100vh - 88px);
+min-height: calc(100vh - 88px);
 
 @media screen and (max-width: 650px) {
-  height: calc(100vh - 141px);
+  min-height: calc(100vh - 141px);
 }
 `
 
@@ -57,3 +58,8 @@ a {
 }
 
 `
+
+const Signature = styled.p`
+text-align: center;
+margin: auto auto 0;
+padding: 2rem 1rem`
