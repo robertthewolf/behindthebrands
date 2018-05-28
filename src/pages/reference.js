@@ -15,7 +15,7 @@ export default class ReferencePage extends React.Component {
 
     return (
       <Wrapper>
-            <Heading>Reference</Heading>
+            <Heading>References</Heading>
             <Container>
             {posts.filter(post => post.node.frontmatter.templateKey === 'reference')
             .map(({ node: post }) => (

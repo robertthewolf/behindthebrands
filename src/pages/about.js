@@ -26,7 +26,7 @@ export default class AboutPage extends React.Component {
                   <Value><em>DISTINCTIONS</em></Value>
                   <Value><em>MISSION</em>, <em>FEELINGS</em> and <em>STORY</em> that resonate with people. </Value>
                   <Value><em>DIGITAL AND SOCIAL PRESENCE</em> that allow to clearly, easily <em>TRACE & OPTIMIZE</em> all marketing activities.</Value>
-                  <Value>properly defined <em>KPIs</em> that <em>CREATE RESOURCES</em> and not burn them.</Value>
+                  <Value>well-defined <em>KPIs</em> that <em>CREATE RESOURCES</em> and not burn them.</Value>
                 </Values>
               </Column>
             </Container>
@@ -72,7 +72,7 @@ export default class AboutPage extends React.Component {
 
 export const AboutPageQuery = graphql`
 query aboutQuery {
-  markdownRemark(frontmatter: {templateKey: { eq: "about" }}) {
+  markdownRemark(frontmatter: {templateKey: { eq: "frontpage" }}) {
     html
     frontmatter {
       templateKey

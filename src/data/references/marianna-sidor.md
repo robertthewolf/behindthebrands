@@ -10,4 +10,4 @@ description: >-
   makeup, fragrance and hair care products.
 logo: /img/estee_lauder.svg
 ---
-_"Marketa knows how to implement the right sort of trends in online & offline marketing strategy in order to deliver great results. Her successful launch of omni-chanel Marketing strategy only affirmed her position of competent business women, capable of attracting new customers from Millenials into our retail stores while still keeping the characteristic luxury positioning of Estée Lauder brand. Cooperating with Markéta has been always enriching, whether on daily agenda or extra projects."_
+"Markéta knows how to implement the right sort of trends in an online & offline marketing strategy in order to deliver great results. Her successful launch of our omnichannel marketing strategy only proved her being a competent business woman, who was capable of attracting new customers from among the Millennials into our retail stores while allowing us to keep the characteristic luxury positioning of the Estée Lauder brand. Cooperating with Markéta has always been enriching, whether on a daily agenda or extra projects."

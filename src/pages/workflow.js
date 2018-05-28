@@ -32,10 +32,9 @@ export default class IndexPage extends React.Component {
       <Wrapper>
         <Background background={background} />
             <Heading>Workflow</Heading>
-            <Subheading>
-                <em>We deliver personalized, made-to measure marketing and business development.</em><br/>We take your vision and shape it to omni channel, "digital first" strategy that will bring you stronger identity for your brand. Our results are tangible, real and always visible. </Subheading>
+            <Subheading><em>We provide personalized, made-to measure marketing and business development.</em>We take your vision and transform it into omnichannel, "digital-first" strategy that will give your brand a stronger identity. Our results are tangible, real and always visible. </Subheading>
             <Box>
-                <p>Developing <em>BRAND</em> identity is exciting and innovative. It is also communicative and collaborative process. We want to share hearts and minds with our clients. To have common goals and shared values. </p>
+                <p>Developing <em>BRAND</em> identity is exciting and innovative. It is always a collaborative process requiring communication. We want to share the hearts and minds with our clients – to have common goals and shared values.</p>
             </Box>
       </Wrapper>
       <Wrapper background='#F9F9F9'>
@@ -54,7 +53,7 @@ export default class IndexPage extends React.Component {
             <Stage number='2'>we use</Stage>
             <Container background='white'>
               <Third>our well-developed<em>SENSE OF STRATEGY</em></Third>
-              <Third>packed with the<em>CREATIVE POWER</em></Third>
+              <Third><em>CREATIVE POWER</em></Third>
               <Third>and<em>COMMITMENT</em>of our team</Third>
             </Container>
       </Wrapper>

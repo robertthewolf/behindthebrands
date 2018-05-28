@@ -6,9 +6,12 @@ const Footer = () => (
   <Container>
       <Message>
           <Link to="/contact">
-          Get in touch with us.
+          CONTACT US NOW.
           </Link>
-        </Message>
+      </Message>
+      <Message>
+        {(new Date()).getFullYear()} © designed & developed by <a href="http://robertwolf.cz/" target="_blank">Robert Wolf</a>
+      </Message>
   </Container>
 )
 

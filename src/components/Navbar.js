@@ -22,7 +22,7 @@ const Navbar = () => (
         </div>
         <div>
         <Link activeClassName="active" to="/reference">
-          Reference
+          References
         </Link>
         <Link activeClassName="active" to="/contact">
           Contact
