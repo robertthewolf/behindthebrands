@@ -40,7 +40,6 @@ export default class ReferencePage extends React.Component {
                 </Values>
               </Center>
             </Container>
-      <Footer />
       </Wrapper>
     )
   }

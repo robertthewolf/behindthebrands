@@ -70,7 +70,7 @@ export default class AboutPage extends React.Component {
   }
 }
 
-export const pageQuery = graphql`
+export const AboutPageQuery = graphql`
 query aboutQuery {
   markdownRemark(frontmatter: {templateKey: { eq: "about" }}) {
     html

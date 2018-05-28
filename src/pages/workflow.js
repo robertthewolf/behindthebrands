@@ -23,6 +23,7 @@ import sell from '../img/sell.svg'
 
 import background from '../img/workflow.jpg'
 
+
 export default class IndexPage extends React.Component {
   render() {
 

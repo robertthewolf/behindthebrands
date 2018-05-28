@@ -39,7 +39,6 @@ width: calc(100% - 2rem);
 
 const Quote = styled.blockquote`
 font-style: italic;
-text-align: justify;
 margin-bottom: 1.5rem;
 background-color: whitesmoke;
 padding: 1.5rem
@@ -58,16 +57,25 @@ img {
 
 const Source = styled.div`
 font-size: .9rem
+@media screen and (max-width: 550px) {
+    text-align: center
+}
+
 @media screen and (min-width: 550px) {
   display: flex;
   align-items: flex-start;
-}`
+}
+
+`
 
 const Avatar = styled.div`
 width: 4rem;
 border-radius: 50%;
 overflow: hidden;
 margin-right: 1rem;
+@media screen and (max-width: 550px) {
+    margin: 0 auto .5rem;
+}
 `
 
 const Author = styled.p`
