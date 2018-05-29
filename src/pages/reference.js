@@ -40,6 +40,7 @@ export default class ReferencePage extends React.Component {
                 </Values>
               </Center>
             </Container>
+        <Footer/>
       </Wrapper>
     )
   }
@@ -58,8 +59,16 @@ query refQuery {
           title
           image {
             childImageSharp {
-              sizes {
-                ...GatsbyImageSharpSizes
+              sizes(
+                quality: 100,
+                traceSVG: {
+                  color: "rgb(20, 20, 20)",
+                  threshold: 95
+                },
+                toFormat: JPG
+              ) {
+                ...GatsbyImageSharpSizes_tracedSVG
+                aspectRatio
               }
             }
           }

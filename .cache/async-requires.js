@@ -4,7 +4,6 @@ const preferDefault = m => m && m.default || m
 exports.components = {
   "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/Robert/btb/.cache/dev-404-page.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!/Users/Robert/btb/src/pages/404.js"),
-  "component---src-pages-about-js": require("gatsby-module-loader?name=component---src-pages-about-js!/Users/Robert/btb/src/pages/about.js"),
   "component---src-pages-contact-js": require("gatsby-module-loader?name=component---src-pages-contact-js!/Users/Robert/btb/src/pages/contact.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/Robert/btb/src/pages/index.js"),
   "component---src-pages-reference-js": require("gatsby-module-loader?name=component---src-pages-reference-js!/Users/Robert/btb/src/pages/reference.js"),
@@ -16,8 +15,6 @@ exports.json = {
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/Robert/btb/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/btb/.cache/json/layout-index.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/Robert/btb/.cache/json/404.json"),
-  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/btb/.cache/json/layout-index.json"),
-  "about.json": require("gatsby-module-loader?name=path---about!/Users/Robert/btb/.cache/json/about.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/btb/.cache/json/layout-index.json"),
   "contact.json": require("gatsby-module-loader?name=path---contact!/Users/Robert/btb/.cache/json/contact.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/Robert/btb/.cache/json/layout-index.json"),

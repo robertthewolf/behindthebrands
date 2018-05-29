@@ -13,9 +13,6 @@ const Navbar = () => (
       </Logo>
       <Nav>
         <div>
-        <Link activeClassName="active" to="/about">
-          About
-        </Link>
         <Link activeClassName="active" to="/workflow">
           Workflow
         </Link>

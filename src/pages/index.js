@@ -65,7 +65,7 @@ export default class IndexPage extends React.Component {
                 <Values>
                   <Value><em>DISTINCTIONS</em></Value>
                   <Value><em>MISSION</em>, <em>FEELINGS</em> and <em>STORY</em> that resonate with people. </Value>
-                  <Value><em>DIGITAL AND SOCIAL PRESENCE</em> that allow to clearly, easily <em>TRACE & OPTIMIZE</em> all marketing activities.</Value>
+                  <Value><em>DIGITAL AND SOCIAL PRESENCE</em> with a clear and easy way to <em>TRACE & OPTIMIZE</em> all marketing activities.</Value>
                   <Value>well-defined <em>KPIs</em> that <em>CREATE RESOURCES</em> and not burn them.</Value>
                 </Values>
               </Column>
@@ -155,10 +155,11 @@ justify-content: center
 text-align: center;
 background-image: linear-gradient(180deg, rgba(255, 252, 247, 0) 0%, rgba(255, 252, 247, 0.51) 32.04%, #FFF 100%);
 flex: 10;
-min-height: 80vh;
+min-height: 90vh;
 position: relative
 @media screen and (max-width: 600px) {
     justify-content: flex-end;
+    min-height: 70vh;
 }
 > div {
   display: block;
@@ -248,23 +249,13 @@ display: flex
 const AboutBox = styled.div`
 width: 50%
 > *:first-child {
-  margin: 1rem
-  @media screen and (min-width: 700px) {
-    margin-left: -6rem
-  }
-  blockquote {
-    font-style: italic;
-    font-weight: 500;
-    padding-top: 1rem;
-    line-height: 1.5em;
-  }
+  margin: 1rem 1rem 0
 }
 p {
   padding: 1rem
-  opacity: .7
-  transition: opacity 1s ease;
-  &:hover {
-    opacity: 1
+  em {
+    font-size: inherit
+    font-weight: 600
   }
 }
 

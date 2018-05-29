@@ -9,7 +9,6 @@ exports.layouts = {
 exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("/Users/Robert/btb/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/Robert/btb/src/pages/404.js")),
-  "component---src-pages-about-js": preferDefault(require("/Users/Robert/btb/src/pages/about.js")),
   "component---src-pages-contact-js": preferDefault(require("/Users/Robert/btb/src/pages/contact.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/Robert/btb/src/pages/index.js")),
   "component---src-pages-reference-js": preferDefault(require("/Users/Robert/btb/src/pages/reference.js")),
@@ -21,8 +20,6 @@ exports.json = {
   "dev-404-page.json": require("/Users/Robert/btb/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/Robert/btb/.cache/json/layout-index.json"),
   "404.json": require("/Users/Robert/btb/.cache/json/404.json"),
-  "layout-index.json": require("/Users/Robert/btb/.cache/json/layout-index.json"),
-  "about.json": require("/Users/Robert/btb/.cache/json/about.json"),
   "layout-index.json": require("/Users/Robert/btb/.cache/json/layout-index.json"),
   "contact.json": require("/Users/Robert/btb/.cache/json/contact.json"),
   "layout-index.json": require("/Users/Robert/btb/.cache/json/layout-index.json"),

@@ -18,10 +18,10 @@ const Footer = () => (
 export default Footer
 
 const Container = styled.div`
-padding: 4rem 1rem 2rem;
+padding: 4rem 1rem 0;
 text-align: center
 `
 
 const Message = styled.p`
-
+margin-bottom: 2rem
 `

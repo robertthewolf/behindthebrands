@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b99172ada09f6258c594393fbe945c58",
+        "contentDigest": "5f405f258f57870901e8f0ccc9c41778",
         "owner": "internal-data-bridge"
       }
     },
@@ -1164,12 +1164,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-28T22:28:12.365Z",
+      "buildTime": "2018-05-29T17:34:53.043Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a08820cfd45b7ac7f57710fc8feddd42",
+        "contentDigest": "db63cd85a2aa23fcfc798c7a1c94b22f",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1179,7 +1179,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dc23b80d43d732d8171eab6aef59c311",
+        "contentDigest": "a76a7d68dc4cc40df1bef06391c69b63",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1190,7 +1190,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-21T08:08:14.662Z",
-      "accessTime": "2018-05-28T22:28:17.983Z",
+      "accessTime": "2018-05-29T17:34:56.629Z",
       "changeTime": "2018-05-21T08:08:14.662Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
@@ -1208,11 +1208,11 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1527546497983.4329,
+      "atimeMs": 1527615296628.9285,
       "mtimeMs": 1526890094662.0881,
       "ctimeMs": 1526890094662.0881,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-28T22:28:17.983Z",
+      "atime": "2018-05-29T17:34:56.629Z",
       "mtime": "2018-05-21T08:08:14.662Z",
       "ctime": "2018-05-21T08:08:14.662Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
@@ -1222,7 +1222,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2b749c2ffa584529130061f731a6dbe1",
+        "contentDigest": "463c39e2d748fc5c1d70bf9bb3f9d454",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1233,7 +1233,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-18T13:28:08.588Z",
-      "accessTime": "2018-05-28T22:28:17.986Z",
+      "accessTime": "2018-05-29T17:34:56.631Z",
       "changeTime": "2018-05-18T13:28:08.588Z",
       "birthTime": "2018-05-04T21:02:30.754Z",
       "root": "/",
@@ -1251,11 +1251,11 @@
       "blksize": 4194304,
       "ino": 8602813210,
       "blocks": 0,
-      "atimeMs": 1527546497985.5015,
+      "atimeMs": 1527615296631.0305,
       "mtimeMs": 1526650088587.6963,
       "ctimeMs": 1526650088587.6963,
       "birthtimeMs": 1525467750753.7393,
-      "atime": "2018-05-28T22:28:17.986Z",
+      "atime": "2018-05-29T17:34:56.631Z",
       "mtime": "2018-05-18T13:28:08.588Z",
       "ctime": "2018-05-18T13:28:08.588Z",
       "birthtime": "2018-05-04T21:02:30.754Z"
@@ -1265,7 +1265,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "12befbd09b3258b639f894ed94677c1d",
+        "contentDigest": "dec61182b3a22c01374715fd65f68950",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1276,7 +1276,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-16T20:18:45.216Z",
-      "accessTime": "2018-05-28T22:28:17.986Z",
+      "accessTime": "2018-05-29T17:34:56.631Z",
       "changeTime": "2018-05-16T20:18:45.216Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1294,11 +1294,11 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1527546497985.5288,
+      "atimeMs": 1527615296631.029,
       "mtimeMs": 1526501925216.3538,
       "ctimeMs": 1526501925216.3538,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-28T22:28:17.986Z",
+      "atime": "2018-05-29T17:34:56.631Z",
       "mtime": "2018-05-16T20:18:45.216Z",
       "ctime": "2018-05-16T20:18:45.216Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
@@ -1393,52 +1393,6 @@
       "ctime": "2018-05-01T14:48:44.729Z",
       "birthtime": "2018-05-01T14:47:30.906Z"
     },
-    "/Users/Robert/btb/src/data/pages/about.md absPath of file": {
-      "id": "/Users/Robert/btb/src/data/pages/about.md absPath of file",
-      "children": [
-        "/Users/Robert/btb/src/data/pages/about.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "9567d07f95a3d365d81f9c753a8c767f",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/btb/src/data/pages/about.md",
-      "relativePath": "pages/about.md",
-      "extension": "md",
-      "size": 1567,
-      "prettySize": "1.57 kB",
-      "modifiedTime": "2018-05-19T15:58:41.221Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-19T15:58:41.221Z",
-      "birthTime": "2018-05-01T14:47:39.667Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/data/pages",
-      "base": "about.md",
-      "ext": ".md",
-      "name": "about",
-      "relativeDirectory": "pages",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602581292,
-      "blocks": 8,
-      "atimeMs": 1527546414197.741,
-      "mtimeMs": 1526745521221.3345,
-      "ctimeMs": 1526745521221.3345,
-      "birthtimeMs": 1525186059666.729,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-19T15:58:41.221Z",
-      "ctime": "2018-05-19T15:58:41.221Z",
-      "birthtime": "2018-05-01T14:47:39.667Z"
-    },
     "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file": {
       "id": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
       "children": [
@@ -1446,7 +1400,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1ff6a4164b6c495e50ef1e78cb59f032",
+        "contentDigest": "0f25f00ea2473b3ed4e2ff7ab53f6442",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1455,11 +1409,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md",
       "relativePath": "pages/frontpage.md",
       "extension": "md",
-      "size": 1714,
-      "prettySize": "1.71 kB",
-      "modifiedTime": "2018-05-27T22:11:06.370Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-27T22:11:06.370Z",
+      "size": 1721,
+      "prettySize": "1.72 kB",
+      "modifiedTime": "2018-05-29T17:53:49.173Z",
+      "accessTime": "2018-05-29T17:53:49.173Z",
+      "changeTime": "2018-05-29T17:53:49.173Z",
       "birthTime": "2018-05-18T13:28:04.716Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/pages",
@@ -1476,13 +1430,13 @@
       "blksize": 4194304,
       "ino": 8603946166,
       "blocks": 8,
-      "atimeMs": 1527546414197.7727,
-      "mtimeMs": 1527459066370.104,
-      "ctimeMs": 1527459066370.104,
+      "atimeMs": 1527616429172.7275,
+      "mtimeMs": 1527616429173.3682,
+      "ctimeMs": 1527616429173.3682,
       "birthtimeMs": 1526650084716.2444,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-27T22:11:06.370Z",
-      "ctime": "2018-05-27T22:11:06.370Z",
+      "atime": "2018-05-29T17:53:49.173Z",
+      "mtime": "2018-05-29T17:53:49.173Z",
+      "ctime": "2018-05-29T17:53:49.173Z",
       "birthtime": "2018-05-18T13:28:04.716Z"
     },
     "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file": {
@@ -1492,7 +1446,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3cdd90ead280d4301a8029afa85b3a0c",
+        "contentDigest": "714ac04c8ece6a3cdc7c273a3c22ae00",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1501,11 +1455,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/references/leon-jakimič.md",
       "relativePath": "references/leon-jakimič.md",
       "extension": "md",
-      "size": 626,
-      "prettySize": "626 B",
-      "modifiedTime": "2018-05-21T08:12:11.631Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-21T08:12:11.631Z",
+      "size": 629,
+      "prettySize": "629 B",
+      "modifiedTime": "2018-05-28T22:51:37.393Z",
+      "accessTime": "2018-05-28T22:52:15.770Z",
+      "changeTime": "2018-05-28T22:51:37.393Z",
       "birthTime": "2018-05-16T20:18:45.215Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/references",
@@ -1522,13 +1476,13 @@
       "blksize": 4194304,
       "ino": 8603892710,
       "blocks": 8,
-      "atimeMs": 1527546414197.9758,
-      "mtimeMs": 1526890331631.019,
-      "ctimeMs": 1526890331631.019,
+      "atimeMs": 1527547935769.7866,
+      "mtimeMs": 1527547897392.558,
+      "ctimeMs": 1527547897392.558,
       "birthtimeMs": 1526501925214.6045,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-21T08:12:11.631Z",
-      "ctime": "2018-05-21T08:12:11.631Z",
+      "atime": "2018-05-28T22:52:15.770Z",
+      "mtime": "2018-05-28T22:51:37.393Z",
+      "ctime": "2018-05-28T22:51:37.393Z",
       "birthtime": "2018-05-16T20:18:45.215Z"
     },
     "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file": {
@@ -1538,7 +1492,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3ac7d03494fa0eaa90f03d70917437e8",
+        "contentDigest": "97f8387bc96d3e787e98ccba556dd438",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1547,11 +1501,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/references/jitka-šichová.md",
       "relativePath": "references/jitka-šichová.md",
       "extension": "md",
-      "size": 653,
-      "prettySize": "653 B",
-      "modifiedTime": "2018-05-21T08:12:15.952Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-21T08:12:15.952Z",
+      "size": 650,
+      "prettySize": "650 B",
+      "modifiedTime": "2018-05-28T22:51:45.011Z",
+      "accessTime": "2018-05-28T22:52:15.770Z",
+      "changeTime": "2018-05-28T22:51:45.011Z",
       "birthTime": "2018-05-16T20:18:45.214Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/references",
@@ -1568,13 +1522,13 @@
       "blksize": 4194304,
       "ino": 8603892709,
       "blocks": 8,
-      "atimeMs": 1527546414197.9421,
-      "mtimeMs": 1526890335951.684,
-      "ctimeMs": 1526890335951.684,
+      "atimeMs": 1527547935769.708,
+      "mtimeMs": 1527547905011.1472,
+      "ctimeMs": 1527547905011.1472,
       "birthtimeMs": 1526501925214.0115,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-21T08:12:15.952Z",
-      "ctime": "2018-05-21T08:12:15.952Z",
+      "atime": "2018-05-28T22:52:15.770Z",
+      "mtime": "2018-05-28T22:51:45.011Z",
+      "ctime": "2018-05-28T22:51:45.011Z",
       "birthtime": "2018-05-16T20:18:45.214Z"
     },
     "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file": {
@@ -1584,7 +1538,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b8cf2787e895cc261e4e2a88bd755fdd",
+        "contentDigest": "1d4f3344a523cd3eda60a96d391b2462",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1593,11 +1547,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/references/marianna-sidor.md",
       "relativePath": "references/marianna-sidor.md",
       "extension": "md",
-      "size": 842,
-      "prettySize": "842 B",
-      "modifiedTime": "2018-05-21T08:12:07.167Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-21T08:12:07.167Z",
+      "size": 873,
+      "prettySize": "873 B",
+      "modifiedTime": "2018-05-28T22:51:29.157Z",
+      "accessTime": "2018-05-28T22:52:15.770Z",
+      "changeTime": "2018-05-28T22:51:29.157Z",
       "birthTime": "2018-05-16T20:18:45.215Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/references",
@@ -1614,13 +1568,13 @@
       "blksize": 4194304,
       "ino": 8603892711,
       "blocks": 8,
-      "atimeMs": 1527546414198.0044,
-      "mtimeMs": 1526890327167.4636,
-      "ctimeMs": 1526890327167.4636,
+      "atimeMs": 1527547935769.851,
+      "mtimeMs": 1527547889157.0615,
+      "ctimeMs": 1527547889157.0615,
       "birthtimeMs": 1526501925215.1758,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-21T08:12:07.167Z",
-      "ctime": "2018-05-21T08:12:07.167Z",
+      "atime": "2018-05-28T22:52:15.770Z",
+      "mtime": "2018-05-28T22:51:29.157Z",
+      "ctime": "2018-05-28T22:51:29.157Z",
       "birthtime": "2018-05-16T20:18:45.215Z"
     },
     "/Users/Robert/btb/src/data/references/michal.md absPath of file": {
@@ -1630,7 +1584,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b40e8be1a713a8f1296501f98517c654",
+        "contentDigest": "d4cbbe0fbb7e26a1dd1926aadfc25fbf",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1639,11 +1593,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/references/michal.md",
       "relativePath": "references/michal.md",
       "extension": "md",
-      "size": 532,
-      "prettySize": "532 B",
-      "modifiedTime": "2018-05-21T08:23:19.807Z",
-      "accessTime": "2018-05-28T22:26:54.198Z",
-      "changeTime": "2018-05-21T08:23:19.807Z",
+      "size": 529,
+      "prettySize": "529 B",
+      "modifiedTime": "2018-05-28T22:51:16.723Z",
+      "accessTime": "2018-05-28T22:52:15.770Z",
+      "changeTime": "2018-05-28T22:51:16.723Z",
       "birthTime": "2018-05-16T20:18:45.216Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/references",
@@ -1660,13 +1614,13 @@
       "blksize": 4194304,
       "ino": 8603892712,
       "blocks": 8,
-      "atimeMs": 1527546414198.0332,
-      "mtimeMs": 1526890999806.7803,
-      "ctimeMs": 1526890999806.7803,
+      "atimeMs": 1527547935769.9258,
+      "mtimeMs": 1527547876723.182,
+      "ctimeMs": 1527547876723.182,
       "birthtimeMs": 1526501925216.3457,
-      "atime": "2018-05-28T22:26:54.198Z",
-      "mtime": "2018-05-21T08:23:19.807Z",
-      "ctime": "2018-05-21T08:23:19.807Z",
+      "atime": "2018-05-28T22:52:15.770Z",
+      "mtime": "2018-05-28T22:51:16.723Z",
+      "ctime": "2018-05-28T22:51:16.723Z",
       "birthtime": "2018-05-16T20:18:45.216Z"
     },
     "/Users/Robert/btb/src/data/pages/about.md absPath of file >>> MarkdownRemark": {
@@ -1717,44 +1671,13 @@
       "excerpt": "",
       "fileAbsolutePath": "/Users/Robert/btb/src/data/frontpage.md"
     },
-    "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
-      "internal": {
-        "content": "---\ntemplateKey: frontpage\nname: Vision, Strategy, Visibility\ntagline: ...all that we can help you with to make your brand lead and not to follow in Europe and China.\nimage: /img/frontpage.png\njmeno: Marketa Hamadakova\nquote: '\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"'\nhighlights:\n- OMNI-CHANNEL MARKETING strategy\n- business EXPANSION\n- EVENT creation and execution\n- production of CONTENT for SOCIAL MEDIA\n- INFLUENCERS partnerships\n---\n\nMy enthusiasm for developing and managing brand identity goes hand in hand with my working experience in marketing, luxury retail and e-tail business. I am thrilled by reaching to people through strategy and vision that transform the brand and uncover more of its potential.\n\nI have been building my expertise when working in various positions in large international as well as local companies alongside the cooperation with inspiring individuals on variety of projects. My experience with Estée Lauder, L’Oréal, Lasvit and special event management during Prague Fashion Week all gave me a great insights into brands and made me very familiar with the fields of luxury, beauty and lifestyle. \n\nWith background know-how of the top European brands (both digital and retail) I have started my own marketing and business development consultancy after I moved from Prague to Beijing. \n\nSince my relocation to China I have established a strong network within local brands, key opinion leaders and investment communities. That is why my agency creates value not only for domestic companies, but also for the European brands when they want to enter the largest market in the world.",
-        "contentDigest": "0375c2e698b247a58abd289eeb0d1e24",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "templateKey": "frontpage",
-        "name": "Vision, Strategy, Visibility",
-        "tagline": "...all that we can help you with to make your brand lead and not to follow in Europe and China.",
-        "image": "../../../static/img/frontpage.png",
-        "jmeno": "Marketa Hamadakova",
-        "quote": "\"Mutual trust, common goals and values are the heart and soul of my work. I am great believer in connections across people and emotions.\"",
-        "highlights": [
-          "OMNI-CHANNEL MARKETING strategy",
-          "business EXPANSION",
-          "EVENT creation and execution",
-          "production of CONTENT for SOCIAL MEDIA",
-          "INFLUENCERS partnerships"
-        ],
-        "_PARENT": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
-        "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md"
-    },
     "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 2\ntitle: Leon Jakimič\nimage: /img/jakimic.jpg\nposition: President at LASVIT, Hong Kong\ncompany: LASVIT s.r.o.\ndescription: 'Glass installations, sculptures and design lighting'\nlogo: /img/lasvit.svg\n---\n\"Markéta has all the attributes of the great brand communicator. She has bright mind and conscientiously cultivated communication skills. When hired as a digital marketing pioneer at Lasvit she has successfully proved her ability to connect traditional marketing with the latest trends to present luxury products in the digital age. I am pleased to collaborate with her again in China.\"\n",
-        "contentDigest": "dfa22bbfb2ef2921722728545b716a96",
+        "content": "---\ntemplateKey: reference\norder: 2\ntitle: Leon Jakimič\nimage: /img/jakimic.jpg\nposition: President at LASVIT, Hong Kong\ncompany: LASVIT s.r.o.\ndescription: 'Glass installations, sculptures and design lighting'\nlogo: /img/lasvit.svg\n---\n\"Markéta has all the attributes of a great brand communicator. She has a bright mind and conscientiously cultivated communication skills. When hired as a digital marketing pioneer at Lasvit, she has successfully proved her ability to connect traditional marketing with the latest trends to present luxury products in the digital age. I am pleased to collaborate with her again in China.”\n",
+        "contentDigest": "1219bf1b683878481c3fb30fc911da3b",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1778,8 +1701,8 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 4\ntitle: Jitka Šichová\nimage: /img/jitka.jpg\nposition: Sales Director of Dermocosmetic division at L'Oréal, Czech Republic\ncompany: 'L''Oréal '\ndescription: 'The world leader in beauty, present in 150 countries on five continents. '\nlogo: /img/loreal.svg\n---\n\"Markéta herself is the impactful combination of profit oriented manager and great marketer with the knowledge of all spares of online & offline. Beyond being perfectly organized, she has been always delivering prompt and tangible results while developing the business relationships with our main B2B clients. I was really happy to have her in our team.\"\n",
-        "contentDigest": "576272ccde3ed09cbc7b05df276e2f2a",
+        "content": "---\ntemplateKey: reference\norder: 4\ntitle: Jitka Šichová\nimage: /img/jitka.jpg\nposition: Sales Director of Dermocosmetic division at L'Oréal, Czech Republic\ncompany: 'L''Oréal '\ndescription: 'The world leader in beauty, present in 150 countries on five continents. '\nlogo: /img/loreal.svg\n---\n\"Markéta is the impactful combination of a profit-oriented manager and a great marketer with the knowledge of all aspects of online & offline. Beyond being perfectly organized, she has been always delivering prompt and tangible results while developing the business relationships with our main B2B clients. I was really happy to have her in our team.\"\n",
+        "contentDigest": "2f741df1df7d4471eb246a3d08bb4103",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1803,8 +1726,8 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 3\ntitle: Marianna Sidor\nimage: /img/marianna.jpg\nposition: Brand Manager of Estéee Lauder, South Africa\ncompany: Estée Lauder Companies\ndescription: >-\n  One of the world's leading manufacturers and marketers of quality skin care,\n  makeup, fragrance and hair care products.\nlogo: /img/estee_lauder.svg\n---\n_\"Marketa knows how to implement the right sort of trends in online & offline marketing strategy in order to deliver great results. Her successful launch of omni-chanel Marketing strategy only affirmed her position of competent business women, capable of attracting new customers from Millenials into our retail stores while still keeping the characteristic luxury positioning of Estée Lauder brand. Cooperating with Markéta has been always enriching, whether on daily agenda or extra projects.\"_\n",
-        "contentDigest": "ee7ece596a57d70fe66e54edbc2a386b",
+        "content": "---\ntemplateKey: reference\norder: 3\ntitle: Marianna Sidor\nimage: /img/marianna.jpg\nposition: Brand Manager of Estéee Lauder, South Africa\ncompany: Estée Lauder Companies\ndescription: >-\n  One of the world's leading manufacturers and marketers of quality skin care,\n  makeup, fragrance and hair care products.\nlogo: /img/estee_lauder.svg\n---\n\"Markéta knows how to implement the right sort of trends in an online & offline marketing strategy in order to deliver great results. Her successful launch of our omnichannel marketing strategy only proved her being a competent business woman, who was capable of attracting new customers from among the Millennials into our retail stores while allowing us to keep the characteristic luxury positioning of the Estée Lauder brand. Cooperating with Markéta has always been enriching, whether on a daily agenda or extra projects.\"\n",
+        "contentDigest": "f4ac7bc26bcbe2155f3c80011765c338",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1828,8 +1751,8 @@
       "children": [],
       "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 1\ntitle: Michal Smejc\nimage: /img/smejc.jpg\nposition: General Manager at Velaa Private Island, Maldives \ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\nlogo: /img/velaa_original.svg\n---\n_\"Marketa's sensitive approach, great taste and perfect organisation with attention to the details is why I continue rely on her professional opinion and assistance with communication with our affluent clients in China.\"_\n\n![](/img/foto1.jpg)\n![](/img/foto2.jpg)",
-        "contentDigest": "3acd71a4903672b8fa70cff61151c76e",
+        "content": "---\ntemplateKey: reference\norder: 1\ntitle: Michal Smejc\nimage: /img/smejc.jpg\nposition: General Manager at Velaa Private Island, Maldives \ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\nlogo: /img/velaa_original.svg\n---\n\"Markéta's sensitive approach, great taste and perfect organisation with attention to detail is why I continue to rely on her professional opinion and assistance with communication with our affluent clients in China.\"\n\n![](/img/foto1.jpg)\n![](/img/foto2.jpg)",
+        "contentDigest": "5eaa943aaba8d729ad7151cd070691d9",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1853,7 +1776,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9b1a8275ce28eaabd4f02c0eee4e544d",
+        "contentDigest": "6554a977c0c9927734ee074db1ecbc14",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1864,7 +1787,7 @@
       "size": 608,
       "prettySize": "608 B",
       "modifiedTime": "2018-05-24T11:15:00.243Z",
-      "accessTime": "2018-05-28T22:28:18.054Z",
+      "accessTime": "2018-05-29T17:34:56.644Z",
       "changeTime": "2018-05-24T11:15:00.243Z",
       "birthTime": "2018-04-18T16:11:37.977Z",
       "root": "/",
@@ -1882,11 +1805,11 @@
       "blksize": 4194304,
       "ino": 8602121804,
       "blocks": 0,
-      "atimeMs": 1527546498053.6074,
+      "atimeMs": 1527615296643.835,
       "mtimeMs": 1527160500243.4429,
       "ctimeMs": 1527160500243.4429,
       "birthtimeMs": 1524067897976.9976,
-      "atime": "2018-05-28T22:28:18.054Z",
+      "atime": "2018-05-29T17:34:56.644Z",
       "mtime": "2018-05-24T11:15:00.243Z",
       "ctime": "2018-05-24T11:15:00.243Z",
       "birthtime": "2018-04-18T16:11:37.977Z"
@@ -1896,7 +1819,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a9dde22547514d9374470a214b247791",
+        "contentDigest": "2211372b2f53cbe3e898376508c84077",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1907,7 +1830,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-24T11:15:00.246Z",
-      "accessTime": "2018-05-28T22:28:18.059Z",
+      "accessTime": "2018-05-29T17:34:56.645Z",
       "changeTime": "2018-05-24T11:15:01.352Z",
       "birthTime": "2018-05-24T11:15:00.241Z",
       "root": "/",
@@ -1925,11 +1848,11 @@
       "blksize": 4194304,
       "ino": 8604060747,
       "blocks": 0,
-      "atimeMs": 1527546498058.8765,
+      "atimeMs": 1527615296645.0986,
       "mtimeMs": 1527160500246.309,
       "ctimeMs": 1527160501351.8452,
       "birthtimeMs": 1527160500240.588,
-      "atime": "2018-05-28T22:28:18.059Z",
+      "atime": "2018-05-29T17:34:56.645Z",
       "mtime": "2018-05-24T11:15:00.246Z",
       "ctime": "2018-05-24T11:15:01.352Z",
       "birthtime": "2018-05-24T11:15:00.241Z"
@@ -3346,27 +3269,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3464610ce925dce602062823342d29b9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "layout": "index",
-      "jsonName": "about.json",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/Robert/btb/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/Robert/btb/src/pages/about.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bad37a5ea47cee4ac03e8e16ac7e669e",
+        "contentDigest": "a83a2c183216e9d5fa8acef761d0105d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3386,7 +3289,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9599bee5312a1a47497cca869f9afdfa",
+        "contentDigest": "f4fda626dec37b3d5a6ab64c556b4bae",
         "owner": "internal-data-bridge"
       }
     },
@@ -3406,7 +3309,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "982d940c4829a773edeb85b2d715feaa",
+        "contentDigest": "34ca243895d5a5d1da0a389e3b5a442b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3426,7 +3329,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "140729d21f87654224f8e82e7b95b5cc",
+        "contentDigest": "d1ae6ec761a995f50a228368c2e305dd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3446,7 +3349,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "82e8a52e472acf6aa163e91146de37ab",
+        "contentDigest": "cdc99874e9b61bef01b226b81c3b1980",
         "owner": "internal-data-bridge"
       }
     },
@@ -3466,9 +3369,40 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "084efdbab3331da8211d136f65f3475a",
+        "contentDigest": "f84963d24d95cc6424ff2e2afbe6e01b",
         "owner": "internal-data-bridge"
       }
+    },
+    "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: frontpage\nname: Vision Strategy Visibility\ntagline: helping your brand lead and not follow in Europe and China.\nimage: /img/frontpage.png\njmeno: Marketa Hamadakova\nquote: ''\nhighlights:\n- OMNI-CHANNEL MARKETING strategy\n- business EXPANSION\n- EVENT creation and execution\n- production of CONTENT for SOCIAL MEDIA\n- INFLUENCERS partnerships\n---\n\n<em>Mutual trust, common goals and shared values are the heart and soul of my work.</em> I am a great believer in connections between people and the importance of emotions.\n\nMy enthusiasm for developing and managing brand identity goes hand in hand with my working experience in marketing, luxury retail and e-tail business. I am passionate about reaching to people through a strategy and a vision that transforms the brand and uncovers more of its potential.\n\nI have been building my expertise working on a variety of projects at various positions in large international as well as local companies, and through cooperation with inspiring individuals. <em>My working experience at Estée Lauder, L’Oréal, Lasvit and the Prague Fashion Week gave me great insights into brands</em> and made me very familiar with the fields of luxury, beauty and lifestyle.\n\nWith a background know-how from top European brands (both digital and retail), <em>I started my own marketing and business development consultancy</em> after I moved from Prague to Beijing.\n\nSince my relocation to China, <em>I have built a strong network of local brands, key opinion leaders and investment communities</em>. That is why the agency I established is able to create value, not only for domestic companies, but also for European brands intending to enter the largest market in the world.",
+        "contentDigest": "4648144cc98565de883d377d330943a4",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "frontpage",
+        "name": "Vision Strategy Visibility",
+        "tagline": "helping your brand lead and not follow in Europe and China.",
+        "image": "../../../static/img/frontpage.png",
+        "jmeno": "Marketa Hamadakova",
+        "quote": "",
+        "highlights": [
+          "OMNI-CHANNEL MARKETING strategy",
+          "business EXPANSION",
+          "EVENT creation and execution",
+          "production of CONTENT for SOCIAL MEDIA",
+          "INFLUENCERS partnerships"
+        ],
+        "_PARENT": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md"
     }
   },
   "status": {
@@ -3478,56 +3412,42 @@
   "componentDataDependencies": {
     "nodes": {
       "/Users/Robert/btb/static/img/smejc.jpg absPath of file": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/smejc.jpg absPath of file >> ImageSharp": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/jakimic.jpg absPath of file": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/marianna.jpg absPath of file": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/marianna.jpg absPath of file >> ImageSharp": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/jitka.jpg absPath of file": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/profile.jpg absPath of file": [
-        "/about/",
-        "/reference/",
-        "/contact/"
+        "/about/"
       ],
       "/Users/Robert/btb/static/img/profile.jpg absPath of file >> ImageSharp": [
-        "/about/",
-        "/reference/",
-        "/contact/"
+        "/about/"
       ],
       "/Users/Robert/btb/static/img/frontpage.png absPath of file": [
         "/",
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/static/img/frontpage.png absPath of file >> ImageSharp": [
         "/",
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ],
       "/Users/Robert/btb/src/data/pages/about.md absPath of file >>> MarkdownRemark": [
         "/about/"
@@ -3541,8 +3461,7 @@
         "/dev-404-page/"
       ],
       "MarkdownRemark": [
-        "/reference/",
-        "/contact/"
+        "/reference/"
       ]
     }
   }
