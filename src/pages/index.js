@@ -199,9 +199,18 @@ align-items: center
 
 const Believe = styled.h2`
 margin-top: 2rem;
-padding-left: 1rem;
-border-left: .5rem solid black;
-border-style: double;`
+
+@media screen and (max-width: 800px) { 
+  padding-bottom: .5rem;
+  border-bottom: .5rem solid black;
+  border-style: double;
+}
+
+@media screen and (min-width: 800px) { 
+  padding-left: 1rem;
+  border-left: .5rem solid black;
+  border-style: double;
+}`
 
 const Values = styled.ul`
 list-style-type: none;`

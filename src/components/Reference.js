@@ -23,7 +23,10 @@ export default Reference
 
 const Half = styled.p`
 padding: 5rem 1rem;
-width: calc(100% - 2rem);
+
+@media screen and (max-width: 500px) {
+    padding: 3rem 0
+}
 
 @media screen and (min-width: 600px) {
 
@@ -42,6 +45,10 @@ font-style: italic;
 margin-bottom: 1.5rem;
 background-color: whitesmoke;
 padding: 1.5rem
+
+@media screen and (max-width: 400px) {
+    padding: 1rem
+}
 
 em {
     font-size: 1em !important;
