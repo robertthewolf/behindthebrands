@@ -21,12 +21,19 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [],
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1100,
+            },
+          },
+        ],
       },
     },
     {

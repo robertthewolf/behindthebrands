@@ -70,16 +70,7 @@ export default class IndexPage extends React.Component {
                 </Values>
               </Column>
             </Container>
-            <Profile>
-              <Image sizes={post.frontmatter.image.childImageSharp.sizes} />
-              <AboutBox>
-                <div>
-                <h2>{post.frontmatter.jmeno}</h2>
-                <blockquote>{post.frontmatter.quote}</blockquote>
-                </div>
-                <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
-              </AboutBox>
-            </Profile>
+            <Profile dangerouslySetInnerHTML={{ __html: post.html }} />
             <Container background="#FFFCF7">
               <Column>
                 <Believe>We can help you with...</Believe>
@@ -134,8 +125,6 @@ query frontpageQuery {
       }
       tagline
       highlights
-      quote
-      jmeno
     }
   }
 }
@@ -221,48 +210,53 @@ const Value = styled.li`
 margin: 2rem 1rem`
 
 const Profile = styled.section`
-display: flex
 
-@media screen and (max-width: 600px) {
-  flex-direction: column
+p:first-of-type {
+  float: left
+  position: sticky;
+  top: 1rem;
 }
 
+p > img {
+  width: 100%
+  object-fit: cover
+  object-position: top center
 
-.gatsby-image-outer-wrapper {
-
-  @media screen and (min-width: 600px) {
-    width: 50%
-    align-self: flex-start
-    z-index: -2;
-    position: sticky !important;
-    top: 1rem;
-  }
-  
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     height: calc(100vw - 2rem);
-    overflow: hidden;
-    object-fit: cover;
-    object-position: top center
+    max-height: 50vh;
   }
-}`
-
-const AboutBox = styled.div`
-width: 50%
-> *:first-child {
-  margin: 1rem 1rem 0
+  @media screen and (min-width: 800px) {
+    height: calc(100vh - 2rem);
+  }
 }
-p {
+
+p, h2 {
   padding: 1rem
+  overflow:hidden;
+  @media screen and (min-width: 800px) {
+    width: calc(50% - 2.5rem);
+    margin-left: auto
+  }
   em {
     font-size: inherit
     font-weight: 600
   }
 }
 
-@media screen and (max-width: 600px) {
-  width: 100%
+h2 {
+  padding-top: 2rem
+  padding-bottom: 0
+}
+
+// clearfix
+&:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 `
+
 
 const Highlights = styled.ul`
 display: flex;

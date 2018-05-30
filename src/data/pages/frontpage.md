@@ -3,8 +3,6 @@ templateKey: frontpage
 name: Vision Strategy Visibility
 tagline: helping your brand lead and not follow in Europe and China.
 image: /img/frontpage.png
-jmeno: Marketa Hamadakova
-quote: ''
 highlights:
 - OMNI-CHANNEL MARKETING strategy
 - business EXPANSION
@@ -12,6 +10,9 @@ highlights:
 - production of CONTENT for SOCIAL MEDIA
 - INFLUENCERS partnerships
 ---
+![](/img/about.jpg)
+
+##Marketa Hamadakova##
 
 <em>Mutual trust, common goals and shared values are the heart and soul of my work.</em> I am a great believer in connections between people and the importance of emotions.
 
