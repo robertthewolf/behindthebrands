@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "75e2190c9d938633c9256d738b52da20",
+        "contentDigest": "e3a4f08ce336b611a0e998737f7f79fe",
         "owner": "internal-data-bridge"
       }
     },
@@ -264,10 +264,7 @@
           "sass",
           "scss"
         ],
-        "author": {
-          "name": "Daniel Farrell",
-          "email": "daniel@mobelux.com"
-        },
+        "author": "Daniel Farrell <daniel@mobelux.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -348,10 +345,7 @@
           "gatsby-plugin",
           "styled-components"
         ],
-        "author": {
-          "name": "Guten Ye",
-          "email": "ywzhaifei@gmail.com"
-        },
+        "author": "Guten Ye <ywzhaifei@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -419,10 +413,7 @@
           "gatsby-plugin",
           "glamor"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -496,10 +487,7 @@
           "noscript",
           "style"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "matthews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -563,10 +551,7 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -636,7 +621,7 @@
       "resolve": "/Users/Robert/btb/node_modules/gatsby-transformer-sharp",
       "id": "Plugin gatsby-transformer-sharp",
       "name": "gatsby-transformer-sharp",
-      "version": "1.6.24",
+      "version": "1.6.27",
       "pluginOptions": {
         "plugins": []
       },
@@ -651,17 +636,14 @@
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
-        "version": "1.6.24",
+        "version": "1.6.27",
         "keywords": [
           "gatsby",
           "gatsby-plugin",
           "image",
           "sharp"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -698,7 +680,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "98faa3e3f251faf24735504af2022154",
+        "contentDigest": "e7e7ad61fba0821d5d9fa227208b05fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -707,7 +689,7 @@
       "resolve": "/Users/Robert/btb/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
-      "version": "1.6.44",
+      "version": "1.6.48",
       "pluginOptions": {
         "plugins": []
       },
@@ -718,7 +700,7 @@
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
-        "version": "1.6.44",
+        "version": "1.6.48",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -726,10 +708,7 @@
           "image",
           "sharp"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -807,7 +786,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "453dba89578cc7bfc28e9f10273b7ac1",
+        "contentDigest": "e478c2e1c78c50305d89b4cdae3e27fa",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -823,7 +802,7 @@
             "resolve": "/Users/Robert/btb/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
-            "version": "1.5.63",
+            "version": "1.5.67",
             "pluginOptions": {
               "plugins": [],
               "maxWidth": 1100,
@@ -857,10 +836,7 @@
           "markdown",
           "remark"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -965,7 +941,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0b20b7dca922d79a996a22cd0a449340",
+        "contentDigest": "04dfae036468bbde0617f35ea21ec959",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -974,7 +950,7 @@
       "resolve": "/Users/Robert/btb/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
-      "version": "1.5.63",
+      "version": "1.5.67",
       "pluginOptions": {
         "plugins": [],
         "maxWidth": 1100,
@@ -991,7 +967,7 @@
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
-        "version": "1.5.63",
+        "version": "1.5.67",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -1001,10 +977,7 @@
           "remark",
           "responsive images"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1017,7 +990,7 @@
           },
           {
             "name": "gatsby-plugin-sharp",
-            "version": "^1.6.44"
+            "version": "^1.6.48"
           },
           {
             "name": "is-relative-url",
@@ -1053,7 +1026,128 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "75a7ba190d4d9b5452f95eb31ba30230",
+        "contentDigest": "8114b3d943706ae260426950a07d9ed0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-i18n": {
+      "resolve": "/Users/Robert/btb/node_modules/gatsby-plugin-i18n",
+      "id": "Plugin gatsby-plugin-i18n",
+      "name": "gatsby-plugin-i18n",
+      "version": "0.4.2",
+      "pluginOptions": {
+        "plugins": [],
+        "langKeyDefault": "en",
+        "useLangKeyLayout": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/Robert/btb/node_modules/gatsby-plugin-i18n",
+      "packageJson": {
+        "name": "gatsby-plugin-i18n",
+        "description": "Multi language feature for Gatsby",
+        "version": "0.4.2",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "i18n"
+        ],
+        "author": "angeloocana.com",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "folktale",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "graphql",
+            "version": "^0.11.7"
+          },
+          {
+            "name": "ptz-i18n",
+            "version": "^0.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.0.1"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.0"
+          },
+          {
+            "name": "codecov",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.8.0"
+          },
+          {
+            "name": "eslint-config-standard",
+            "version": "^10.2.1"
+          },
+          {
+            "name": "eslint-config-standard-react",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.7.0"
+          },
+          {
+            "name": "eslint-plugin-jest",
+            "version": "^21.2.0"
+          },
+          {
+            "name": "eslint-plugin-node",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "eslint-plugin-promise",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.4.0"
+          },
+          {
+            "name": "eslint-plugin-standard",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "jest",
+            "version": "^22.0.4"
+          },
+          {
+            "name": "opn-cli",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "ptz-assert",
+            "version": "^1.6.8"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0d54ccfb9a3228fe2b87e8a2539f6915",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1062,7 +1156,7 @@
       "resolve": "/Users/Robert/btb/node_modules/gatsby-plugin-netlify-cms",
       "id": "Plugin gatsby-plugin-netlify-cms",
       "name": "gatsby-plugin-netlify-cms",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "pluginOptions": {
         "plugins": [],
         "modulePath": "/Users/Robert/btb/src/cms/cms.js"
@@ -1078,7 +1172,7 @@
       "packageJson": {
         "name": "gatsby-plugin-netlify-cms",
         "description": "A Gatsby plugin which generates the Netlify CMS single page app",
-        "version": "1.0.9",
+        "version": "1.0.10",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -1086,10 +1180,7 @@
           "netlify",
           "netlify-cms"
         ],
-        "author": {
-          "name": "Shawn Erquhart",
-          "email": "shawn@erquh.art"
-        },
+        "author": "Shawn Erquhart <shawn@erquh.art>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1131,7 +1222,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2d352b3437efbae4b76fc5d66d567950",
+        "contentDigest": "238f31dabf920288729ab877b876de18",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1140,7 +1231,7 @@
       "resolve": "/Users/Robert/btb",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "e17b372438b5654fc0efa09575e73cc3",
+      "version": "a9fdfc78bda65998df1dfc8f9070e766",
       "pluginOptions": {
         "plugins": []
       },
@@ -1180,6 +1271,10 @@
           {
             "name": "gatsby-plugin-glamor",
             "version": "^1.6.13"
+          },
+          {
+            "name": "gatsby-plugin-i18n",
+            "version": "^0.4.2"
           },
           {
             "name": "gatsby-plugin-netlify-cms",
@@ -1263,7 +1358,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1dabdb366e0e2fcadf398324c9a7f986",
+        "contentDigest": "4deae4f55e6cdaf3b84d1d00ede264cf",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1276,12 +1371,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-30T13:22:05.095Z",
+      "buildTime": "2018-06-22T11:27:31.399Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "f2c2e510c4d33001574acc3e73bb2e73",
+        "contentDigest": "1e8886f5d7dc405810843de020569458",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1291,7 +1386,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "20c06c936479619dd0eed80ab02ea112",
+        "contentDigest": "27dac74b8448f42556d62752fe35f5d4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1301,9 +1396,9 @@
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2018-05-21T08:08:14.662Z",
-      "accessTime": "2018-05-30T13:22:10.101Z",
-      "changeTime": "2018-05-21T08:08:14.662Z",
+      "modifiedTime": "2018-06-21T07:56:53.182Z",
+      "accessTime": "2018-06-22T11:27:34.372Z",
+      "changeTime": "2018-06-21T07:56:53.182Z",
       "birthTime": "2018-05-01T14:47:23.773Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src",
@@ -1320,13 +1415,13 @@
       "blksize": 4194304,
       "ino": 8602581290,
       "blocks": 0,
-      "atimeMs": 1527686530100.8308,
-      "mtimeMs": 1526890094662.0881,
-      "ctimeMs": 1526890094662.0881,
+      "atimeMs": 1529666854372.4177,
+      "mtimeMs": 1529567813182.262,
+      "ctimeMs": 1529567813182.262,
       "birthtimeMs": 1525186043772.7625,
-      "atime": "2018-05-30T13:22:10.101Z",
-      "mtime": "2018-05-21T08:08:14.662Z",
-      "ctime": "2018-05-21T08:08:14.662Z",
+      "atime": "2018-06-22T11:27:34.372Z",
+      "mtime": "2018-06-21T07:56:53.182Z",
+      "ctime": "2018-06-21T07:56:53.182Z",
       "birthtime": "2018-05-01T14:47:23.773Z"
     },
     "/Users/Robert/btb/src/data/pages absPath of file": {
@@ -1334,7 +1429,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c614b96f1f768a36826ae52b614bde27",
+        "contentDigest": "7103775b48c3e0cd69fadce8277fa58d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1342,11 +1437,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/pages",
       "relativePath": "pages",
       "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2018-05-29T17:35:55.467Z",
-      "accessTime": "2018-05-30T13:22:10.103Z",
-      "changeTime": "2018-05-29T17:35:55.467Z",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-06-21T07:14:36.980Z",
+      "accessTime": "2018-06-22T11:27:34.375Z",
+      "changeTime": "2018-06-21T07:14:36.980Z",
       "birthTime": "2018-05-04T21:02:30.754Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data",
@@ -1356,20 +1451,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 3,
+      "nlink": 4,
       "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8602813210,
       "blocks": 0,
-      "atimeMs": 1527686530102.9648,
-      "mtimeMs": 1527615355466.821,
-      "ctimeMs": 1527615355466.821,
+      "atimeMs": 1529666854375.3357,
+      "mtimeMs": 1529565276980.1313,
+      "ctimeMs": 1529565276980.1313,
       "birthtimeMs": 1525467750753.7393,
-      "atime": "2018-05-30T13:22:10.103Z",
-      "mtime": "2018-05-29T17:35:55.467Z",
-      "ctime": "2018-05-29T17:35:55.467Z",
+      "atime": "2018-06-22T11:27:34.375Z",
+      "mtime": "2018-06-21T07:14:36.980Z",
+      "ctime": "2018-06-21T07:14:36.980Z",
       "birthtime": "2018-05-04T21:02:30.754Z"
     },
     "/Users/Robert/btb/src/data/references absPath of file": {
@@ -1377,7 +1472,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7b8ad7ccae435e0e55726dad8fb643b0",
+        "contentDigest": "0a6c75280c5de5026ff7e30903c5177a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1388,7 +1483,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-16T20:18:45.216Z",
-      "accessTime": "2018-05-30T13:22:10.103Z",
+      "accessTime": "2018-06-22T11:27:34.375Z",
       "changeTime": "2018-05-16T20:18:45.216Z",
       "birthTime": "2018-05-02T15:49:47.596Z",
       "root": "/",
@@ -1406,14 +1501,57 @@
       "blksize": 4194304,
       "ino": 8602628621,
       "blocks": 0,
-      "atimeMs": 1527686530102.987,
+      "atimeMs": 1529666854375.2993,
       "mtimeMs": 1526501925216.3538,
       "ctimeMs": 1526501925216.3538,
       "birthtimeMs": 1525276187595.5085,
-      "atime": "2018-05-30T13:22:10.103Z",
+      "atime": "2018-06-22T11:27:34.375Z",
       "mtime": "2018-05-16T20:18:45.216Z",
       "ctime": "2018-05-16T20:18:45.216Z",
       "birthtime": "2018-05-02T15:49:47.596Z"
+    },
+    "/Users/Robert/btb/src/data/references.zh absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references.zh absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "23a31dbb175cd5893952b5b2620b1940",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references.zh",
+      "relativePath": "references.zh",
+      "extension": "zh",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2018-06-21T07:56:48.247Z",
+      "accessTime": "2018-06-22T11:27:34.375Z",
+      "changeTime": "2018-06-21T07:56:53.182Z",
+      "birthTime": "2018-06-21T07:56:48.234Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data",
+      "base": "references.zh",
+      "ext": ".zh",
+      "name": "references",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605474737,
+      "blocks": 0,
+      "atimeMs": 1529666854375.359,
+      "mtimeMs": 1529567808247.146,
+      "ctimeMs": 1529567813182.2615,
+      "birthtimeMs": 1529567808233.6748,
+      "atime": "2018-06-22T11:27:34.375Z",
+      "mtime": "2018-06-21T07:56:48.247Z",
+      "ctime": "2018-06-21T07:56:53.182Z",
+      "birthtime": "2018-06-21T07:56:48.234Z"
     },
     "/Users/Robert/btb/src/data/.DS_Store absPath of file": {
       "id": "/Users/Robert/btb/src/data/.DS_Store absPath of file",
@@ -1432,7 +1570,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-05-21T08:08:14.663Z",
-      "accessTime": "2018-05-30T12:58:30.972Z",
+      "accessTime": "2018-06-22T11:26:26.026Z",
       "changeTime": "2018-05-21T08:08:14.663Z",
       "birthTime": "2018-05-21T08:08:14.662Z",
       "root": "/",
@@ -1450,106 +1588,14 @@
       "blksize": 4194304,
       "ino": 8603988196,
       "blocks": 16,
-      "atimeMs": 1527685110971.995,
+      "atimeMs": 1529666786026.3152,
       "mtimeMs": 1526890094662.9048,
       "ctimeMs": 1526890094662.9048,
       "birthtimeMs": 1526890094662.067,
-      "atime": "2018-05-30T12:58:30.972Z",
+      "atime": "2018-06-22T11:26:26.026Z",
       "mtime": "2018-05-21T08:08:14.663Z",
       "ctime": "2018-05-21T08:08:14.663Z",
       "birthtime": "2018-05-21T08:08:14.662Z"
-    },
-    "/Users/Robert/btb/src/data/frontpage.md absPath of file": {
-      "id": "/Users/Robert/btb/src/data/frontpage.md absPath of file",
-      "children": [
-        "/Users/Robert/btb/src/data/frontpage.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8fc268d3b65a22cd00fa7c099eeeafc4",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/btb/src/data/frontpage.md",
-      "relativePath": "frontpage.md",
-      "extension": "md",
-      "size": 139,
-      "prettySize": "139 B",
-      "modifiedTime": "2018-05-01T14:48:44.729Z",
-      "accessTime": "2018-05-30T12:58:13.747Z",
-      "changeTime": "2018-05-01T14:48:44.729Z",
-      "birthTime": "2018-05-01T14:47:30.906Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/data",
-      "base": "frontpage.md",
-      "ext": ".md",
-      "name": "frontpage",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8602581291,
-      "blocks": 8,
-      "atimeMs": 1527685093747.44,
-      "mtimeMs": 1525186124729.2007,
-      "ctimeMs": 1525186124729.2007,
-      "birthtimeMs": 1525186050905.5264,
-      "atime": "2018-05-30T12:58:13.747Z",
-      "mtime": "2018-05-01T14:48:44.729Z",
-      "ctime": "2018-05-01T14:48:44.729Z",
-      "birthtime": "2018-05-01T14:47:30.906Z"
-    },
-    "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file": {
-      "id": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
-      "children": [
-        "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "97f8387bc96d3e787e98ccba556dd438",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/btb/src/data/references/jitka-šichová.md",
-      "relativePath": "references/jitka-šichová.md",
-      "extension": "md",
-      "size": 650,
-      "prettySize": "650 B",
-      "modifiedTime": "2018-05-28T22:51:45.011Z",
-      "accessTime": "2018-05-30T12:58:13.748Z",
-      "changeTime": "2018-05-28T22:51:45.011Z",
-      "birthTime": "2018-05-16T20:18:45.214Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/data/references",
-      "base": "jitka-šichová.md",
-      "ext": ".md",
-      "name": "jitka-šichová",
-      "relativeDirectory": "references",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603892709,
-      "blocks": 8,
-      "atimeMs": 1527685093747.7297,
-      "mtimeMs": 1527547905011.1472,
-      "ctimeMs": 1527547905011.1472,
-      "birthtimeMs": 1526501925214.0115,
-      "atime": "2018-05-30T12:58:13.748Z",
-      "mtime": "2018-05-28T22:51:45.011Z",
-      "ctime": "2018-05-28T22:51:45.011Z",
-      "birthtime": "2018-05-16T20:18:45.214Z"
     },
     "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file": {
       "id": "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file",
@@ -1570,7 +1616,7 @@
       "size": 629,
       "prettySize": "629 B",
       "modifiedTime": "2018-05-28T22:51:37.393Z",
-      "accessTime": "2018-05-30T12:58:13.748Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
       "changeTime": "2018-05-28T22:51:37.393Z",
       "birthTime": "2018-05-16T20:18:45.215Z",
       "root": "/",
@@ -1588,13 +1634,105 @@
       "blksize": 4194304,
       "ino": 8603892710,
       "blocks": 8,
-      "atimeMs": 1527685093747.7634,
+      "atimeMs": 1529666744531.5059,
       "mtimeMs": 1527547897392.558,
       "ctimeMs": 1527547897392.558,
       "birthtimeMs": 1526501925214.6045,
-      "atime": "2018-05-30T12:58:13.748Z",
+      "atime": "2018-06-22T11:25:44.532Z",
       "mtime": "2018-05-28T22:51:37.393Z",
       "ctime": "2018-05-28T22:51:37.393Z",
+      "birthtime": "2018-05-16T20:18:45.215Z"
+    },
+    "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "97f8387bc96d3e787e98ccba556dd438",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references/jitka-šichová.md",
+      "relativePath": "references/jitka-šichová.md",
+      "extension": "md",
+      "size": 650,
+      "prettySize": "650 B",
+      "modifiedTime": "2018-05-28T22:51:45.011Z",
+      "accessTime": "2018-06-22T11:25:44.531Z",
+      "changeTime": "2018-05-28T22:51:45.011Z",
+      "birthTime": "2018-05-16T20:18:45.214Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references",
+      "base": "jitka-šichová.md",
+      "ext": ".md",
+      "name": "jitka-šichová",
+      "relativeDirectory": "references",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603892709,
+      "blocks": 8,
+      "atimeMs": 1529666744531.4731,
+      "mtimeMs": 1527547905011.1472,
+      "ctimeMs": 1527547905011.1472,
+      "birthtimeMs": 1526501925214.0115,
+      "atime": "2018-06-22T11:25:44.531Z",
+      "mtime": "2018-05-28T22:51:45.011Z",
+      "ctime": "2018-05-28T22:51:45.011Z",
+      "birthtime": "2018-05-16T20:18:45.214Z"
+    },
+    "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1d4f3344a523cd3eda60a96d391b2462",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references/marianna-sidor.md",
+      "relativePath": "references/marianna-sidor.md",
+      "extension": "md",
+      "size": 873,
+      "prettySize": "873 B",
+      "modifiedTime": "2018-05-28T22:51:29.157Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
+      "changeTime": "2018-05-28T22:51:29.157Z",
+      "birthTime": "2018-05-16T20:18:45.215Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references",
+      "base": "marianna-sidor.md",
+      "ext": ".md",
+      "name": "marianna-sidor",
+      "relativeDirectory": "references",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603892711,
+      "blocks": 8,
+      "atimeMs": 1529666744531.535,
+      "mtimeMs": 1527547889157.0615,
+      "ctimeMs": 1527547889157.0615,
+      "birthtimeMs": 1526501925215.1758,
+      "atime": "2018-06-22T11:25:44.532Z",
+      "mtime": "2018-05-28T22:51:29.157Z",
+      "ctime": "2018-05-28T22:51:29.157Z",
       "birthtime": "2018-05-16T20:18:45.215Z"
     },
     "/Users/Robert/btb/src/data/references/michal.md absPath of file": {
@@ -1616,7 +1754,7 @@
       "size": 529,
       "prettySize": "529 B",
       "modifiedTime": "2018-05-28T22:51:16.723Z",
-      "accessTime": "2018-05-30T12:58:13.748Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
       "changeTime": "2018-05-28T22:51:16.723Z",
       "birthTime": "2018-05-16T20:18:45.216Z",
       "root": "/",
@@ -1634,60 +1772,14 @@
       "blksize": 4194304,
       "ino": 8603892712,
       "blocks": 8,
-      "atimeMs": 1527685093747.8228,
+      "atimeMs": 1529666744531.5625,
       "mtimeMs": 1527547876723.182,
       "ctimeMs": 1527547876723.182,
       "birthtimeMs": 1526501925216.3457,
-      "atime": "2018-05-30T12:58:13.748Z",
+      "atime": "2018-06-22T11:25:44.532Z",
       "mtime": "2018-05-28T22:51:16.723Z",
       "ctime": "2018-05-28T22:51:16.723Z",
       "birthtime": "2018-05-16T20:18:45.216Z"
-    },
-    "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file": {
-      "id": "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file",
-      "children": [
-        "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1d4f3344a523cd3eda60a96d391b2462",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "data",
-      "absolutePath": "/Users/Robert/btb/src/data/references/marianna-sidor.md",
-      "relativePath": "references/marianna-sidor.md",
-      "extension": "md",
-      "size": 873,
-      "prettySize": "873 B",
-      "modifiedTime": "2018-05-28T22:51:29.157Z",
-      "accessTime": "2018-05-30T12:58:13.748Z",
-      "changeTime": "2018-05-28T22:51:29.157Z",
-      "birthTime": "2018-05-16T20:18:45.215Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/src/data/references",
-      "base": "marianna-sidor.md",
-      "ext": ".md",
-      "name": "marianna-sidor",
-      "relativeDirectory": "references",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603892711,
-      "blocks": 8,
-      "atimeMs": 1527685093747.7927,
-      "mtimeMs": 1527547889157.0615,
-      "ctimeMs": 1527547889157.0615,
-      "birthtimeMs": 1526501925215.1758,
-      "atime": "2018-05-30T12:58:13.748Z",
-      "mtime": "2018-05-28T22:51:29.157Z",
-      "ctime": "2018-05-28T22:51:29.157Z",
-      "birthtime": "2018-05-16T20:18:45.215Z"
     },
     "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file": {
       "id": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
@@ -1696,7 +1788,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "54c6217fd0c18a0f81f6b9d698b85112",
+        "contentDigest": "99c04e0d97347d8089d21fe265ee3014",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1705,11 +1797,11 @@
       "absolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md",
       "relativePath": "pages/frontpage.md",
       "extension": "md",
-      "size": 1729,
-      "prettySize": "1.73 kB",
-      "modifiedTime": "2018-05-30T12:22:34.249Z",
-      "accessTime": "2018-05-30T12:58:13.748Z",
-      "changeTime": "2018-05-30T12:22:34.249Z",
+      "size": 2060,
+      "prettySize": "2.06 kB",
+      "modifiedTime": "2018-06-21T06:51:42.893Z",
+      "accessTime": "2018-06-22T11:25:44.531Z",
+      "changeTime": "2018-06-21T06:51:42.893Z",
       "birthTime": "2018-05-18T13:28:04.716Z",
       "root": "/",
       "dir": "/Users/Robert/btb/src/data/pages",
@@ -1726,83 +1818,244 @@
       "blksize": 4194304,
       "ino": 8603946166,
       "blocks": 8,
-      "atimeMs": 1527685093747.542,
-      "mtimeMs": 1527682954248.95,
-      "ctimeMs": 1527682954248.95,
+      "atimeMs": 1529666744531.2617,
+      "mtimeMs": 1529563902893.0698,
+      "ctimeMs": 1529563902893.0698,
       "birthtimeMs": 1526650084716.2444,
-      "atime": "2018-05-30T12:58:13.748Z",
-      "mtime": "2018-05-30T12:22:34.249Z",
-      "ctime": "2018-05-30T12:22:34.249Z",
+      "atime": "2018-06-22T11:25:44.531Z",
+      "mtime": "2018-06-21T06:51:42.893Z",
+      "ctime": "2018-06-21T06:51:42.893Z",
       "birthtime": "2018-05-18T13:28:04.716Z"
     },
-    "/Users/Robert/btb/src/data/frontpage.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/btb/src/data/frontpage.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/btb/src/data/frontpage.md absPath of file",
+    "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntitle: \"Vision – Strategy – Identity\"\nsubtitle: \"We help to transform beauty and lifestyle brands into successful enterprises.\"\n---",
-        "contentDigest": "77033d0ad02376e23a068bea6f325a79",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "1cb9ffe3a8517812c62fc1e31bc2995d",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Vision – Strategy – Identity",
-        "subtitle": "We help to transform beauty and lifestyle brands into successful enterprises.",
-        "_PARENT": "/Users/Robert/btb/src/data/frontpage.md absPath of file",
-        "parent": "/Users/Robert/btb/src/data/frontpage.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/btb/src/data/frontpage.md"
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/pages/frontpage.zh.md",
+      "relativePath": "pages/frontpage.zh.md",
+      "extension": "md",
+      "size": 1789,
+      "prettySize": "1.79 kB",
+      "modifiedTime": "2018-06-22T11:43:57.290Z",
+      "accessTime": "2018-06-22T11:43:57.290Z",
+      "changeTime": "2018-06-22T11:43:57.290Z",
+      "birthTime": "2018-06-21T06:38:04.149Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/pages",
+      "base": "frontpage.zh.md",
+      "ext": ".md",
+      "name": "frontpage.zh",
+      "relativeDirectory": "pages",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605472984,
+      "blocks": 8,
+      "atimeMs": 1529667837289.669,
+      "mtimeMs": 1529667837290.3994,
+      "ctimeMs": 1529667837290.3994,
+      "birthtimeMs": 1529563084148.8025,
+      "atime": "2018-06-22T11:43:57.290Z",
+      "mtime": "2018-06-22T11:43:57.290Z",
+      "ctime": "2018-06-22T11:43:57.290Z",
+      "birthtime": "2018-06-21T06:38:04.149Z"
     },
-    "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
+    "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 4\ntitle: Jitka Šichová\nimage: /img/jitka.jpg\nposition: Sales Director of Dermocosmetic division at L'Oréal, Czech Republic\ncompany: 'L''Oréal '\ndescription: 'The world leader in beauty, present in 150 countries on five continents. '\nlogo: /img/loreal.svg\n---\n\"Markéta is the impactful combination of a profit-oriented manager and a great marketer with the knowledge of all aspects of online & offline. Beyond being perfectly organized, she has been always delivering prompt and tangible results while developing the business relationships with our main B2B clients. I was really happy to have her in our team.\"\n",
-        "contentDigest": "2f741df1df7d4471eb246a3d08bb4103",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "0a7be565c6cda8dffba6be20f9b15c75",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Jitka Šichová",
-        "templateKey": "reference",
-        "order": 4,
-        "image": "../../../static/img/jitka.jpg",
-        "position": "Sales Director of Dermocosmetic division at L'Oréal, Czech Republic",
-        "company": "L'Oréal ",
-        "description": "The world leader in beauty, present in 150 countries on five continents. ",
-        "logo": "/img/loreal.svg",
-        "_PARENT": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
-        "parent": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/btb/src/data/references/jitka-šichová.md"
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md",
+      "relativePath": "references.zh/jitka-šichová.md",
+      "extension": "md",
+      "size": 461,
+      "prettySize": "461 B",
+      "modifiedTime": "2018-06-21T07:57:51.760Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
+      "changeTime": "2018-06-21T07:57:51.760Z",
+      "birthTime": "2018-06-21T07:56:48.234Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references.zh",
+      "base": "jitka-šichová.md",
+      "ext": ".md",
+      "name": "jitka-šichová",
+      "relativeDirectory": "references.zh",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605474738,
+      "blocks": 8,
+      "atimeMs": 1529666744531.687,
+      "mtimeMs": 1529567871760.2568,
+      "ctimeMs": 1529567871760.2568,
+      "birthtimeMs": 1529567808234.2888,
+      "atime": "2018-06-22T11:25:44.532Z",
+      "mtime": "2018-06-21T07:57:51.760Z",
+      "ctime": "2018-06-21T07:57:51.760Z",
+      "birthtime": "2018-06-21T07:56:48.234Z"
     },
-    "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+    "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\ntemplateKey: reference\norder: 1\ntitle: Michal Smejc\nimage: /img/smejc.jpg\nposition: General Manager at Velaa Private Island, Maldives \ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\nlogo: /img/velaa_original.svg\n---\n\"Markéta's sensitive approach, great taste and perfect organisation with attention to detail is why I continue to rely on her professional opinion and assistance with communication with our affluent clients in China.\"\n\n![](/img/foto1.jpg)\n![](/img/foto2.jpg)",
-        "contentDigest": "5eaa943aaba8d729ad7151cd070691d9",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "51ec2383149a52db001fe38dd8efe37a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Michal Smejc",
-        "templateKey": "reference",
-        "order": 1,
-        "image": "../../../static/img/smejc.jpg",
-        "position": "General Manager at Velaa Private Island, Maldives",
-        "company": "VELAA Private Island Maldives",
-        "description": "The most luxurious Maldivian private resort.",
-        "logo": "/img/velaa_original.svg",
-        "_PARENT": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
-        "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file"
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md",
+      "relativePath": "references.zh/leon-jakimič.md",
+      "extension": "md",
+      "size": 468,
+      "prettySize": "468 B",
+      "modifiedTime": "2018-06-21T07:58:29.105Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
+      "changeTime": "2018-06-21T07:58:29.105Z",
+      "birthTime": "2018-06-21T07:56:48.244Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references.zh",
+      "base": "leon-jakimič.md",
+      "ext": ".md",
+      "name": "leon-jakimič",
+      "relativeDirectory": "references.zh",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605474739,
+      "blocks": 8,
+      "atimeMs": 1529666744531.7195,
+      "mtimeMs": 1529567909104.6077,
+      "ctimeMs": 1529567909104.6077,
+      "birthtimeMs": 1529567808243.6855,
+      "atime": "2018-06-22T11:25:44.532Z",
+      "mtime": "2018-06-21T07:58:29.105Z",
+      "ctime": "2018-06-21T07:58:29.105Z",
+      "birthtime": "2018-06-21T07:56:48.244Z"
+    },
+    "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "54f0f4961a2611de99bfde5c1cd6f05a",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
       },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/Robert/btb/src/data/references/michal.md"
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md",
+      "relativePath": "references.zh/marianna-sidor.md",
+      "extension": "md",
+      "size": 631,
+      "prettySize": "631 B",
+      "modifiedTime": "2018-06-21T07:58:59.427Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
+      "changeTime": "2018-06-21T07:58:59.427Z",
+      "birthTime": "2018-06-21T07:56:48.246Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references.zh",
+      "base": "marianna-sidor.md",
+      "ext": ".md",
+      "name": "marianna-sidor",
+      "relativeDirectory": "references.zh",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605474740,
+      "blocks": 8,
+      "atimeMs": 1529666744531.7473,
+      "mtimeMs": 1529567939426.967,
+      "ctimeMs": 1529567939426.967,
+      "birthtimeMs": 1529567808245.7756,
+      "atime": "2018-06-22T11:25:44.532Z",
+      "mtime": "2018-06-21T07:58:59.427Z",
+      "ctime": "2018-06-21T07:58:59.427Z",
+      "birthtime": "2018-06-21T07:56:48.246Z"
+    },
+    "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file": {
+      "id": "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file",
+      "children": [
+        "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3899bf9efcb61644e90973a1d4d17358",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/Robert/btb/src/data/references.zh/michal.md",
+      "relativePath": "references.zh/michal.md",
+      "extension": "md",
+      "size": 388,
+      "prettySize": "388 B",
+      "modifiedTime": "2018-06-21T07:59:24.413Z",
+      "accessTime": "2018-06-22T11:25:44.532Z",
+      "changeTime": "2018-06-21T07:59:24.413Z",
+      "birthTime": "2018-06-21T07:56:48.247Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/src/data/references.zh",
+      "base": "michal.md",
+      "ext": ".md",
+      "name": "michal",
+      "relativeDirectory": "references.zh",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8605474741,
+      "blocks": 8,
+      "atimeMs": 1529666744531.7747,
+      "mtimeMs": 1529567964412.7986,
+      "ctimeMs": 1529567964412.7986,
+      "birthtimeMs": 1529567808247.1135,
+      "atime": "2018-06-22T11:25:44.532Z",
+      "mtime": "2018-06-21T07:59:24.413Z",
+      "ctime": "2018-06-21T07:59:24.413Z",
+      "birthtime": "2018-06-21T07:56:48.247Z"
     },
     "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/btb/src/data/references/leon-jakimič.md absPath of file >>> MarkdownRemark",
@@ -1829,6 +2082,31 @@
       "excerpt": "",
       "fileAbsolutePath": "/Users/Robert/btb/src/data/references/leon-jakimič.md"
     },
+    "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: reference\norder: 4\ntitle: Jitka Šichová\nimage: /img/jitka.jpg\nposition: Sales Director of Dermocosmetic division at L'Oréal, Czech Republic\ncompany: 'L''Oréal '\ndescription: 'The world leader in beauty, present in 150 countries on five continents. '\nlogo: /img/loreal.svg\n---\n\"Markéta is the impactful combination of a profit-oriented manager and a great marketer with the knowledge of all aspects of online & offline. Beyond being perfectly organized, she has been always delivering prompt and tangible results while developing the business relationships with our main B2B clients. I was really happy to have her in our team.\"\n",
+        "contentDigest": "2f741df1df7d4471eb246a3d08bb4103",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Jitka Šichová",
+        "templateKey": "reference",
+        "order": 4,
+        "image": "../../../static/img/jitka.jpg",
+        "position": "Sales Director of Dermocosmetic division at L'Oréal, Czech Republic",
+        "company": "L'Oréal ",
+        "description": "The world leader in beauty, present in 150 countries on five continents. ",
+        "logo": "/img/loreal.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references/jitka-šichová.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references/jitka-šichová.md"
+    },
     "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/btb/src/data/references/marianna-sidor.md absPath of file >>> MarkdownRemark",
       "children": [],
@@ -1854,13 +2132,38 @@
       "excerpt": "",
       "fileAbsolutePath": "/Users/Robert/btb/src/data/references/marianna-sidor.md"
     },
+    "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references/michal.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: reference\norder: 1\ntitle: Michal Smejc\nimage: /img/smejc.jpg\nposition: General Manager at Velaa Private Island, Maldives \ncompany: VELAA Private Island Maldives\ndescription: The most luxurious Maldivian private resort.\nlogo: /img/velaa_original.svg\n---\n\"Markéta's sensitive approach, great taste and perfect organisation with attention to detail is why I continue to rely on her professional opinion and assistance with communication with our affluent clients in China.\"\n\n![](/img/foto1.jpg)\n![](/img/foto2.jpg)",
+        "contentDigest": "5eaa943aaba8d729ad7151cd070691d9",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Michal Smejc",
+        "templateKey": "reference",
+        "order": 1,
+        "image": "../../../static/img/smejc.jpg",
+        "position": "General Manager at Velaa Private Island, Maldives",
+        "company": "VELAA Private Island Maldives",
+        "description": "The most luxurious Maldivian private resort.",
+        "logo": "/img/velaa_original.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references/michal.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references/michal.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references/michal.md"
+    },
     "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "/Users/Robert/btb/src/data/pages/frontpage.md absPath of file",
       "internal": {
-        "content": "---\ntemplateKey: frontpage\nname: Vision Strategy Visibility\ntagline: helping your brand lead and not follow in Europe and China.\nimage: /img/frontpage.png\nhighlights:\n- OMNI-CHANNEL MARKETING strategy\n- business EXPANSION\n- EVENT creation and execution\n- production of CONTENT for SOCIAL MEDIA\n- INFLUENCERS partnerships\n---\n![](/img/about.jpg)\n\n##Marketa Hamadakova##\n\n<em>Mutual trust, common goals and shared values are the heart and soul of my work.</em> I am a great believer in connections between people and the importance of emotions.\n\nMy enthusiasm for developing and managing brand identity goes hand in hand with my working experience in marketing, luxury retail and e-tail business. I am passionate about reaching to people through a strategy and a vision that transforms the brand and uncovers more of its potential.\n\nI have been building my expertise working on a variety of projects at various positions in large international as well as local companies, and through cooperation with inspiring individuals. <em>My working experience at Estée Lauder, L’Oréal, Lasvit and the Prague Fashion Week gave me great insights into brands</em> and made me very familiar with the fields of luxury, beauty and lifestyle.\n\nWith a background know-how from top European brands (both digital and retail), <em>I started my own marketing and business development consultancy</em> after I moved from Prague to Beijing.\n\nSince my relocation to China, <em>I have built a strong network of local brands, key opinion leaders and investment communities</em>. That is why the agency I established is able to create value, not only for domestic companies, but also for European brands intending to enter the largest market in the world.",
-        "contentDigest": "40ada11e7c0e6c05ff67241b300b0d85",
+        "content": "---\ntemplateKey: frontpage\nname: Vision Strategy Visibility\ntagline: helping your brand lead and not follow in Europe and China.\nimage: /img/frontpage.png\nbelieveName: 'We believe in brands with...'\nbelieve:\n- DISTINCTIONS\n- MISSION, FEELINGS and STORY that resonate with people.\n- EDIGITAL AND SOCIAL PRESENCE with a clear and easy way to TRACE & OPTIMIZE all marketing activities.\n- well-defined KPIs that CREATE RESOURCES and not burn them.\nhighlightsName: 'We can help you with...'\nhighlights:\n- OMNI-CHANNEL MARKETING strategy\n- business EXPANSION\n- EVENT creation and execution\n- production of CONTENT for SOCIAL MEDIA\n- INFLUENCERS partnerships\n---\n![](/img/about.jpg)\n\n##Marketa Hamadakova##\n\n<em>Mutual trust, common goals and shared values are the heart and soul of my work.</em> I am a great believer in connections between people and the importance of emotions.\n\nMy enthusiasm for developing and managing brand identity goes hand in hand with my working experience in marketing, luxury retail and e-tail business. I am passionate about reaching to people through a strategy and a vision that transforms the brand and uncovers more of its potential.\n\nI have been building my expertise working on a variety of projects at various positions in large international as well as local companies, and through cooperation with inspiring individuals. <em>My working experience at Estée Lauder, L’Oréal, Lasvit and the Prague Fashion Week gave me great insights into brands</em> and made me very familiar with the fields of luxury, beauty and lifestyle.\n\nWith a background know-how from top European brands (both digital and retail), <em>I started my own marketing and business development consultancy</em> after I moved from Prague to Beijing.\n\nSince my relocation to China, <em>I have built a strong network of local brands, key opinion leaders and investment communities</em>. That is why the agency I established is able to create value, not only for domestic companies, but also for European brands intending to enter the largest market in the world.",
+        "contentDigest": "29fba41361edda2237e99d680d870672",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1870,6 +2173,14 @@
         "name": "Vision Strategy Visibility",
         "tagline": "helping your brand lead and not follow in Europe and China.",
         "image": "../../../static/img/frontpage.png",
+        "believeName": "We believe in brands with...",
+        "believe": [
+          "DISTINCTIONS",
+          "MISSION, FEELINGS and STORY that resonate with people.",
+          "EDIGITAL AND SOCIAL PRESENCE with a clear and easy way to TRACE & OPTIMIZE all marketing activities.",
+          "well-defined KPIs that CREATE RESOURCES and not burn them."
+        ],
+        "highlightsName": "We can help you with...",
         "highlights": [
           "OMNI-CHANNEL MARKETING strategy",
           "business EXPANSION",
@@ -1883,12 +2194,104 @@
       "excerpt": "",
       "fileAbsolutePath": "/Users/Robert/btb/src/data/pages/frontpage.md"
     },
+    "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: referencezh\norder: 4\ntitle: Jitka Šichová\nimage: /img/jitka.jpg\nposition: 雅诗兰黛皮肤美容部销售总监， 捷克共和国\nlogo: /img/loreal.svg\n---\n\"Marketa既是一位以盈利为导向的经理人，又是一位拥有各种线上线下知识的出色的营销人。除了完美的组织外，她在与我们主要的B2B客户发展业务关系时，总能取得快速有形的成果。我很高兴她加入了我们的团队。\"\n",
+        "contentDigest": "bcea7859fa14e4729a82d546be6651d7",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Jitka Šichová",
+        "templateKey": "referencezh",
+        "order": 4,
+        "image": "../../../static/img/jitka.jpg",
+        "position": "雅诗兰黛皮肤美容部销售总监， 捷克共和国",
+        "logo": "/img/loreal.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references.zh/jitka-šichová.md"
+    },
+    "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: referencezh\norder: 2\ntitle: Leon Jakimič\nimage: /img/jakimic.jpg\nposition: 拉斯维特总裁，香港\nlogo: /img/lasvit.svg\n---\n\"Marketa具有优秀品牌沟通者的所有的品质。她头脑聪慧沟通技巧娴熟。在她被聘为拉斯维特（Lasvit）的数字营销先锋时，就已经成功地证明了她在数字时代里结合传统营销与最新潮流来呈现奢侈产品的能力。我很高兴能在中国再次与她合作。”\n",
+        "contentDigest": "dd9059ec68fd793a7bde8581ebd6d035",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Leon Jakimič",
+        "templateKey": "referencezh",
+        "order": 2,
+        "image": "../../../static/img/jakimic.jpg",
+        "position": "拉斯维特总裁，香港",
+        "logo": "/img/lasvit.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references.zh/leon-jakimič.md"
+    },
+    "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: referencezh\norder: 3\ntitle: Marianna Sidor\nimage: /img/marianna.jpg\nposition: 雅诗兰黛品牌经理，南非\nlogo: /img/estee_lauder.svg\n---\n\"Marketa知道如何在线上和线下营销策略中实现有关趋势的正确分类，以取得良好的效果。仅是她成功地推出了我们的全渠道营销策略，就足以证明她是一位出色能干的女商人。她能够吸引千禧一代的新顾客光顾我们的零售店，并同时让我们保持雅诗兰黛品牌的奢侈品特征定位。无论是日常议程还是额外项目，与Marketa的合作一直都是一个不断丰富的过程。\"\n",
+        "contentDigest": "e37b07378474c2ba1d40cd0cf7b10fa3",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Marianna Sidor",
+        "templateKey": "referencezh",
+        "order": 3,
+        "image": "../../../static/img/marianna.jpg",
+        "position": "雅诗兰黛品牌经理，南非",
+        "logo": "/img/estee_lauder.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references.zh/marianna-sidor.md"
+    },
+    "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: referencezh\norder: 1\ntitle: Michal Smejc\nimage: /img/smejc.jpg\nposition: 维拉私人岛总经理，马尔代夫\nlogo: /img/velaa_original.svg\n---\n\"Marketa敏感的方式、高品位以及注重细节的完美组织是我为什么继续采纳她的专业意见并依靠她的协助与我们中国的富裕客户沟通的原因。\"\n\n![](/img/foto1.jpg)\n![](/img/foto2.jpg)",
+        "contentDigest": "13cb583e46da172985c6c1d9784ee423",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Michal Smejc",
+        "templateKey": "referencezh",
+        "order": 1,
+        "image": "../../../static/img/smejc.jpg",
+        "position": "维拉私人岛总经理，马尔代夫",
+        "logo": "/img/velaa_original.svg",
+        "_PARENT": "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/references.zh/michal.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/references.zh/michal.md"
+    },
     "/Users/Robert/btb/static/img absPath of file": {
       "id": "/Users/Robert/btb/static/img absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "646222a0e36bca7849fba3ad2bd6716c",
+        "contentDigest": "6c41172673d6d22c157a3237c0d6a278",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1899,7 +2302,7 @@
       "size": 608,
       "prettySize": "608 B",
       "modifiedTime": "2018-05-30T13:03:13.785Z",
-      "accessTime": "2018-05-30T13:22:10.122Z",
+      "accessTime": "2018-06-22T11:27:34.432Z",
       "changeTime": "2018-05-30T13:03:13.785Z",
       "birthTime": "2018-04-18T16:11:37.977Z",
       "root": "/",
@@ -1917,11 +2320,11 @@
       "blksize": 4194304,
       "ino": 8602121804,
       "blocks": 0,
-      "atimeMs": 1527686530121.6143,
+      "atimeMs": 1529666854432.4033,
       "mtimeMs": 1527685393785.2842,
       "ctimeMs": 1527685393785.2842,
       "birthtimeMs": 1524067897976.9976,
-      "atime": "2018-05-30T13:22:10.122Z",
+      "atime": "2018-06-22T11:27:34.432Z",
       "mtime": "2018-05-30T13:03:13.785Z",
       "ctime": "2018-05-30T13:03:13.785Z",
       "birthtime": "2018-04-18T16:11:37.977Z"
@@ -1931,7 +2334,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c6b8b2b0212fa275eb15205ecb87a282",
+        "contentDigest": "6675fe81bf945e24d2f2548b7ba2bf07",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1942,7 +2345,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-24T11:15:00.246Z",
-      "accessTime": "2018-05-30T13:22:10.123Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
       "changeTime": "2018-05-24T11:15:01.352Z",
       "birthTime": "2018-05-24T11:15:00.241Z",
       "root": "/",
@@ -1960,11 +2363,11 @@
       "blksize": 4194304,
       "ino": 8604060747,
       "blocks": 0,
-      "atimeMs": 1527686530122.879,
+      "atimeMs": 1529666854434.9075,
       "mtimeMs": 1527160500246.309,
       "ctimeMs": 1527160501351.8452,
       "birthtimeMs": 1527160500240.588,
-      "atime": "2018-05-30T13:22:10.123Z",
+      "atime": "2018-06-22T11:27:34.435Z",
       "mtime": "2018-05-24T11:15:00.246Z",
       "ctime": "2018-05-24T11:15:01.352Z",
       "birthtime": "2018-05-24T11:15:00.241Z"
@@ -1986,7 +2389,7 @@
       "size": 6148,
       "prettySize": "6.15 kB",
       "modifiedTime": "2018-05-30T13:03:18.832Z",
-      "accessTime": "2018-05-30T13:03:29.523Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-30T13:03:18.832Z",
       "birthTime": "2018-05-21T08:08:56.886Z",
       "root": "/",
@@ -2004,11 +2407,11 @@
       "blksize": 4194304,
       "ino": 8603988267,
       "blocks": 16,
-      "atimeMs": 1527685409522.7417,
+      "atimeMs": 1529666786027.1055,
       "mtimeMs": 1527685398831.7603,
       "ctimeMs": 1527685398831.7603,
       "birthtimeMs": 1526890136885.8147,
-      "atime": "2018-05-30T13:03:29.523Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-30T13:03:18.832Z",
       "ctime": "2018-05-30T13:03:18.832Z",
       "birthtime": "2018-05-21T08:08:56.886Z"
@@ -2030,7 +2433,7 @@
       "size": 3548,
       "prettySize": "3.55 kB",
       "modifiedTime": "2018-05-14T09:26:40.449Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-16T22:05:34.085Z",
       "birthTime": "2018-05-14T09:26:40.449Z",
       "root": "/",
@@ -2048,11 +2451,11 @@
       "blksize": 4194304,
       "ino": 8603486531,
       "blocks": 8,
-      "atimeMs": 1527685110972.607,
+      "atimeMs": 1529666786027.322,
       "mtimeMs": 1526290000449.11,
       "ctimeMs": 1526508334084.9106,
       "birthtimeMs": 1526290000448.8015,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-14T09:26:40.449Z",
       "ctime": "2018-05-16T22:05:34.085Z",
       "birthtime": "2018-05-14T09:26:40.449Z"
@@ -2076,7 +2479,7 @@
       "size": 3791,
       "prettySize": "3.79 kB",
       "modifiedTime": "2018-05-21T08:04:26.581Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-21T08:09:14.834Z",
       "birthTime": "2018-05-21T08:04:26.581Z",
       "root": "/",
@@ -2094,14 +2497,60 @@
       "blksize": 4194304,
       "ino": 8603988291,
       "blocks": 8,
-      "atimeMs": 1527685110972.6396,
+      "atimeMs": 1529666786027.4785,
       "mtimeMs": 1526889866580.555,
       "ctimeMs": 1526890154834.451,
       "birthtimeMs": 1526889866580.555,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-21T08:04:26.581Z",
       "ctime": "2018-05-21T08:09:14.834Z",
       "birthtime": "2018-05-21T08:04:26.581Z"
+    },
+    "/Users/Robert/btb/static/img/jitka.jpg absPath of file": {
+      "id": "/Users/Robert/btb/static/img/jitka.jpg absPath of file",
+      "children": [
+        "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c90673b9c7eef68240e487a269dad80a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/jitka.jpg",
+      "relativePath": "jitka.jpg",
+      "extension": "jpg",
+      "size": 4589,
+      "prettySize": "4.59 kB",
+      "modifiedTime": "2018-05-21T08:04:26.594Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
+      "changeTime": "2018-05-29T06:13:32.627Z",
+      "birthTime": "2018-05-21T08:04:26.594Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img",
+      "base": "jitka.jpg",
+      "ext": ".jpg",
+      "name": "jitka",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8603988276,
+      "blocks": 16,
+      "atimeMs": 1529666786027.5264,
+      "mtimeMs": 1526889866594.455,
+      "ctimeMs": 1527574412627.4663,
+      "birthtimeMs": 1526889866594.455,
+      "atime": "2018-06-22T11:26:26.028Z",
+      "mtime": "2018-05-21T08:04:26.594Z",
+      "ctime": "2018-05-29T06:13:32.627Z",
+      "birthtime": "2018-05-21T08:04:26.594Z"
     },
     "/Users/Robert/btb/static/img/lasvit.svg absPath of file": {
       "id": "/Users/Robert/btb/static/img/lasvit.svg absPath of file",
@@ -2120,7 +2569,7 @@
       "size": 3923,
       "prettySize": "3.92 kB",
       "modifiedTime": "2018-05-14T09:37:29.003Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-16T22:05:34.094Z",
       "birthTime": "2018-05-14T09:36:45.397Z",
       "root": "/",
@@ -2138,11 +2587,11 @@
       "blksize": 4194304,
       "ino": 8603487462,
       "blocks": 8,
-      "atimeMs": 1527685110972.657,
+      "atimeMs": 1529666786027.5547,
       "mtimeMs": 1526290649002.7036,
       "ctimeMs": 1526508334093.6187,
       "birthtimeMs": 1526290605396.9143,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-14T09:37:29.003Z",
       "ctime": "2018-05-16T22:05:34.094Z",
       "birthtime": "2018-05-14T09:36:45.397Z"
@@ -2166,7 +2615,7 @@
       "size": 4788,
       "prettySize": "4.79 kB",
       "modifiedTime": "2018-04-13T15:46:37.152Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-03T11:08:05.614Z",
       "birthTime": "2018-04-13T15:46:37.151Z",
       "root": "/",
@@ -2184,90 +2633,14 @@
       "blksize": 4194304,
       "ino": 8601895780,
       "blocks": 16,
-      "atimeMs": 1527685110972.6643,
+      "atimeMs": 1529666786027.582,
       "mtimeMs": 1523634397151.7344,
       "ctimeMs": 1525345685613.6167,
       "birthtimeMs": 1523634397151.4617,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-04-13T15:46:37.152Z",
       "ctime": "2018-05-03T11:08:05.614Z",
       "birthtime": "2018-04-13T15:46:37.151Z"
-    },
-    "/Users/Robert/btb/static/img/jitka.jpg absPath of file": {
-      "id": "/Users/Robert/btb/static/img/jitka.jpg absPath of file",
-      "children": [
-        "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "c90673b9c7eef68240e487a269dad80a",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/jitka.jpg",
-      "relativePath": "jitka.jpg",
-      "extension": "jpg",
-      "size": 4589,
-      "prettySize": "4.59 kB",
-      "modifiedTime": "2018-05-21T08:04:26.594Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-29T06:13:32.627Z",
-      "birthTime": "2018-05-21T08:04:26.594Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img",
-      "base": "jitka.jpg",
-      "ext": ".jpg",
-      "name": "jitka",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8603988276,
-      "blocks": 16,
-      "atimeMs": 1527685110972.6484,
-      "mtimeMs": 1526889866594.455,
-      "ctimeMs": 1527574412627.4663,
-      "birthtimeMs": 1526889866594.455,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-21T08:04:26.594Z",
-      "ctime": "2018-05-29T06:13:32.627Z",
-      "birthtime": "2018-05-21T08:04:26.594Z"
-    },
-    "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/btb/static/img/jakimic.jpg absPath of file",
-      "internal": {
-        "contentDigest": "6d17d924781fb480f3c2dd0d02390783",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/btb/static/img/logo.png absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/btb/static/img/logo.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/btb/static/img/logo.png absPath of file",
-      "internal": {
-        "contentDigest": "a0fceb842f0da6a47a158cce1961e7b0",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/btb/static/img/jitka.jpg absPath of file",
-      "internal": {
-        "contentDigest": "c90673b9c7eef68240e487a269dad80a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "/Users/Robert/btb/static/img/loreal.svg absPath of file": {
       "id": "/Users/Robert/btb/static/img/loreal.svg absPath of file",
@@ -2286,7 +2659,7 @@
       "size": 2296,
       "prettySize": "2.3 kB",
       "modifiedTime": "2018-05-14T09:24:26.595Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-16T22:05:34.103Z",
       "birthTime": "2018-05-14T09:24:26.595Z",
       "root": "/",
@@ -2304,11 +2677,11 @@
       "blksize": 4194304,
       "ino": 8603486255,
       "blocks": 8,
-      "atimeMs": 1527685110972.6726,
+      "atimeMs": 1529666786027.6116,
       "mtimeMs": 1526289866595.3484,
       "ctimeMs": 1526508334103.2073,
       "birthtimeMs": 1526289866594.685,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-14T09:24:26.595Z",
       "ctime": "2018-05-16T22:05:34.103Z",
       "birthtime": "2018-05-14T09:24:26.595Z"
@@ -2332,7 +2705,7 @@
       "size": 3378,
       "prettySize": "3.38 kB",
       "modifiedTime": "2018-05-21T08:04:26.612Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-29T06:13:24.846Z",
       "birthTime": "2018-05-21T08:04:26.612Z",
       "root": "/",
@@ -2350,11 +2723,11 @@
       "blksize": 4194304,
       "ino": 8603988214,
       "blocks": 8,
-      "atimeMs": 1527685110972.6797,
+      "atimeMs": 1529666786027.6367,
       "mtimeMs": 1526889866611.637,
       "ctimeMs": 1527574404845.7114,
       "birthtimeMs": 1526889866611.637,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-21T08:04:26.612Z",
       "ctime": "2018-05-29T06:13:24.846Z",
       "birthtime": "2018-05-21T08:04:26.612Z"
@@ -2378,7 +2751,7 @@
       "size": 3159,
       "prettySize": "3.16 kB",
       "modifiedTime": "2018-05-21T08:04:26.601Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-29T06:13:29.139Z",
       "birthTime": "2018-05-21T08:04:26.601Z",
       "root": "/",
@@ -2396,11 +2769,11 @@
       "blksize": 4194304,
       "ino": 8603988230,
       "blocks": 8,
-      "atimeMs": 1527685110972.6938,
+      "atimeMs": 1529666786027.662,
       "mtimeMs": 1526889866601.204,
       "ctimeMs": 1527574409138.795,
       "birthtimeMs": 1526889866601.204,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-21T08:04:26.601Z",
       "ctime": "2018-05-29T06:13:29.139Z",
       "birthtime": "2018-05-21T08:04:26.601Z"
@@ -2422,7 +2795,7 @@
       "size": 4310,
       "prettySize": "4.31 kB",
       "modifiedTime": "2018-05-14T09:53:36.428Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-16T22:05:34.111Z",
       "birthTime": "2018-05-14T09:53:36.428Z",
       "root": "/",
@@ -2440,11 +2813,11 @@
       "blksize": 4194304,
       "ino": 8603488325,
       "blocks": 16,
-      "atimeMs": 1527685110972.702,
+      "atimeMs": 1529666786027.6877,
       "mtimeMs": 1526291616428.2107,
       "ctimeMs": 1526508334111.1584,
       "birthtimeMs": 1526291616427.8389,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-14T09:53:36.428Z",
       "ctime": "2018-05-16T22:05:34.111Z",
       "birthtime": "2018-05-14T09:53:36.428Z"
@@ -2466,7 +2839,7 @@
       "size": 5552,
       "prettySize": "5.55 kB",
       "modifiedTime": "2018-05-21T08:22:23.562Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.028Z",
       "changeTime": "2018-05-21T08:22:50.796Z",
       "birthTime": "2018-05-21T08:22:23.559Z",
       "root": "/",
@@ -2484,11 +2857,11 @@
       "blksize": 4194304,
       "ino": 8603989274,
       "blocks": 16,
-      "atimeMs": 1527685110972.7095,
+      "atimeMs": 1529666786027.7183,
       "mtimeMs": 1526890943562.2292,
       "ctimeMs": 1526890970795.7678,
       "birthtimeMs": 1526890943559.4207,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.028Z",
       "mtime": "2018-05-21T08:22:23.562Z",
       "ctime": "2018-05-21T08:22:50.796Z",
       "birthtime": "2018-05-21T08:22:23.559Z"
@@ -2512,7 +2885,7 @@
       "size": 24306,
       "prettySize": "24.3 kB",
       "modifiedTime": "2018-05-24T11:14:59.288Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.243Z",
       "birthTime": "2018-05-24T11:14:59.263Z",
       "root": "/",
@@ -2530,11 +2903,11 @@
       "blksize": 4194304,
       "ino": 8604060739,
       "blocks": 48,
-      "atimeMs": 1527685110972.509,
+      "atimeMs": 1529666786050.978,
       "mtimeMs": 1527160499288.0923,
       "ctimeMs": 1527160500243.1538,
       "birthtimeMs": 1527160499263.1765,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:59.288Z",
       "ctime": "2018-05-24T11:15:00.243Z",
       "birthtime": "2018-05-24T11:14:59.263Z"
@@ -2556,7 +2929,7 @@
       "size": 34037,
       "prettySize": "34 kB",
       "modifiedTime": "2018-05-24T11:14:59.498Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.243Z",
       "birthTime": "2018-05-24T11:14:59.497Z",
       "root": "/",
@@ -2574,11 +2947,11 @@
       "blksize": 4194304,
       "ino": 8604060741,
       "blocks": 72,
-      "atimeMs": 1527685110972.531,
+      "atimeMs": 1529666786051.0095,
       "mtimeMs": 1527160499497.939,
       "ctimeMs": 1527160500242.8147,
       "birthtimeMs": 1527160499497.4707,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:59.498Z",
       "ctime": "2018-05-24T11:15:00.243Z",
       "birthtime": "2018-05-24T11:14:59.497Z"
@@ -2600,7 +2973,7 @@
       "size": 35266,
       "prettySize": "35.3 kB",
       "modifiedTime": "2018-05-24T11:14:59.103Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.244Z",
       "birthTime": "2018-05-24T11:14:59.091Z",
       "root": "/",
@@ -2618,14 +2991,102 @@
       "blksize": 4194304,
       "ino": 8604060737,
       "blocks": 72,
-      "atimeMs": 1527685110972.524,
+      "atimeMs": 1529666786051.002,
       "mtimeMs": 1527160499103.494,
       "ctimeMs": 1527160500244.1934,
       "birthtimeMs": 1527160499091.1592,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:59.103Z",
       "ctime": "2018-05-24T11:15:00.244Z",
       "birthtime": "2018-05-24T11:14:59.091Z"
+    },
+    "/Users/Robert/btb/static/img/;_files/css.js absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;_files/css.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "5708d6a411224d88e940533990984689",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;_files/css.js",
+      "relativePath": ";_files/css.js",
+      "extension": "js",
+      "size": 37753,
+      "prettySize": "37.8 kB",
+      "modifiedTime": "2018-05-24T11:14:58.857Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
+      "changeTime": "2018-05-24T11:15:00.245Z",
+      "birthTime": "2018-05-24T11:14:58.857Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img/;_files",
+      "base": "css.js",
+      "ext": ".js",
+      "name": "css",
+      "relativeDirectory": ";_files",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060734,
+      "blocks": 80,
+      "atimeMs": 1529666786051.0264,
+      "mtimeMs": 1527160498857.26,
+      "ctimeMs": 1527160500245.4949,
+      "birthtimeMs": 1527160498856.529,
+      "atime": "2018-06-22T11:26:26.051Z",
+      "mtime": "2018-05-24T11:14:58.857Z",
+      "ctime": "2018-05-24T11:15:00.245Z",
+      "birthtime": "2018-05-24T11:14:58.857Z"
+    },
+    "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "529ef39dd40c3df5dccea84044545c5a",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css",
+      "relativePath": ";_files/dist-editor-dark.css",
+      "extension": "css",
+      "size": 26810,
+      "prettySize": "26.8 kB",
+      "modifiedTime": "2018-05-24T11:14:59.603Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
+      "changeTime": "2018-05-24T11:15:00.246Z",
+      "birthTime": "2018-05-24T11:14:59.602Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img/;_files",
+      "base": "dist-editor-dark.css",
+      "ext": ".css",
+      "name": "dist-editor-dark",
+      "relativeDirectory": ";_files",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060742,
+      "blocks": 56,
+      "atimeMs": 1529666854435.0674,
+      "mtimeMs": 1527160499603.1255,
+      "ctimeMs": 1527160500246.1243,
+      "birthtimeMs": 1527160499602.4663,
+      "atime": "2018-06-22T11:27:34.435Z",
+      "mtime": "2018-05-24T11:14:59.603Z",
+      "ctime": "2018-05-24T11:15:00.246Z",
+      "birthtime": "2018-05-24T11:14:59.602Z"
     },
     "/Users/Robert/btb/static/img/;_files/dist-skeleton-dark.css absPath of file": {
       "id": "/Users/Robert/btb/static/img/;_files/dist-skeleton-dark.css absPath of file",
@@ -2644,7 +3105,7 @@
       "size": 10581,
       "prettySize": "10.6 kB",
       "modifiedTime": "2018-05-24T11:14:59.216Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
       "changeTime": "2018-05-24T11:15:00.244Z",
       "birthTime": "2018-05-24T11:14:59.216Z",
       "root": "/",
@@ -2662,11 +3123,11 @@
       "blksize": 4194304,
       "ino": 8604060738,
       "blocks": 24,
-      "atimeMs": 1527685110972.5544,
+      "atimeMs": 1529666854435.091,
       "mtimeMs": 1527160499216.4084,
       "ctimeMs": 1527160500243.8123,
       "birthtimeMs": 1527160499216.0557,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:27:34.435Z",
       "mtime": "2018-05-24T11:14:59.216Z",
       "ctime": "2018-05-24T11:15:00.244Z",
       "birthtime": "2018-05-24T11:14:59.216Z"
@@ -2688,7 +3149,7 @@
       "size": 5611,
       "prettySize": "5.61 kB",
       "modifiedTime": "2018-05-24T11:14:58.958Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.245Z",
       "birthTime": "2018-05-24T11:14:58.958Z",
       "root": "/",
@@ -2706,234 +3167,14 @@
       "blksize": 4194304,
       "ino": 8604060735,
       "blocks": 16,
-      "atimeMs": 1527685110972.5613,
+      "atimeMs": 1529666786051.0776,
       "mtimeMs": 1527160498958.2043,
       "ctimeMs": 1527160500245.171,
       "birthtimeMs": 1527160498957.9421,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:58.958Z",
       "ctime": "2018-05-24T11:15:00.245Z",
       "birthtime": "2018-05-24T11:14:58.958Z"
-    },
-    "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "529ef39dd40c3df5dccea84044545c5a",
-        "mediaType": "text/css",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;_files/dist-editor-dark.css",
-      "relativePath": ";_files/dist-editor-dark.css",
-      "extension": "css",
-      "size": 26810,
-      "prettySize": "26.8 kB",
-      "modifiedTime": "2018-05-24T11:14:59.603Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-24T11:15:00.246Z",
-      "birthTime": "2018-05-24T11:14:59.602Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img/;_files",
-      "base": "dist-editor-dark.css",
-      "ext": ".css",
-      "name": "dist-editor-dark",
-      "relativeDirectory": ";_files",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060742,
-      "blocks": 56,
-      "atimeMs": 1527685110972.546,
-      "mtimeMs": 1527160499603.1255,
-      "ctimeMs": 1527160500246.1243,
-      "birthtimeMs": 1527160499602.4663,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-24T11:14:59.603Z",
-      "ctime": "2018-05-24T11:15:00.246Z",
-      "birthtime": "2018-05-24T11:14:59.602Z"
-    },
-    "/Users/Robert/btb/static/img/;_files/css.js absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;_files/css.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "5708d6a411224d88e940533990984689",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;_files/css.js",
-      "relativePath": ";_files/css.js",
-      "extension": "js",
-      "size": 37753,
-      "prettySize": "37.8 kB",
-      "modifiedTime": "2018-05-24T11:14:58.857Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-24T11:15:00.245Z",
-      "birthTime": "2018-05-24T11:14:58.857Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img/;_files",
-      "base": "css.js",
-      "ext": ".js",
-      "name": "css",
-      "relativeDirectory": ";_files",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060734,
-      "blocks": 80,
-      "atimeMs": 1527685110972.538,
-      "mtimeMs": 1527160498857.26,
-      "ctimeMs": 1527160500245.4949,
-      "birthtimeMs": 1527160498856.529,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-24T11:14:58.857Z",
-      "ctime": "2018-05-24T11:15:00.245Z",
-      "birthtime": "2018-05-24T11:14:58.857Z"
-    },
-    "/Users/Robert/btb/static/img/;_files/normalize.css absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;_files/normalize.css absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "59e5a6d6d8e5dee635aacd6d2173819c",
-        "mediaType": "text/css",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;_files/normalize.css",
-      "relativePath": ";_files/normalize.css",
-      "extension": "css",
-      "size": 615,
-      "prettySize": "615 B",
-      "modifiedTime": "2018-05-24T11:14:58.338Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-24T11:15:00.246Z",
-      "birthTime": "2018-05-24T11:14:58.338Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img/;_files",
-      "base": "normalize.css",
-      "ext": ".css",
-      "name": "normalize",
-      "relativeDirectory": ";_files",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060731,
-      "blocks": 8,
-      "atimeMs": 1527685110972.5776,
-      "mtimeMs": 1527160498338.4814,
-      "ctimeMs": 1527160500246.3564,
-      "birthtimeMs": 1527160498338.2764,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-24T11:14:58.338Z",
-      "ctime": "2018-05-24T11:15:00.246Z",
-      "birthtime": "2018-05-24T11:14:58.338Z"
-    },
-    "/Users/Robert/btb/static/img/;_files/saved_resource.html absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;_files/saved_resource.html absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "03978beee60f89c8c312480db5a083ff",
-        "mediaType": "text/html",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;_files/saved_resource.html",
-      "relativePath": ";_files/saved_resource.html",
-      "extension": "html",
-      "size": 1455,
-      "prettySize": "1.46 kB",
-      "modifiedTime": "2018-05-24T11:15:00.236Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-24T11:15:00.242Z",
-      "birthTime": "2018-05-24T11:15:00.233Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img/;_files",
-      "base": "saved_resource.html",
-      "ext": ".html",
-      "name": "saved_resource",
-      "relativeDirectory": ";_files",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060746,
-      "blocks": 8,
-      "atimeMs": 1527685110972.5923,
-      "mtimeMs": 1527160500235.686,
-      "ctimeMs": 1527160500241.873,
-      "birthtimeMs": 1527160500232.9702,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-24T11:15:00.236Z",
-      "ctime": "2018-05-24T11:15:00.242Z",
-      "birthtime": "2018-05-24T11:15:00.233Z"
-    },
-    "/Users/Robert/btb/static/img/;_files/result-light.css absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;_files/result-light.css absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f2f816967c17da6f0d0a84c36b032b1d",
-        "mediaType": "text/css",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;_files/result-light.css",
-      "relativePath": ";_files/result-light.css",
-      "extension": "css",
-      "size": 29,
-      "prettySize": "29 B",
-      "modifiedTime": "2018-05-24T11:14:58.448Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
-      "changeTime": "2018-05-24T11:15:00.246Z",
-      "birthTime": "2018-05-24T11:14:58.448Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img/;_files",
-      "base": "result-light.css",
-      "ext": ".css",
-      "name": "result-light",
-      "relativeDirectory": ";_files",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060732,
-      "blocks": 8,
-      "atimeMs": 1527685110972.5852,
-      "mtimeMs": 1527160498448.4343,
-      "ctimeMs": 1527160500245.76,
-      "birthtimeMs": 1527160498448.2458,
-      "atime": "2018-05-30T12:58:30.973Z",
-      "mtime": "2018-05-24T11:14:58.448Z",
-      "ctime": "2018-05-24T11:15:00.246Z",
-      "birthtime": "2018-05-24T11:14:58.448Z"
     },
     "/Users/Robert/btb/static/img/;_files/javascript.js absPath of file": {
       "id": "/Users/Robert/btb/static/img/;_files/javascript.js absPath of file",
@@ -2952,7 +3193,7 @@
       "size": 34468,
       "prettySize": "34.5 kB",
       "modifiedTime": "2018-05-24T11:14:59.067Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.245Z",
       "birthTime": "2018-05-24T11:14:59.066Z",
       "root": "/",
@@ -2970,14 +3211,146 @@
       "blksize": 4194304,
       "ino": 8604060736,
       "blocks": 72,
-      "atimeMs": 1527685110972.5688,
+      "atimeMs": 1529666786051.0999,
       "mtimeMs": 1527160499066.5293,
       "ctimeMs": 1527160500244.727,
       "birthtimeMs": 1527160499065.821,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:59.067Z",
       "ctime": "2018-05-24T11:15:00.245Z",
       "birthtime": "2018-05-24T11:14:59.066Z"
+    },
+    "/Users/Robert/btb/static/img/;_files/normalize.css absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;_files/normalize.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "59e5a6d6d8e5dee635aacd6d2173819c",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;_files/normalize.css",
+      "relativePath": ";_files/normalize.css",
+      "extension": "css",
+      "size": 615,
+      "prettySize": "615 B",
+      "modifiedTime": "2018-05-24T11:14:58.338Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
+      "changeTime": "2018-05-24T11:15:00.246Z",
+      "birthTime": "2018-05-24T11:14:58.338Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img/;_files",
+      "base": "normalize.css",
+      "ext": ".css",
+      "name": "normalize",
+      "relativeDirectory": ";_files",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060731,
+      "blocks": 8,
+      "atimeMs": 1529666854435.1313,
+      "mtimeMs": 1527160498338.4814,
+      "ctimeMs": 1527160500246.3564,
+      "birthtimeMs": 1527160498338.2764,
+      "atime": "2018-06-22T11:27:34.435Z",
+      "mtime": "2018-05-24T11:14:58.338Z",
+      "ctime": "2018-05-24T11:15:00.246Z",
+      "birthtime": "2018-05-24T11:14:58.338Z"
+    },
+    "/Users/Robert/btb/static/img/;_files/result-light.css absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;_files/result-light.css absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f2f816967c17da6f0d0a84c36b032b1d",
+        "mediaType": "text/css",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;_files/result-light.css",
+      "relativePath": ";_files/result-light.css",
+      "extension": "css",
+      "size": 29,
+      "prettySize": "29 B",
+      "modifiedTime": "2018-05-24T11:14:58.448Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
+      "changeTime": "2018-05-24T11:15:00.246Z",
+      "birthTime": "2018-05-24T11:14:58.448Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img/;_files",
+      "base": "result-light.css",
+      "ext": ".css",
+      "name": "result-light",
+      "relativeDirectory": ";_files",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060732,
+      "blocks": 8,
+      "atimeMs": 1529666854435.1477,
+      "mtimeMs": 1527160498448.4343,
+      "ctimeMs": 1527160500245.76,
+      "birthtimeMs": 1527160498448.2458,
+      "atime": "2018-06-22T11:27:34.435Z",
+      "mtime": "2018-05-24T11:14:58.448Z",
+      "ctime": "2018-05-24T11:15:00.246Z",
+      "birthtime": "2018-05-24T11:14:58.448Z"
+    },
+    "/Users/Robert/btb/static/img/;_files/saved_resource.html absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;_files/saved_resource.html absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "03978beee60f89c8c312480db5a083ff",
+        "mediaType": "text/html",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;_files/saved_resource.html",
+      "relativePath": ";_files/saved_resource.html",
+      "extension": "html",
+      "size": 1455,
+      "prettySize": "1.46 kB",
+      "modifiedTime": "2018-05-24T11:15:00.236Z",
+      "accessTime": "2018-06-22T11:27:34.435Z",
+      "changeTime": "2018-05-24T11:15:00.242Z",
+      "birthTime": "2018-05-24T11:15:00.233Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img/;_files",
+      "base": "saved_resource.html",
+      "ext": ".html",
+      "name": "saved_resource",
+      "relativeDirectory": ";_files",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060746,
+      "blocks": 8,
+      "atimeMs": 1529666854435.168,
+      "mtimeMs": 1527160500235.686,
+      "ctimeMs": 1527160500241.873,
+      "birthtimeMs": 1527160500232.9702,
+      "atime": "2018-06-22T11:27:34.435Z",
+      "mtime": "2018-05-24T11:15:00.236Z",
+      "ctime": "2018-05-24T11:15:00.242Z",
+      "birthtime": "2018-05-24T11:15:00.233Z"
     },
     "/Users/Robert/btb/static/img/;_files/xml.js absPath of file": {
       "id": "/Users/Robert/btb/static/img/;_files/xml.js absPath of file",
@@ -2996,7 +3369,7 @@
       "size": 12885,
       "prettySize": "12.9 kB",
       "modifiedTime": "2018-05-24T11:14:58.751Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.242Z",
       "birthTime": "2018-05-24T11:14:58.750Z",
       "root": "/",
@@ -3014,58 +3387,44 @@
       "blksize": 4194304,
       "ino": 8604060733,
       "blocks": 32,
-      "atimeMs": 1527685110972.5996,
+      "atimeMs": 1529666786051.188,
       "mtimeMs": 1527160498750.6587,
       "ctimeMs": 1527160500242.1665,
       "birthtimeMs": 1527160498750.4077,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:14:58.751Z",
       "ctime": "2018-05-24T11:15:00.242Z",
       "birthtime": "2018-05-24T11:14:58.750Z"
     },
-    "/Users/Robert/btb/static/img/;.html absPath of file": {
-      "id": "/Users/Robert/btb/static/img/;.html absPath of file",
+    "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp",
       "children": [],
-      "parent": "___SOURCE___",
+      "parent": "/Users/Robert/btb/static/img/jakimic.jpg absPath of file",
       "internal": {
-        "contentDigest": "b727b867b9dd3bd6e7a875682678143b",
-        "mediaType": "text/html",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/Robert/btb/static/img/;.html",
-      "relativePath": ";.html",
-      "extension": "html",
-      "size": 74594,
-      "prettySize": "74.6 kB",
-      "modifiedTime": "2018-05-24T11:15:00.239Z",
-      "accessTime": "2018-05-30T12:58:30.972Z",
-      "changeTime": "2018-05-24T11:15:01.338Z",
-      "birthTime": "2018-05-24T11:15:00.233Z",
-      "root": "/",
-      "dir": "/Users/Robert/btb/static/img",
-      "base": ";.html",
-      "ext": ".html",
-      "name": ";",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8604060745,
-      "blocks": 152,
-      "atimeMs": 1527685110972.492,
-      "mtimeMs": 1527160500239.006,
-      "ctimeMs": 1527160501338.281,
-      "birthtimeMs": 1527160500232.6814,
-      "atime": "2018-05-30T12:58:30.972Z",
-      "mtime": "2018-05-24T11:15:00.239Z",
-      "ctime": "2018-05-24T11:15:01.338Z",
-      "birthtime": "2018-05-24T11:15:00.233Z"
+        "contentDigest": "6d17d924781fb480f3c2dd0d02390783",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/btb/static/img/jitka.jpg absPath of file",
+      "internal": {
+        "contentDigest": "c90673b9c7eef68240e487a269dad80a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/Robert/btb/static/img/logo.png absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/btb/static/img/logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/btb/static/img/logo.png absPath of file",
+      "internal": {
+        "contentDigest": "a0fceb842f0da6a47a158cce1961e7b0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/Users/Robert/btb/static/img/marianna.jpg absPath of file >> ImageSharp": {
       "id": "/Users/Robert/btb/static/img/marianna.jpg absPath of file >> ImageSharp",
@@ -3097,6 +3456,50 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "/Users/Robert/btb/static/img/;.html absPath of file": {
+      "id": "/Users/Robert/btb/static/img/;.html absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b727b867b9dd3bd6e7a875682678143b",
+        "mediaType": "text/html",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/Robert/btb/static/img/;.html",
+      "relativePath": ";.html",
+      "extension": "html",
+      "size": 74594,
+      "prettySize": "74.6 kB",
+      "modifiedTime": "2018-05-24T11:15:00.239Z",
+      "accessTime": "2018-06-22T11:27:34.433Z",
+      "changeTime": "2018-05-24T11:15:01.338Z",
+      "birthTime": "2018-05-24T11:15:00.233Z",
+      "root": "/",
+      "dir": "/Users/Robert/btb/static/img",
+      "base": ";.html",
+      "ext": ".html",
+      "name": ";",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8604060745,
+      "blocks": 152,
+      "atimeMs": 1529666854432.7197,
+      "mtimeMs": 1527160500239.006,
+      "ctimeMs": 1527160501338.281,
+      "birthtimeMs": 1527160500232.6814,
+      "atime": "2018-06-22T11:27:34.433Z",
+      "mtime": "2018-05-24T11:15:00.239Z",
+      "ctime": "2018-05-24T11:15:01.338Z",
+      "birthtime": "2018-05-24T11:15:00.233Z"
+    },
     "/Users/Robert/btb/static/img/foto1.jpg absPath of file": {
       "id": "/Users/Robert/btb/static/img/foto1.jpg absPath of file",
       "children": [
@@ -3116,7 +3519,7 @@
       "size": 259703,
       "prettySize": "260 kB",
       "modifiedTime": "2018-05-16T22:24:45.640Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-16T22:24:45.680Z",
       "birthTime": "2018-05-14T18:51:30.000Z",
       "root": "/",
@@ -3134,14 +3537,24 @@
       "blksize": 4194304,
       "ino": 8603896752,
       "blocks": 512,
-      "atimeMs": 1527685110972.618,
+      "atimeMs": 1529666786027.3645,
       "mtimeMs": 1526509485639.742,
       "ctimeMs": 1526509485680.1526,
       "birthtimeMs": 1526323890000,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-16T22:24:45.640Z",
       "ctime": "2018-05-16T22:24:45.680Z",
       "birthtime": "2018-05-14T18:51:30.000Z"
+    },
+    "/Users/Robert/btb/static/img/foto1.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/Robert/btb/static/img/foto1.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/Robert/btb/static/img/foto1.jpg absPath of file",
+      "internal": {
+        "contentDigest": "1f1a1180a9637312f718c55e0df9ab46",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "/Users/Robert/btb/static/img/about.jpg absPath of file": {
       "id": "/Users/Robert/btb/static/img/about.jpg absPath of file",
@@ -3162,7 +3575,7 @@
       "size": 262303,
       "prettySize": "262 kB",
       "modifiedTime": "2018-05-30T13:03:13.767Z",
-      "accessTime": "2018-05-30T13:03:15.337Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-30T13:03:13.782Z",
       "birthTime": "2018-05-30T12:17:43.029Z",
       "root": "/",
@@ -3180,24 +3593,14 @@
       "blksize": 4194304,
       "ino": 8604329469,
       "blocks": 520,
-      "atimeMs": 1527685395337.1768,
+      "atimeMs": 1529666786027.2773,
       "mtimeMs": 1527685393767.289,
       "ctimeMs": 1527685393782.1235,
       "birthtimeMs": 1527682663028.6895,
-      "atime": "2018-05-30T13:03:15.337Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-30T13:03:13.767Z",
       "ctime": "2018-05-30T13:03:13.782Z",
       "birthtime": "2018-05-30T12:17:43.029Z"
-    },
-    "/Users/Robert/btb/static/img/foto1.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/Robert/btb/static/img/foto1.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/Robert/btb/static/img/foto1.jpg absPath of file",
-      "internal": {
-        "contentDigest": "1f1a1180a9637312f718c55e0df9ab46",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "/Users/Robert/btb/static/img/about.jpg absPath of file >> ImageSharp": {
       "id": "/Users/Robert/btb/static/img/about.jpg absPath of file >> ImageSharp",
@@ -3228,7 +3631,7 @@
       "size": 377882,
       "prettySize": "378 kB",
       "modifiedTime": "2018-05-16T22:24:28.250Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-16T22:24:28.335Z",
       "birthTime": "2018-05-14T18:51:30.000Z",
       "root": "/",
@@ -3246,11 +3649,11 @@
       "blksize": 4194304,
       "ino": 8603896726,
       "blocks": 744,
-      "atimeMs": 1527685110972.625,
+      "atimeMs": 1529666786027.4065,
       "mtimeMs": 1526509468250.4685,
       "ctimeMs": 1526509468334.5732,
       "birthtimeMs": 1526323890000,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-16T22:24:28.250Z",
       "ctime": "2018-05-16T22:24:28.335Z",
       "birthtime": "2018-05-14T18:51:30.000Z"
@@ -3282,7 +3685,7 @@
       "size": 1698339,
       "prettySize": "1.7 MB",
       "modifiedTime": "2018-05-24T11:15:00.218Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.051Z",
       "changeTime": "2018-05-24T11:15:00.242Z",
       "birthTime": "2018-05-24T11:14:59.716Z",
       "root": "/",
@@ -3300,11 +3703,11 @@
       "blksize": 4194304,
       "ino": 8604060743,
       "blocks": 3320,
-      "atimeMs": 1527685110972.5166,
+      "atimeMs": 1529666786050.986,
       "mtimeMs": 1527160500217.618,
       "ctimeMs": 1527160500242.4382,
       "birthtimeMs": 1527160499716.4229,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.051Z",
       "mtime": "2018-05-24T11:15:00.218Z",
       "ctime": "2018-05-24T11:15:00.242Z",
       "birthtime": "2018-05-24T11:14:59.716Z"
@@ -3328,7 +3731,7 @@
       "size": 3858117,
       "prettySize": "3.86 MB",
       "modifiedTime": "2018-05-18T14:02:51.806Z",
-      "accessTime": "2018-05-30T12:58:30.973Z",
+      "accessTime": "2018-06-22T11:26:26.027Z",
       "changeTime": "2018-05-18T14:02:51.850Z",
       "birthTime": "2018-05-18T14:02:43.623Z",
       "root": "/",
@@ -3346,11 +3749,11 @@
       "blksize": 4194304,
       "ino": 8603947063,
       "blocks": 7864,
-      "atimeMs": 1527685110972.6323,
+      "atimeMs": 1529666786027.4307,
       "mtimeMs": 1526652171806.0774,
       "ctimeMs": 1526652171849.6968,
       "birthtimeMs": 1526652163622.792,
-      "atime": "2018-05-30T12:58:30.973Z",
+      "atime": "2018-06-22T11:26:26.027Z",
       "mtime": "2018-05-18T14:02:51.806Z",
       "ctime": "2018-05-18T14:02:51.850Z",
       "birthtime": "2018-05-18T14:02:43.623Z"
@@ -3372,16 +3775,19 @@
       "path": "/404/",
       "component": "/Users/Robert/btb/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "context": {
+        "slug": "/404/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c61313489da10da7bb6ca9424145062d",
+        "contentDigest": "0d0480aecd991c83837811794a7cab28",
         "owner": "internal-data-bridge"
       }
     },
@@ -3392,16 +3798,42 @@
       "path": "/contact/",
       "component": "/Users/Robert/btb/src/pages/contact.js",
       "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "context": {
+        "slug": "/contact/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/contact.js",
       "id": "SitePage /contact/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "85b1d9e8b60918826cd9514744bbe267",
+        "contentDigest": "ef5fbdea8bbde30b3086393d7a2e4bad",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zh/contact/": {
+      "layout": "index",
+      "jsonName": "zh-contact.json",
+      "internalComponentName": "ComponentZhContact",
+      "path": "/zh/contact/",
+      "component": "/Users/Robert/btb/src/pages/contact.zh.js",
+      "componentChunkName": "component---src-pages-contact-zh-js",
+      "context": {
+        "slug": "/zh/contact/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
+      "componentPath": "/Users/Robert/btb/src/pages/contact.zh.js",
+      "id": "SitePage /zh/contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "411f81cb2ea6147872bd4e4d552db565",
         "owner": "internal-data-bridge"
       }
     },
@@ -3412,16 +3844,42 @@
       "path": "/",
       "component": "/Users/Robert/btb/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "context": {
+        "slug": "/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "942a04a948493c0f5b9035e2234529f7",
+        "contentDigest": "7d08e2a329e2a761e759a98251477171",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zh/": {
+      "layout": "index",
+      "jsonName": "zh.json",
+      "internalComponentName": "ComponentZh",
+      "path": "/zh/",
+      "component": "/Users/Robert/btb/src/pages/index.zh.js",
+      "componentChunkName": "component---src-pages-index-zh-js",
+      "context": {
+        "slug": "/zh/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
+      "componentPath": "/Users/Robert/btb/src/pages/index.zh.js",
+      "id": "SitePage /zh/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7c7340a5fb10420a919e749bca7837bd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3432,16 +3890,42 @@
       "path": "/reference/",
       "component": "/Users/Robert/btb/src/pages/reference.js",
       "componentChunkName": "component---src-pages-reference-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "context": {
+        "slug": "/reference/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/reference.js",
       "id": "SitePage /reference/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "597b8c94179e093cdf81c843aaf70f31",
+        "contentDigest": "0ca7f4b01a9b9bd4d825c1f9860d0008",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zh/reference/": {
+      "layout": "index",
+      "jsonName": "zh-reference.json",
+      "internalComponentName": "ComponentZhReference",
+      "path": "/zh/reference/",
+      "component": "/Users/Robert/btb/src/pages/reference.zh.js",
+      "componentChunkName": "component---src-pages-reference-zh-js",
+      "context": {
+        "slug": "/zh/reference/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
+      "componentPath": "/Users/Robert/btb/src/pages/reference.zh.js",
+      "id": "SitePage /zh/reference/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b8651a2d4e78f09ec483a41290df4614",
         "owner": "internal-data-bridge"
       }
     },
@@ -3452,16 +3936,42 @@
       "path": "/workflow/",
       "component": "/Users/Robert/btb/src/pages/workflow.js",
       "componentChunkName": "component---src-pages-workflow-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
+      "context": {
+        "slug": "/workflow/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/workflow.js",
       "id": "SitePage /workflow/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b951a1e07ec0e4f5ad5e2dcebad330a6",
+        "contentDigest": "a3fbcd39713ba06498dd543a72b9b8d3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /zh/workflow/": {
+      "layout": "index",
+      "jsonName": "zh-workflow.json",
+      "internalComponentName": "ComponentZhWorkflow",
+      "path": "/zh/workflow/",
+      "component": "/Users/Robert/btb/src/pages/workflow.zh.js",
+      "componentChunkName": "component---src-pages-workflow-zh-js",
+      "context": {
+        "slug": "/zh/workflow/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
+      "componentPath": "/Users/Robert/btb/src/pages/workflow.zh.js",
+      "id": "SitePage /zh/workflow/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7f8e5ef1629cbd74924c8e5c93945f0f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3472,23 +3982,63 @@
       "path": "/404.html",
       "component": "/Users/Robert/btb/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
+      "context": {
+        "slug": "/404/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "Plugin gatsby-plugin-i18n",
+      "pluginCreatorId": "Plugin gatsby-plugin-i18n",
       "componentPath": "/Users/Robert/btb/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "002daabd61df599ac8626f859950ee3a",
+        "contentDigest": "ef8ceb36c4f1877f53d64e5d364ece2e",
         "owner": "internal-data-bridge"
       }
+    },
+    "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file",
+      "internal": {
+        "content": "---\ntemplateKey: frontpagezh\nname: 愿景 策略 可见性\ntagline: 帮助您的品牌引领欧洲和中国市场\nimage: /img/frontpage.png\nbelieveName: '我们相信品牌具有…'\nbelieve:\n- 卓越性\n- 产生共鸣的使命、感受和故事\n- 以清晰、简单的方式追踪并优化所有营销活动中的数字和社会呈现力\n- 定义明确的关键绩效指标（KPI），创建资源并把资金用在刀刃上\nhighlightsName: '我们能帮您…'\nhighlights:\n- 实施全渠道营销战略\n- 拓展业务\n- 创建和执行事件\n- 为社交媒体提供内容生产\n- 建立与关键意见领袖的伙伴关系\n---\n![](/img/about.jpg)\n\n##Marketa Hamadakova##\n\n互信，共同目标和价值观是工作的核心和灵魂。我坚信人与人之间的联系和情感的重要性\n\n我对品牌形象开发和管理的热情与我在营销、奢侈品零售和电子零售业中的经验齐头并进。我热衷于以策略和愿景的方式打造品牌并发掘其更多的潜能来吸引消费者。\n\n通过在大型国际和本地公司中的不同职位上从事各种项目，与有启发性的个人合作，我不断地打造我的专长。在雅诗兰黛、欧莱雅、拉斯维特（Lasvit）和布拉格时装周的工作经历让我对品牌有了更深刻的了解，也让我对奢侈品、美容和生活方式领域更加熟悉。\n\n凭借着对欧洲顶级品牌（包括数字和零售）的深刻了解和背景知识，在从布拉格移居北京之后，我开始了自己的营销和业务发展咨询。\n\n搬到中国以来，我已经建立了一个有关本土品牌、关键意见领袖和投资界的强大网络。这就是我创立的公司不仅能够为国内公司而且也能为打算进入世界最大市场的欧洲品牌创造价值的原因。",
+        "contentDigest": "9c2a7945a34272cbcba65c480fd59ec4",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "templateKey": "frontpagezh",
+        "name": "愿景 策略 可见性",
+        "tagline": "帮助您的品牌引领欧洲和中国市场",
+        "image": "../../../static/img/frontpage.png",
+        "believeName": "我们相信品牌具有…",
+        "believe": [
+          "卓越性",
+          "产生共鸣的使命、感受和故事",
+          "以清晰、简单的方式追踪并优化所有营销活动中的数字和社会呈现力",
+          "定义明确的关键绩效指标（KPI），创建资源并把资金用在刀刃上"
+        ],
+        "highlightsName": "我们能帮您…",
+        "highlights": [
+          "实施全渠道营销战略",
+          "拓展业务",
+          "创建和执行事件",
+          "为社交媒体提供内容生产",
+          "建立与关键意见领袖的伙伴关系"
+        ],
+        "_PARENT": "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file",
+        "parent": "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/Robert/btb/src/data/pages/frontpage.zh.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "fdce833ef880a974971da13e74c75d58"
+    "PLUGINS_HASH": "41ffedfd42755cd67f763cb723f970c7"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -3497,35 +4047,50 @@
       ],
       "/Users/Robert/btb/static/img/frontpage.png absPath of file": [
         "/",
-        "/reference/"
+        "/zh/",
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/frontpage.png absPath of file >> ImageSharp": [
         "/",
-        "/reference/"
+        "/zh/",
+        "/reference/",
+        "/zh/reference/"
+      ],
+      "/Users/Robert/btb/src/data/pages/frontpage.zh.md absPath of file >>> MarkdownRemark": [
+        "/zh/"
       ],
       "/Users/Robert/btb/static/img/smejc.jpg absPath of file": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/smejc.jpg absPath of file >> ImageSharp": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/jakimic.jpg absPath of file": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/jakimic.jpg absPath of file >> ImageSharp": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/marianna.jpg absPath of file": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/marianna.jpg absPath of file >> ImageSharp": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/jitka.jpg absPath of file": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ],
       "/Users/Robert/btb/static/img/jitka.jpg absPath of file >> ImageSharp": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ]
     },
     "connections": {
@@ -3533,7 +4098,8 @@
         "/dev-404-page/"
       ],
       "MarkdownRemark": [
-        "/reference/"
+        "/reference/",
+        "/zh/reference/"
       ]
     }
   }

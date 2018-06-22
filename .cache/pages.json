@@ -21,11 +21,25 @@
         "path": "/contact/"
     },
     {
+        "componentChunkName": "component---src-pages-contact-zh-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "zh-contact.json",
+        "path": "/zh/contact/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-zh-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "zh.json",
+        "path": "/zh/"
     },
     {
         "componentChunkName": "component---src-pages-reference-js",
@@ -35,11 +49,25 @@
         "path": "/reference/"
     },
     {
+        "componentChunkName": "component---src-pages-reference-zh-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "zh-reference.json",
+        "path": "/zh/reference/"
+    },
+    {
         "componentChunkName": "component---src-pages-workflow-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "workflow.json",
         "path": "/workflow/"
+    },
+    {
+        "componentChunkName": "component---src-pages-workflow-zh-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "zh-workflow.json",
+        "path": "/zh/workflow/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

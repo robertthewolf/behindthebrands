@@ -5,13 +5,13 @@ import Helmet from 'react-helmet'
 import Navbar from '../components/Navbar'
 import './all.sass'
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({ location, children }) => (
   <div>
     <Helmet defaultTitle={`Behind The Brands`} titleTemplate={`%s | Behind The Brands`}>
       <html lang="en" />
       <meta name="description" content="" />
     </Helmet>
-    <Navbar />
+    <Navbar zh={location.pathname.includes('/zh')} location={location}/>
     {children()}
   </div>
 )

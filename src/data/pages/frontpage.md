@@ -3,6 +3,13 @@ templateKey: frontpage
 name: Vision Strategy Visibility
 tagline: helping your brand lead and not follow in Europe and China.
 image: /img/frontpage.png
+believeName: 'We believe in brands with...'
+believe:
+- DISTINCTIONS
+- MISSION, FEELINGS and STORY that resonate with people.
+- EDIGITAL AND SOCIAL PRESENCE with a clear and easy way to TRACE & OPTIMIZE all marketing activities.
+- well-defined KPIs that CREATE RESOURCES and not burn them.
+highlightsName: 'We can help you with...'
 highlights:
 - OMNI-CHANNEL MARKETING strategy
 - business EXPANSION

@@ -73,8 +73,6 @@ query refQuery {
             }
           }
           position
-          company
-          description
           logo
         }
       }

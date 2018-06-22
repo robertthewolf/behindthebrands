@@ -4,25 +4,28 @@ import styled from 'styled-components'
 
 import logo from '../img/logo.svg'
 
-const Navbar = () => (
+const Navbar = ({ zh, location }) => (
   <Header>
       <Logo>
-        <Link to="/">
+        <Link to={`${zh ? '/zh' : ''}/`}>
             <img src={logo} alt="Kaldi" />
         </Link>
       </Logo>
       <Nav>
         <div>
-        <Link activeClassName="active" to="/workflow">
-          Workflow
+        <Link activeClassName="active" to={`${zh ? '/zh' : ''}/workflow`}>
+          {zh ? '工作流程' : 'Workflow'}
         </Link>
         </div>
         <div>
-        <Link activeClassName="active" to="/reference">
-          References
+        <Link activeClassName="active" to={`${zh ? '/zh' : ''}/reference`}>
+          {zh ? 'VIP推荐' : 'References'}
         </Link>
-        <Link activeClassName="active" to="/contact">
-          Contact
+        <Link activeClassName="active" to={`${zh ? '/zh' : ''}/contact`}>
+          {zh ? '联系方式' : 'Contact'}
+        </Link>
+        <Link to={zh ? location.pathname.replace('/zh', '') : `/zh${location.pathname}`}>
+          {zh ? 'EN' : '中国'}
         </Link>
         </div>
       </Nav>

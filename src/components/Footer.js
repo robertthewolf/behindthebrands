@@ -2,15 +2,16 @@ import React from 'react'
 import styled from 'styled-components'
 import Link from 'gatsby-link'
 
-const Footer = () => (
+const Footer = ({ zh }) => (
   <Container>
       <Message>
           <Link to="/contact">
-          CONTACT US NOW.
+          {zh? '立即联系我们' : 'CONTACT US NOW.'}
           </Link>
       </Message>
       <Message>
-        {(new Date()).getFullYear()} © designed & developed by <a href="http://robertwolf.cz/" target="_blank">Robert Wolf</a>
+        {(new Date()).getFullYear()} © 
+        <span  dangerouslySetInnerHTML={{__html:  + zh ? ` <a href="http://robertwolf.cz/" target="_blank">由罗伯特·沃尔夫</a>设计开发` : ` designed & developed by <a href="http://robertwolf.cz/" target="_blank">Robert Wolf</a>`}}></span>
       </Message>
   </Container>
 )

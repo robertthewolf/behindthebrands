@@ -59,21 +59,32 @@ export default class IndexPage extends React.Component {
 
             <Container background="#FFFCF7">
               <Column>
-                <Believe>We believe in brands with...</Believe>
+                <Believe>{post.frontmatter.believeName}</Believe>
               </Column>
               <Column>
                 <Values>
-                  <Value><em>DISTINCTIONS</em></Value>
-                  <Value><em>MISSION</em>, <em>FEELINGS</em> and <em>STORY</em> that resonate with people. </Value>
-                  <Value><em>DIGITAL AND SOCIAL PRESENCE</em> with a clear and easy way to <em>TRACE & OPTIMIZE</em> all marketing activities.</Value>
-                  <Value>well-defined <em>KPIs</em> that <em>CREATE RESOURCES</em> and not burn them.</Value>
+                {post.frontmatter.believe.map((text) => {
+                  const prepended = ' '+ text;
+                  const uppercased = prepended.split(' ').reduce((result, word) => {
+                    if (word == word.toUpperCase()) {
+                      console.log(word);
+                      return result + ' <em>' + word + '</em>';
+                    } else {
+                      console.log(word);
+                      return result + ' ' + word;
+                    }
+                  })
+
+                  return (
+                  <Value key={text.id} dangerouslySetInnerHTML={{__html: uppercased}}></Value>
+                )})}
                 </Values>
               </Column>
             </Container>
             <Profile dangerouslySetInnerHTML={{ __html: post.html }} />
             <Container background="#FFFCF7">
               <Column>
-                <Believe>We can help you with...</Believe>
+                <Believe>{post.frontmatter.highlightsName}</Believe>
               </Column>
               <Column>
                 <Values>
@@ -124,6 +135,9 @@ query frontpageQuery {
         }
       }
       tagline
+      believeName
+      believe
+      highlightsName
       highlights
     }
   }
