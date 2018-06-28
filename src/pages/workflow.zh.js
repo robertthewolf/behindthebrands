@@ -32,7 +32,7 @@ export default class IndexPage extends React.Component {
       <Wrapper>
         <Background background={background} />
             <Heading>工作流程</Heading>
-            <Subheading><em>我们提供个性化的、量身定制的营销和业务拓展。</em>您的愿景将转化为全渠道，“数字优先”战略会让您的品牌更具个性。我们的成果是有形的、真实的、始终可见的。</Subheading>
+            <Subheading><em>我们的成果有形、真实并且始终可见。</em>您的愿景将转化为全渠道，“数字优先”战略会让您的品牌更具个性。我们的成果是有形的、真实的、始终可见的。</Subheading>
             <Box>
                 <p>品牌形象开发是一个令人兴奋的创新过程，是一个始终需要沟通的协作过程。我们愿与我们客户全心全意地分享——拥有共同的目标和价值观。</p>
             </Box>
